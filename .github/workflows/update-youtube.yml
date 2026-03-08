@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-videos:
+   update-videos:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
