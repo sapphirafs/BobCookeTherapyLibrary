@@ -1,0 +1,57 @@
+.video-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  width: 100%;
+  max-width: 380px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.video-card .thumbnail {
+  position: relative;
+  cursor: pointer;
+}
+
+.video-card .thumbnail img {
+  width: 100%;
+  border-radius: 5px;
+  max-height: 220px;
+  object-fit: cover;
+}
+
+.video-card .thumbnail .play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 32px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.video-card button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #4A90E2;
+  background-color: white;
+  color: #4A90E2;
+}
+
+.video-card button.active {
+  background-color: #4A90E2;
+  color: white;
+}
+
+.video-card .description {
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 1.4;
+  white-space: pre-wrap;
+}

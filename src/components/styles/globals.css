@@ -1,0 +1,24 @@
+.page {
+  padding: 24px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  padding: 16px;
+  border: 1px solid #ddd;
+}
+
+.search {
+  padding: 8px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.pagination button.active {
+  font-weight: bold;
+}
