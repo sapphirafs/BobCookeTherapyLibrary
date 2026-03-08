@@ -1,16 +1,11 @@
 import React from "react";
-import  {podcasts}  from "../../data/podcasts";
-import { PodcastCard } from "../../components/PodcastCard";
+import { PodcastList } from "../../components/PodcastList";
 
 export const Podcasts: React.FC = () => {
-  if (podcasts.length === 0) return <p>No podcasts available.</p>;
-
   return (
-    <div style={{padding: "20px"}}>
-      <h2>All Podcasts</h2>
-      {podcasts.map(p => (
-        <PodcastCard key={p.id} podcast={p} />
-      ))}
+    <div className="page">
+      <h1>Podcasts</h1>
+      <PodcastList />
     </div>
   );
 };

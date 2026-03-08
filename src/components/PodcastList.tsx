@@ -13,8 +13,8 @@ export const PodcastList: React.FC = () => {
   const filteredPodcasts = useMemo(() => {
     return podcasts.filter(
       p =>
-        p.title.toLowerCase().includes(query.toLowerCase()) ||
-        p.description.toLowerCase().includes(query.toLowerCase())
+        p.title.toLowerCase().includes(query.toLowerCase())
+        
     );
   }, [query]);
 
@@ -26,10 +26,24 @@ export const PodcastList: React.FC = () => {
   React.useEffect(() => setPage(1), [query]);
 
   return (
-    <div>
-      <SearchBar query={query} setQuery={setQuery} placeholder="Search podcasts..." />
-      {currentPodcasts.map(p => <PodcastCard key={p.id} podcast={p} />)}
-      <Pagination currentPage={page} totalPages={totalPages} setPage={setPage} />
+  <div>
+    <SearchBar query={query} setQuery={setQuery} placeholder="Search podcasts..." />
+
+    <div style={{
+      display: "flex",
+      flexWrap: "wrap",
+      gap: "16px"
+    }}>
+      {currentPodcasts.map(p => (
+        <PodcastCard key={p.id} podcast={p} />
+      ))}
     </div>
-  );
+
+    <Pagination
+      currentPage={page}
+      totalPages={totalPages}
+      setPage={setPage}
+    />
+  </div>
+);
 };

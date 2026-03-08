@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
     }}>
       <h1 style={{margin: 0}}>Bob Cooke: Therapy Library</h1>
       <nav>
-        <a href="/" style={{color: "white", marginRight: "15px"}}>Home</a>
+        <a href="/" style={{color: "white", marginRight: "15px"}}>Videos</a>
         <a href="/podcasts" style={{color: "white", marginRight: "15px"}}>Podcasts</a>
         <a href="https://www.mcpt.co.uk" target="_blank" rel="noopener noreferrer" style={{color: "white", marginRight: "15px"}}>MCPT</a>
         <a href="https://www.psychotherapysupervision.net" target="_blank" rel="noopener noreferrer" style={{color: "white", marginRight: "15px"}}>Supervision</a>

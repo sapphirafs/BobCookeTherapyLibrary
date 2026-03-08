@@ -45,7 +45,8 @@ export const VideoCard: React.FC<VideoCardProps> = ({ video }) => {
       border: "1px solid #ccc",
       borderRadius: "8px",
       padding: "10px",
-      width: "300px",
+      width: "100%",
+maxWidth: "360px",
       margin: "10px",
       display: "flex",
       flexDirection: "column",
@@ -86,9 +87,11 @@ export const VideoCard: React.FC<VideoCardProps> = ({ video }) => {
         marginTop: "10px",
         fontSize: "13px",
         overflow: "hidden",
-        maxHeight: "60px"
+        maxHeight: "60px",
+        width: "100%",
+maxWidth: "360px"
       }}>
-        {video.description}
+        {video.description?.slice(0, 120)}...
       </div>
 
       <a href={video.url} target="_blank" rel="noopener noreferrer" style={{ marginTop: "5px", fontSize: "13px", color: "#4A90E2" }}>
