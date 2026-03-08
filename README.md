@@ -1,4 +1,4 @@
-# Therapy Videos Project - AI Agent Instructions
+# Therapy Videos Project 
 
 ## Project Overview
 A React/TypeScript + Vite web application showcasing psychotherapy content. Displays videos and podcasts from YouTube in a searchable, paginated interface with an admin panel. Data is fetched from YouTube channels/playlists via RSS feeds and stored as static TypeScript exports.
