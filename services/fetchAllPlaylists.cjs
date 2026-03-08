@@ -1,7 +1,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch"); // npm install node-fetch@2
 
-const API_KEY = process.env.YOUTUBE_API_KEY          // Replace with your key
+const API_KEY = process.env.YOUTUBE_API_KEY;          // Replace with your key
 const PLAYLISTS = [
   { id: "PLD3GE-eEZ8mnp4JT2FPdaeQeByNoemMFp", category: "Conferences", playlist: "Manchester Supervision Conference 2024" },
 
