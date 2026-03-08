@@ -2,7 +2,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch"); // npm install node-fetch@2
 
-const API_KEY = process.env.YOUTUBE_API_KEY
+const API_KEY = process.env.YOUTUBE_API_KEY;
 const PLAYLIST_ID = "PLD3GE-eEZ8mneACdU0SaH40NS4I_JbeWw";
 
 const videos = [];
