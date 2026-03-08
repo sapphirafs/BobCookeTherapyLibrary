@@ -1,1 +1,43 @@
+name: Update YouTube Content
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repo
+        uses: actions/checkout@v3
+
+      - name: Install Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install packages
+        run: npm install
+
+      - name: Run video fetch script
+        run: node services/fetchAllPlaylists.cjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      - name: Run podcast fetch script
+        run: node services/fetchPodcasts.cjs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      - name: Commit new data
+        run: |
+          git config --global user.name "youtube-bot"
+          git config --global user.email "bot@github.com"
+
+          git add src/data
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update videos"
+
+          git push
