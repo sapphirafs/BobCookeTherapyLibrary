@@ -58,7 +58,9 @@ maxWidth: "360px",
 
       {!play ? (
         <div style={{ cursor: "pointer", position: "relative" }} onClick={() => setPlay(true)}>
-          <img src={thumbnail} alt={video.title} style={{ width: "100%", borderRadius: "5px" }} />
+          <img src={thumbnail} alt={video.title} style={{ width: "100%", borderRadius: "5px" }} onError={(e) => {
+    e.currentTarget.src = "/fallback-thumbnail.png"
+  }} />
           <span style={{
             position: "absolute",
             top: "50%",
