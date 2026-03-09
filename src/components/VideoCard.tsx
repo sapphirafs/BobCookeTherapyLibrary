@@ -79,6 +79,7 @@ maxWidth: "360px",
           title={video.title}
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
           style={{ borderRadius: "5px" }}
         />
