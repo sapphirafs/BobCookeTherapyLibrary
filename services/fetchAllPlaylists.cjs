@@ -33,7 +33,7 @@ const PLAYLISTS = [
 
   { id: "PLD3GE-eEZ8mlWfrbu0hnzP6Ekb_g2OoF_", category: "Book Reviews", playlist: "Book Reviews" },
 
-  { id: "PLD3GE-eEZ8mnHLUZ3AfM1wVvL577i7gN3", category: "Supervision Videos", playlist: "Seven Eyed Model of Supervision" },
+  { id: "PLD3GE-eEZ8mnHLUZ3AfM1wVvL577i7gN3", category: "Supervision", playlist: "Seven Eyed Model of Supervision" },
 
   { id: "PLD3GE-eEZ8mn3NTSz_OKlQi14haZQ1euj", category: "Meet the Team", playlist: "Manchester Institute for Psychotherapy - Who we are" },
 
