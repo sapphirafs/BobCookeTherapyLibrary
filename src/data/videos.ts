@@ -55,28 +55,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "jJktm8hzoxs",
-    "title": "Manchester Supervision Conference",
-    "description": "MIP SUPERVISION CONFERENCE\n\n“SUPERVISION – PAST, PRESENT AND FUTURE”\nON SATURDAY, 27TH APRIL 2024\nVenue: The Life Centre, Sale, Manchester.\n\nFollowing the success of our last Supervision Conference, MIP will be holding its Second Annual Supervision Conference. There will be a series of morning and afternoon workshops in the area of supervision, past, present and future.  The Keynote Speaker is Robin Hobbes.\n\nThe conference will be opened by Bob Cooke, TSTA (UKCP) and Founder of the Manchester Institute for Psychotherapy.\n\nFor more details and to see the workshops please see the Supervision Conference website: https://supervisionconferences.co.uk",
-    "url": "https://www.youtube.com/watch?v=jJktm8hzoxs",
-    "category": "Conferences",
-    "playlist": "Manchester Supervision Conference 2024",
-    "publishedAt": "2024-01-17T21:13:00Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Y9ynZ3UKbdQ",
-    "title": "3 Day Therapy Conference",
-    "description": "Three day psychotherapy conference- 36 therapy workshops on \"Empowerment- Empathy - Self Agency- Within the Therapeutic Relationship\"\nFeaturing Keynote Speakers Dr. Richard Erskine, Dr. Ruth Birkebaek and Sally Openshaw\nSocial Evening on Friday and Gala Dinner on Saturday \n\nTickets available \nhttps://manchestertherapyconference.co.uk/",
-    "url": "https://www.youtube.com/watch?v=Y9ynZ3UKbdQ",
-    "category": "Conferences",
-    "playlist": "MIP Therapy Conference 2024",
-    "publishedAt": "2024-01-17T21:02:37Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "HxZU1eLYcOQ",
     "title": "Book Review #93 - The Art of the First Session by Robert Taibbi",
     "description": "Bob Cooke reviews the book The Art of the First Session: Making Psychotherapy Count from the Start by Robert Taibbi \n\nThe average client today only comes to therapy five to eight times, and many only come once, so it is increasingly important, therefore, for therapists to achieve first-session success. \n\nTherapeutic skills and sales and marketing savvy are equally important to this task. \n\nIn the first sixty minutes, clinicians must build trust, communicate what they have to offer, and ensure that the client feels different when they walk out than they did walking in. \n\nShort, practical, and applicable to all therapeutic modalities, this book walks readers through all the first-session essentials, including preparation for the first session, action-steps for each stage of the session, techniques for changing the emotional climate, and \"closing the deal,\" to make sure that clients come back for more. \n\nPacked with case examples, vignettes, tools, and techniques, The Art of the First Session prepares clinicians with critical skills to cut through performance anxiety, feel and convey confidence with clients, and hit the ground running in therapy with new clients.\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
@@ -198,17 +176,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "8mnm17MqFqw",
-    "title": "Mick Cooper's  - Keynote Speech at the Manchester Institute for Psychotherapy  Conference  2019",
-    "description": "Professor Mick Cooper discusses the topic of Relational Depth - Visit our website at http://www.mcpt.co.uk for information on psychotherapy and training courses.",
-    "url": "https://www.youtube.com/watch?v=8mnm17MqFqw",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-11-23T21:26:57Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "_OZ3TRxmguI",
     "title": "Richard Erskine's  - Keynote Speech at the Manchester Institute for Psychotherapy  Conference  2019",
     "description": "Legendary psychotherapist Richard Erskine discusses the topic of Compassion, Hope & Forgiveness - Visit our website at http://www.mcpt.co.uk for information on psychotherapy and training courses.",
@@ -216,17 +183,6 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-11-21T10:05:29Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "_OZ3TRxmguI",
-    "title": "Richard Erskine's  - Keynote Speech at the Manchester Institute for Psychotherapy  Conference  2019",
-    "description": "Legendary psychotherapist Richard Erskine discusses the topic of Compassion, Hope & Forgiveness - Visit our website at http://www.mcpt.co.uk for information on psychotherapy and training courses.",
-    "url": "https://www.youtube.com/watch?v=_OZ3TRxmguI",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-11-15T23:17:03Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -275,39 +231,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "2XJpAHLPlPY",
-    "title": "Conference Presenter - Lydia Noor - Therapeutic Wellbeing Practice",
-    "description": "Lydia Noor discusses her Presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk",
-    "url": "https://www.youtube.com/watch?v=2XJpAHLPlPY",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-10-24T20:40:13Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "mUKEtWKEseg",
-    "title": "Conference Presenter - Linda Finlay - The Challenge of Relational Ethics",
-    "description": "Linda Finlay  discusses her Presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk",
-    "url": "https://www.youtube.com/watch?v=mUKEtWKEseg",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-10-24T20:20:31Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "OzWWMnZoPj8",
-    "title": "Conference Presenter - Steff Cooke - Compassion in Psychotherapy",
-    "description": "Steff Cooke discusses her Presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk",
-    "url": "https://www.youtube.com/watch?v=OzWWMnZoPj8",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-10-24T20:07:13Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "0K7KyXIWZ80",
     "title": "Transactional Analysis Psychotherapy--Free Child Ego state",
     "description": "In this video I am working with a client around Procrastination. In Transactional Analysis terms, i use the Free Child Ego state - in a attempt to move from a \"Impasse\" place in the Therapy process. With this awareness Roweena makes connections with her struggles in the Therapy session and outside it!",
@@ -352,17 +275,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "I463IIEg0s0",
-    "title": "Conference Presenter -  Marilyn Wright .- Impact of abuse on attachment.",
-    "description": "Marilyn Wright discusses her  Presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk/sunday-workshops/",
-    "url": "https://www.youtube.com/watch?v=I463IIEg0s0",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-09-30T19:23:37Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "RKZ_X9th4JU",
     "title": "Second-order structural analysis - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Second-order structural analysis  - Visit our website  http://www.mcpt.co.uk",
@@ -381,50 +293,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-09-28T18:42:37Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "9_-tNypAP54",
-    "title": "Conference Presenter  - Susie Hewitt -  Strokes Hungers and Weight",
-    "description": "Susie Hewitt  discusses her  presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk/",
-    "url": "https://www.youtube.com/watch?v=9_-tNypAP54",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-09-27T21:09:07Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "o7wKjJxL17Q",
-    "title": "Conference Presenter -  Kate Graham .- Working with refugees and asylum seekers",
-    "description": "Kate Graham discusses her  presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk/",
-    "url": "https://www.youtube.com/watch?v=o7wKjJxL17Q",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-09-27T21:05:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "bZuIAPQQNpY",
-    "title": "Conference presenter  -Kate Brown - Hope in the transference",
-    "description": "Kate Brown discusses her  Presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk/sunday-workshops/",
-    "url": "https://www.youtube.com/watch?v=bZuIAPQQNpY",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-09-18T14:32:21Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "XAxhk5pHkqY",
-    "title": "Conference Presenters -`Barbara and Marjan Zupančič - Creative adventure of exploring new paths!",
-    "description": "Barbara Repinc Zupančič and Marjan Zupančič discuss their presentation at The Manchester Institute For Psychotherapy Conference 2019 more details here https://manchestertherapyconference.co.uk/friday-workshops/et`s go to the creative adventure of",
-    "url": "https://www.youtube.com/watch?v=XAxhk5pHkqY",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-09-18T14:28:38Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -480,28 +348,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-08-13T09:07:16Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "7yNK6Pxtm1o",
-    "title": "Conference presenter -  Melita Košak - self care and compassion",
-    "description": "Melita Kosak discusses her workshop on self-care and compassion will be delivering at the Manchester Institute for psychotherapy conference 15-17th of November 2019\n \nDetails Below -\nFind out more https://manchestertherapyconference.co.uk/\nBook Tickets https://www.eventbrite.com/e/psychotherapy-conference-tickets-52087231311\nManchester Institute for Psychotherapy https://mcpt.co.uk/\nPresenters website https://www.ipsa.si/sl/teacher/melita-kosak/",
-    "url": "https://www.youtube.com/watch?v=7yNK6Pxtm1o",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-07-28T09:09:12Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "03zAUyCe8pY",
-    "title": "Conference presenter - Mick Cooper - Relational Depth",
-    "description": "Professor Mick Cooper discusses his Keynote speech on Relational Depth.which he will be delivering at the Manchester Institute for psychotherapy conference 15-17th of November 2019\n \nDetails Below -\nFind out more https://manchestertherapyconference.co.uk/\nBook Tickets https://www.eventbrite.com/e/psychotherapy-conference-tickets-52087231311\nManchester Institute for Psychotherapy https://mcpt.co.uk/\nPresenters website https://mick-cooper.squarespace.com/resenters website https://mick-cooper.squarespace.com/",
-    "url": "https://www.youtube.com/watch?v=03zAUyCe8pY",
-    "category": "Conferences",
-    "playlist": "2019 Conference Presenters",
-    "publishedAt": "2019-07-28T09:01:17Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1133,39 +979,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "ZotcAAL1Nao",
-    "title": "MIP and UKCP requirements for professional registration",
-    "description": "This video  is imprtant for anyone whishing to register to be a UKCP registered Psychottherapist in UK via MIP",
-    "url": "https://www.youtube.com/watch?v=ZotcAAL1Nao",
-    "category": "Other Content",
-    "playlist": "UKCP",
-    "publishedAt": "2018-10-21T10:50:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Du5fwcMAA8Q",
-    "title": "UKCP overall reqirements",
-    "description": "Requirements for UKCP /MIP registration",
-    "url": "https://www.youtube.com/watch?v=Du5fwcMAA8Q",
-    "category": "Other Content",
-    "playlist": "UKCP",
-    "publishedAt": "2018-10-21T10:49:13Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "u35lS6EchmU",
-    "title": "UKCP Recording",
-    "description": "Description of preperation of UKCP tape for registration purposes",
-    "url": "https://www.youtube.com/watch?v=u35lS6EchmU",
-    "category": "Other Content",
-    "playlist": "UKCP",
-    "publishedAt": "2018-10-21T10:48:50Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "c5LV_OENF4s",
     "title": "Counselling For Toads - Book Review  61",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Counselling for Toad By Robert de Board more details of this audio book click here https://www.audible.co.uk/pd/Counselling-for-Toads-Audiobook/B008DHDY8W?source_code=M2M14DFT1BkSH082015011R",
@@ -1309,17 +1122,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "kcw6s17t298",
-    "title": "A relational approach to Clinical Supervision | Professor Maria Gilbert",
-    "description": "Professor Maria Gilbert explains the importance of taking on a relational approach to Clinical Supervision when stimulating curiosity.\n\nTaken from our 'Advances in Relational Psychotherapy' Online Module\n🇺🇸https://conta.cc/3ncqZJ1\n🇬🇧https://conta.cc/3tJWhte\n\nThe vast influence of Relational Psychoanalysis in the last 25 years has evolved into one of the most significant paradigm shifts in the field, impacting on almost every psychotherapy modality. This package offers a set of videoed talks on relational theory and practice, presented by some of most influential author-practitioners, and is designed to illustrate relational theory as it is applied to clinical technique.\n\nThe talks also cover the historical development of that thinking and an elaboration of key concepts: inter-subjectivity, the mutual influence of the two subjects in the process, the ‘Third’, enactment, rupture and repair, the therapist’s relational history, and the patient’s capacity to make a healing contribution to the process. Combined with study-guides, research links, transcriptions and captions, the module provides a sophisticated, layered and comprehensive exploration of the subject for practitioners of all levels of clinical experience.\n\nMaria Gilbert is a UKCP registered Integrative Psychotherapist, a Registered Clinical Psychologist (HPC), an APECS Accredited Executive Coach and a BACP accredited supervisor. She is currently Joint Head of the Integrative Department at Metanoia Institute in West London where she is the programme leader of the MSc in Integrative Psychotherapy and of the MA/MSc in Coaching Psychology.\n\nFind the full Online Module for 20.5 hours fo CE/CPD\n🇺🇸https://conta.cc/3ncqZJ1\n🇬🇧https://conta.cc/3tJWhte\n\n#relational #psychotherapy #confer #maria #gilbert",
-    "url": "https://www.youtube.com/watch?v=kcw6s17t298",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-28T07:30:45Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "awe7G-n52NY",
     "title": "Games - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Games in  Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
@@ -1342,17 +1144,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "IQBLDfSU2-E",
-    "title": "MI Healthy Mind S04E01 Coming Face to Face with Dissociative Identity Disorder",
-    "description": "Stigma is an issue facing all mental health issues and hinders far too many of us from seeking the help we need to establish mental wellbeing. For those of us living with DID that stigma is all the greater because of how Multiple Personality Disorder is portrayed in movies and because of the taboo subject of child abuse which is often a trigger for the development of DID. \n“People don’t know what to do. They don’t know what to say. They don’t know how to talk to someone who’s had that much trauma.” In this episode Sarah Desjardins explains how her appalling childhood abuse led to DID and how she has learned to live with a mental health issue that is often mocked in popular culture and widely misunderstood in our society.",
-    "url": "https://www.youtube.com/watch?v=IQBLDfSU2-E",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-16T06:14:19Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "0yumolWLcsI",
     "title": "Trainer - Janet Fengeros",
     "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
@@ -1360,39 +1151,6 @@ export const videos = [
     "category": "Meet the Team",
     "playlist": "Meet the trainers",
     "publishedAt": "2018-06-15T21:13:50Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "NBO38HqQTgI",
-    "title": "Dr. Eric Berne - Games People Play - The Practice Part 1",
-    "description": "From a 1966 NET Science broadcast special on Dr. Eric Berne's wildly successful book Games People Play.  The author interviews Dr. Berne at his home in Carmel where Dr. Berne explains the theory behind Transactional Analysis.  One of few videos with sound of the genius Dr. Berne before his untimely dealth in 1970.",
-    "url": "https://www.youtube.com/watch?v=NBO38HqQTgI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-09T11:17:28Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "sDOGhI2OKd8",
-    "title": "Dr. Eric Berne - Games People Play - The Theory Part 2",
-    "description": "From a 1966 NET Science broadcast special on Dr. Eric Berne's wildly successful book Games People Play.  The author interviews Dr. Berne at his home in Carmel where Dr. Berne explains the theory behind Transactional Analysis.  One of few videos with sound of the genius Dr. Berne before his untimely dealth in 1970.",
-    "url": "https://www.youtube.com/watch?v=sDOGhI2OKd8",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-09T11:15:19Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "UwkDASzw_Zs",
-    "title": "Dr. Eric Berne - Games People Play - The Practice Part 2",
-    "description": "From a 1966 NET Science broadcast special on Dr. Eric Berne's wildly successful book Games People Play.  The author interviews Dr. Berne at his home in Carmel where Dr. Berne explains the theory behind Transactional Analysis.  One of few videos with sound of the genius Dr. Berne before his untimely dealth in 1970.",
-    "url": "https://www.youtube.com/watch?v=UwkDASzw_Zs",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-09T11:14:16Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1426,28 +1184,6 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "Applied Skills in TA",
     "publishedAt": "2018-06-03T10:29:39Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "71CpRb0Iihc",
-    "title": "Working Relationally in TA - Corrie Van Halm",
-    "description": "Corrie has very generously agreed to spend some time with us thinking about her professional journey, she notices her original training as a Transactional Analyst and her move over her career to an approach that reflects her deep commitment to the therapeutic relationship and a relational approach to TA.\n\nAbout Corrie Van Halm BA, MSc., PTSTA(P)\n\nCorrie was born in The Netherlands but has lived in the UK for nearly 30 years. Working as a psychotherapist, extensively with children and young people, she is also a trainer and supervisor based in East Sussex. She sees her professional identity as clearly rooted in both the humanistic as well as the psychoanalytic tradition and is qualified in TA. At present Corrie is particularly interested in the notion of intersubjectivity and the ongoing process of influencing between the therapist and client. She is interested in changing ideas about the client/therapist relationship and the waxing and waning interest in the importance of early relationship patterns and processes.",
-    "url": "https://www.youtube.com/watch?v=71CpRb0Iihc",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-01T22:00:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "eyO1Grz21FI",
-    "title": "Helena Hargaden at the TA academie - april 2012",
-    "description": "Helena Hargaden, een van de gangmakers achter Relational TA, was op 20 en 21 april 2012 te gast bij de TA academie (www,ta-academie.nl). Moniek Thunnissen, hoofddocent van de opleiding TA psychotherapie, stelt haar enkele vragen.",
-    "url": "https://www.youtube.com/watch?v=eyO1Grz21FI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-06-01T21:52:00Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1518,17 +1254,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "TtSHbrxOPVs",
-    "title": "Richard Erskine on MasterClass Success",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=TtSHbrxOPVs",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-24T22:50:05Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "VlFXMUXZ26M",
     "title": "Passionate Supervision - Book Review 49",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Passioante Supervision  For more details of this book click here: https://www.amazon.co.uk/Passionate-Supervision-Robin-Shohet/dp/184310556X",
@@ -1558,17 +1283,6 @@ export const videos = [
     "category": "Meet the Team",
     "playlist": "Meet the trainers",
     "publishedAt": "2018-04-16T15:14:42Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "B4rCuHpa5hE",
-    "title": "Ernesto Spinelli on Existential Therapy: a Personal Reflection on its Defining Features",
-    "description": "► 𝗩𝗶𝘀𝗶𝘁 𝘁𝗵𝗲 𝗽𝘀𝘆𝗰𝗵𝗼𝘁𝗵𝗲𝗿𝗮𝗽𝘆 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 𝘄𝗲𝗯𝘀𝗶𝘁𝗲: http://dpfortherapists.com/\n► \"𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗮𝗹𝗸𝘀\" 𝗶𝘀 𝗮 𝘀𝗲𝗿𝗶𝗲𝘀 𝗼𝗳 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀 𝘄𝗶𝘁𝗵 𝗲𝗺𝗶𝗻𝗲𝗻𝘁 𝗽𝘀𝘆𝗰𝗵𝗼𝘁𝗵𝗲𝗿𝗮𝗽𝗶𝘀𝘁𝘀. Sponsored by the Society for the Exploration of Psychotherapy Integration and the Society for Psychotherapy Research.\n► 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗵𝗼𝘀𝘁 (𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗲 𝗩𝗮𝘇): I'm a clinical psychologist, university teacher and researcher, fascinated with therapists' development, training and clinical expertise. Contact me: alexmagvaz@gmail.com ► \"𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗮𝗹𝗸𝘀\" 𝗶𝘀 𝗮 𝘀𝗲𝗿𝗶𝗲𝘀 𝗼𝗳 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀 𝘄𝗶𝘁𝗵 𝗲𝗺𝗶𝗻𝗲𝗻𝘁 𝗽𝘀𝘆𝗰𝗵𝗼𝘁𝗵𝗲𝗿𝗮𝗽𝗶𝘀𝘁𝘀. Sponsored by the Society for the Exploration of Psychotherapy Integration and the Society for Psychotherapy Research.\n► 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗵𝗼𝘀𝘁 (𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗲 𝗩𝗮𝘇): I'm a clinical psychologist, teacher and researcher, fascinated with therapists' personal development, training and clinical expertise. I love and have trained in many different therapy models, and am lucky to work with many of my own psychotherapy heroes!\n► 𝗩𝗶𝘀𝗶𝘁 𝗺𝘆 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗵𝗲𝗿𝗲: http://alexandrevaz.com",
-    "url": "https://www.youtube.com/watch?v=B4rCuHpa5hE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-04-09T16:59:48Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1606,116 +1320,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "TRwUCaBNG74",
-    "title": "Redecision Therapy - Disc 01 - Part 1 of 4",
-    "description": "Redecision Therapy with Bob & Mary Goulding",
-    "url": "https://www.youtube.com/watch?v=TRwUCaBNG74",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-04-03T09:44:51Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "nW0EvGxJsWU",
-    "title": "Richard Erskine on Addiction",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=nW0EvGxJsWU",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:43:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "HkEB_hAKd-4",
-    "title": "Richard Erskine on Reading 'Beyond Empathy'",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=HkEB_hAKd-4",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:43:12Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "2yRp9QoZz2Q",
-    "title": "Richard Erskine on EBMA",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=2yRp9QoZz2Q",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:43:04Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "5sw9It_oTVw",
-    "title": "Richard Erskine on Jazz",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=5sw9It_oTVw",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:42:35Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "P9AN29NCVtU",
-    "title": "Richard Erskine on Coming to The Netherlands",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=P9AN29NCVtU",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:42:26Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "xnT2dVKd_Cw",
-    "title": "Richard Erskine on Richard Erskine",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=xnT2dVKd_Cw",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:42:17Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "C5UsCn1vYEs",
-    "title": "Beyond Empathy book preview",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=C5UsCn1vYEs",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:42:09Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0zc-8pLGXLs",
-    "title": "Why Richard? part 2",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=0zc-8pLGXLs",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:42:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "ChfuS2F0sxI",
-    "title": "Richard Erskine on Old Script",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=ChfuS2F0sxI",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-03T09:41:50Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "LwTDmmM392o",
     "title": "Staring at the Sun - Book Review 45",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Straring at the Sun by Irvin Yalom \r\nFor more details of this book click here;  https://www.amazon.co.uk/Staring-Sun-Overcoming-Terror-Death-ebook/dp/B001TUYV6O",
@@ -1738,171 +1342,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "DHP_ys3Oqh4",
-    "title": "Richard Erskine: Caracteristicas de un supervisor",
-    "description": "Richard Erskine acude a Alcea psicología en Madrid cada año llevando un grupo de formación y supervisión para terapeutas.\nEn este vídeo nos habla de las características que tiene que tener un supervisor.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=DHP_ys3Oqh4",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:54:48Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "D0bIiBMCP3I",
-    "title": "LA ACTUALIZACIÓN DE LOS TERAPEUTAS POR RICHARD ERSKINE",
-    "description": "Richard Erskine, nos habla de la actualización de los terapeutas como un compromiso ético hacia nuestros clientes. Seguir formándonos para brindar una ayuda de calidad y centrada en cambios objetivos y permanentes.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=D0bIiBMCP3I",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:54:18Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "jqXEoQiNeeA",
-    "title": "LAS CUALIDADES DE UN BUEN TERAPEUTA, POR RAY LITTLE",
-    "description": "Ray Little  nos habla de las cualidades de un buen terapeuta. La formación es fundamental, pero también hay otros aspectos a tener en cuenta: su honestidad, su capacidad para hacer un impacto beneficioso en sus pacientes, etc. Descúbrelo en este vídeo.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=jqXEoQiNeeA",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:51:46Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "aJz7z0taqPY",
-    "title": "Richard Erskine: Aspectos de la supervision",
-    "description": "¿Porqué es tan importante que los psicólogos tengamos una supervisión adecuada de nuestros casos? Sin duda, necesitamos saber que estamos haciendo un buen trabajo, y un buen supervisor debe proporcionar los conocimientos técnicas y la validación suficiente para que el terapeuta se sienta seguro y confiado con sus pacientes.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=aJz7z0taqPY",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:50:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "3PJ88fnLwLE",
-    "title": "Intervista a Richard Erskine",
-    "description": "Intervista a cura di Caterina Romaniello (docente PerFormat), realizzata in occasione del X Convegno Nazionale di Analisi Transazionale PerFormat 14 e 15 Ottobre 2017.",
-    "url": "https://www.youtube.com/watch?v=3PJ88fnLwLE",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:47:38Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0R0T4CFrtyM",
-    "title": "Richard Erskine y su aprendizaje como terapeuta",
-    "description": "Richard Erskine, creador de la psicoterapia integrativa nos cuenta tres cosas que ha aprendido sobre la psicoterapia.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=0R0T4CFrtyM",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:47:11Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "cmVDEtTksCk",
-    "title": "Las heridas y negligencias que sufrimos las personas. Richard Erskine",
-    "description": "Richard Erskine nos habla de cuáles son las negligencias y heridas más comunes que solemos sufrir en la infancia.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=cmVDEtTksCk",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:46:22Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "KzYG72jxom4",
-    "title": "LA IMPORTANCIA DE LA SUPERVISIÓN POR RICHARD ERSKINE",
-    "description": "Richard Erskine nos habla aquí de la importancia para los profesionales de la psicología de realizar una supervisión de sus casos.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=KzYG72jxom4",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:45:22Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Ogrgt8r-5a4",
-    "title": "LA PSICOTERAPIA INTEGRATIVA",
-    "description": "Richard Erskine, el creador de la Psicoterapia Integrativa, una corriente de psicoterapia que facilita el cambio personal y la resolución de conflictos, nos explica en qué consiste. La psicoterapia integrativa tiene en cuenta las diferentes dimensiones del ser humano. A través de una relación terapéutica sana y respetuosa, el paciente podrá ir sanando los aspectos de sí mismo que le son difíciles de encarar. Las técnicas desde este vínculo de confianza, se van adaptando a las necesidades de la persona en cada momento del espacio terapéutico.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=Ogrgt8r-5a4",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-04-02T12:45:06Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "cabN4yE2fZo",
-    "title": "A Conversation with Carl Rogers: The Job of a Therapist | Saybrook University",
-    "description": "Watch renowned American psychologist Carl Rogers speak about his job as a counselor and therapist. Learn more about what he considers to be the instruments of his job, and how he strives to create a psychological climate of helpfulness to effectively build a relationship with people (1960).\nRogers was one of the founders of the humanistic approach to psychology. Committed to helping students achieve their full potential, Saybrook University is deeply rooted in this humanistic tradition.\n\nInterested in attending Saybrook University? Discover all of our areas of study: \nhttps://www.saybrook.edu/areas-of-study/ \n\nFollow Saybrook University on social media:\nFacebook: https://www.facebook.com/SaybrookU \nLinkedIn: https://www.linkedin.com/school/saybrook-university \nTwitter: https://twitter.com/SaybrookU \nInstagram: https://www.instagram.com/saybrook_university",
-    "url": "https://www.youtube.com/watch?v=cabN4yE2fZo",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-31T22:15:38Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "lsosP68DzVI",
-    "title": "20170923MARY_RDTDef",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=lsosP68DzVI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-30T22:41:11Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "aJz7z0taqPY",
-    "title": "Richard Erskine: Aspectos de la supervision",
-    "description": "¿Porqué es tan importante que los psicólogos tengamos una supervisión adecuada de nuestros casos? Sin duda, necesitamos saber que estamos haciendo un buen trabajo, y un buen supervisor debe proporcionar los conocimientos técnicas y la validación suficiente para que el terapeuta se sienta seguro y confiado con sus pacientes.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=aJz7z0taqPY",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-30T22:38:06Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "ZNPehg-K_28",
-    "title": "What is Integrative Psychotherapy ? [Subtitles]",
-    "description": "In this video the creator of Integrative Psychotherapy, the psychologist Richard Erskine Phd., shares his definition and fundamental concepts of this relationally based approach to psychotherapy.",
-    "url": "https://www.youtube.com/watch?v=ZNPehg-K_28",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-30T22:37:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0R0T4CFrtyM",
-    "title": "Richard Erskine y su aprendizaje como terapeuta",
-    "description": "Richard Erskine, creador de la psicoterapia integrativa nos cuenta tres cosas que ha aprendido sobre la psicoterapia.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=0R0T4CFrtyM",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-30T22:36:57Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "xnT2dVKd_Cw",
-    "title": "Richard Erskine on Richard Erskine",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=xnT2dVKd_Cw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-30T22:31:47Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "-SC2nqu1wlk",
     "title": "Trainer Karen Burke",
     "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
@@ -1910,28 +1349,6 @@ export const videos = [
     "category": "Meet the Team",
     "playlist": "Meet the trainers",
     "publishedAt": "2018-03-20T17:51:35Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "xyeX33ZPqvI",
-    "title": "Irvin Yalom in Session: Luke",
-    "description": "Find the full length video here: http://www.psychotherapy.net/video/irvin-yalom-psychotherapy-luke\n\nIn two engaging sessions with Luke, a 39-year-old husband and father grappling with whether to have a vasectomy, Yalom brings to life the subterranean longings symbolized by this existential crossroad, and helps Luke “surrender to life.”\n\nPart of the 4-video series: Irvin Yalom and the Art of Psychotherapy",
-    "url": "https://www.youtube.com/watch?v=xyeX33ZPqvI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-09T22:20:45Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "8_eJv8Ekrps",
-    "title": "10.  ERIC BERNE GAMES PEOPLE PLAY",
-    "description": "BRIEF INTRODUCTION TO THE GROUNDBREAKING IDEAS IN ERIC BERNE'S 1964 CLASSIC 'GAMES PEOPLE PLAY'.",
-    "url": "https://www.youtube.com/watch?v=8_eJv8Ekrps",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-03-09T11:28:10Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1958,105 +1375,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "pTSrRdiU8s4",
-    "title": "Transactional Analysis Therapy Video",
-    "description": "Watch the full video at: https://www.psychotherapy.net/video/goulding-transactional-analysis\n\nMary Goulding discusses transactional analysis and redecision therapy. Using positive strokes, encouragement, and bringing the past into the present, Goulding helps her clients change paths from decisions made at a young age.",
-    "url": "https://www.youtube.com/watch?v=pTSrRdiU8s4",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-28T21:14:18Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "B2GDWfKowGM",
-    "title": "Dr. Eric Berne - The Practice part 2 of 2",
-    "description": "Dr. Eric Berne discusses practicing Tranasactional Analysis.",
-    "url": "https://www.youtube.com/watch?v=B2GDWfKowGM",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-28T21:00:28Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "iAhf5_FiGBw",
-    "title": "Dr. Eric Berne - The Theory part 2 of 2",
-    "description": "Dr. Eric Berne dicussing his theory of Transactional Analysis",
-    "url": "https://www.youtube.com/watch?v=iAhf5_FiGBw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-28T20:59:41Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "SUkXZ7grMwE",
-    "title": "Dr. Eric Berne - The Practice part 1 of 2",
-    "description": "Dr. Eric Berne discusses practicing Tranasactional Analysis.",
-    "url": "https://www.youtube.com/watch?v=SUkXZ7grMwE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-28T20:59:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "dxlNdOFwtV8",
-    "title": "Dr. Eric Berne - The Theory (part 1 of  2)",
-    "description": "Dr. Eric Berne is the founder of Transactional Analysis.  He discusses the theory behind it.",
-    "url": "https://www.youtube.com/watch?v=dxlNdOFwtV8",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-28T18:18:27Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "9HnZMpnyPJs",
-    "title": "Perls Def Gestalt",
-    "description": "This video is about Perls Def Gestalt",
-    "url": "https://www.youtube.com/watch?v=9HnZMpnyPJs",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-27T22:28:06Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "LyYP648h204",
-    "title": "Why Richard? part 1",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=LyYP648h204",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-02-27T22:27:51Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "OTgGTqnbMHw",
-    "title": "Berne_intro",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=OTgGTqnbMHw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-27T22:27:29Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "dELqDwxQ5nw",
-    "title": "RDT1 Mary definition RDT 2",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=dELqDwxQ5nw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-27T22:26:10Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "OiOjr6Rfe04",
     "title": "Clarke's Dictionary of Transactional Analysis- Book Review 41",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Clarke's Dictionary of Transactional Analysis .For more details of this book click here:https://www.amazon.co.uk/Clarkes-Dictionary-Transactional-Analysis-Organizations/dp/1450720161",
@@ -2075,39 +1393,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-02-22T12:14:18Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Z0iE-WedHQA",
-    "title": "About the Health System - Trudi Newton - Transactional Analysis",
-    "description": "[Developing theories] Trudi Newton TSTA (Education) in UK, describes and enables an understanding of the Health System : growth, learning, thriving, and emotional literacy. EATA Conference 2016 in Geneva.\n\n#interviewtransactionalanalysis\n#EATA\n#EuropeanAssociationForTransactionalAnalysis\n#transactionalanalysis",
-    "url": "https://www.youtube.com/watch?v=Z0iE-WedHQA",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-14T20:54:35Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "63Y6cxYwHDw",
-    "title": "UKATA: An Interview with Trudy Newton",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=63Y6cxYwHDw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-14T20:54:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "PLdiGWBPlZ8",
-    "title": "Susie Orbach on Psychoanalysis",
-    "description": "Polly McLean interviews Dr. Susie Orbach on Relational Psychoanalysis. For further info on this video and other Psychotherapy videos please visit www.psychotherapyexcellence.com.",
-    "url": "https://www.youtube.com/watch?v=PLdiGWBPlZ8",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-12T23:16:59Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -2134,61 +1419,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "BzxfvFsBdVg",
-    "title": "Eric Berne Centennial Parte 2.",
-    "description": "El Análisis Transaccional en el cine, la música o en series de televisión. Este muestrario incluye referencias directas que van desde Alejando Jodorowsky a Bert Hellinger o  José Luis Pinillos, del Pop a la Televisión...\r\nEs nuestro pequeño homenaje en el centenario del nacimiento de Eric Berne.\r\nLa influencia de las ideas de Eric Berne, Claude Steiner y en general del Análisis Transaccional ha sido enorme. Sin embargo, parece que estén ocultas y poca gente sabe su origen.",
-    "url": "https://www.youtube.com/watch?v=BzxfvFsBdVg",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-12T20:05:32Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Wpca1Mb9VLY",
-    "title": "Richard Erskine on Behaviorism",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=Wpca1Mb9VLY",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-02-12T19:57:20Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "9J7c96b-XuM",
-    "title": "Richard Erskine:  ¿Todos podemos cambiar?",
-    "description": "¿El cambio en terapia se da en todas las personas? Richard Erskine nos lo cuenta en este vídeo.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=9J7c96b-XuM",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2018-02-07T23:38:17Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "km5NrI8USdE",
-    "title": "TEDxEmory - David Wilhelm - Political Psychology",
-    "description": "David Wilhelm used to work in politics, but now he's a private sector guy, devoting his efforts to business initiatives that produce both social and shareholder value.\r\n\r\nToday, Wilhelm is a full-time entrepreneur and a part-time academic. He is the developer of a solar project projected to be the largest ever built east of the Rockies—on reclaimed mine lands in southeastern Ohio. He is the founder of the nation's first New Markets Venture Capital Company, which invests in businesses located in economically challenged parts of central Appalachia. He founded a second venture capital fund that has helped build companies in small Midwestern towns—companies that provide safe, pasteurized eggs to anxious consumers, that help returning veterans—our wounded warriors—manage their medications as prescribed, and that assist companies with energy-hungry data centers reduce their electricity usage.\r\n\r\nWilhelm is the CEO of New Harvest Ventures, a development company working in the areas of renewable energy, sustainable agriculture, clean water, and community based venture capital. He is currently serving as the Visiting Chair of Applied Politics at the University of Akron's Bliss Institute and a Visiting Professor at Ohio University's Voinovich School for Leadership and Public Affairs.\r\n\r\n In the world of politics, Wilhelm is best known for his work as a manager of high-level campaigns, including the 1992 presidential campaign of William J. Clinton, and campaigns for Vice President Joseph Biden, the Mayor of Chicago, Richard Daley, and the late U.S. Senator from Illinois, Paul Simon. Upon his election, President Clinton nominated Wilhelm to serve as Chair of the Democratic National Committee.\r\n\r\n More recently, Wilhelm co-chaired the successful campaign to renew Ohio's innovative \"Third Frontier\" job creation program and, in 2008, was one of the first super delegates to support the candidacy of then-Senator Barack Obama for the presidency.\r\n\r\nWilhelm is a graduate of Ohio University and Harvard University's Kennedy School of Government. He is the recipient of honorary doctorates from Ohio University and the University of Charleston. Wilhelm and his wife, Degee, live in Bexley, Ohio, and are the proud parents of two teenage sons, Luke and Logan.\r\n\r\nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
-    "url": "https://www.youtube.com/watch?v=km5NrI8USdE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-04T22:11:43Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "FkIc3Vw1BA0",
-    "title": "UKCP conference - March 2017",
-    "description": "Reflections from the UKCP conference 2017: The future of Psychotherapy: research, politics and best practice, held on 11 March 2017 in London.\n\nFor more information visit: www.psychotherapy.org.uk",
-    "url": "https://www.youtube.com/watch?v=FkIc3Vw1BA0",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-02-04T21:53:13Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "Zymx_pm-N9M",
     "title": "Trainer-  Julia Tolly",
     "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
@@ -2207,17 +1437,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-01-31T14:25:48Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "YIiL7TkihAk",
-    "title": "Trailer: The Relationship in Supervision -- Interview with Robin Shohet",
-    "description": "All research points to relationship as central to psychotherapy and supervision effectiveness.\n\nIn this fourth event with onlinevents Robin talks about the importance of the relationship in Supervision and in Therapy and the role that trust plays. Robin talks about the impact of differing modalities, insurance and betrayal in helping relationships.\n\nRobin talks powerfully about the need to trust ourselves and our clients in a way that calls forth our most authentic selves!",
-    "url": "https://www.youtube.com/watch?v=YIiL7TkihAk",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-01-21T23:48:45Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -2288,336 +1507,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "3PJ88fnLwLE",
-    "title": "Intervista a Richard Erskine",
-    "description": "Intervista a cura di Caterina Romaniello (docente PerFormat), realizzata in occasione del X Convegno Nazionale di Analisi Transazionale PerFormat 14 e 15 Ottobre 2017.",
-    "url": "https://www.youtube.com/watch?v=3PJ88fnLwLE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2018-01-01T09:09:59Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "23UjUCUVeaE",
-    "title": "Everything you need to know about Notability| Paperless Student",
-    "description": "#ipad #productivity #notes \n\nMaster Your Tools, Maximise Your Time:\n\nHow-to courses on YouTube: https://www.youtube.com/@PaperlessHumans\nHow-to courses on our website: https://www.patreon.com/c/PaperlessStudent\n\nDevelopers who support us: \nLiquidText: https://apps.apple.com/us/app/liquidtext/id922765270",
-    "url": "https://www.youtube.com/watch?v=23UjUCUVeaE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-23T14:27:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "_ROfAm4k8Xw",
-    "title": "iOS 11: Multitasking",
-    "description": "In this video, I take a look at the new and enhanced Multitasking capabilities in iOS 11 on the iPad. These include:\n\n- The new Dock\n- The redesigned App Switcher\n- The new way of managing multiple apps simultaneously\n- Drag & Drop (Including accessing app content without opening the app). \n\nNOTE: \n- You can use Slide Over with iPad Pro, iPad (5th generation and later), iPad Air and later, or iPad mini 2 and later.\n- You can use Split View with iPad Pro, iPad (5th generation and later), iPad Air 2, or iPad mini 4.\n- You can use Picture in Picture with iPad Pro, iPad (5th generation and later), iPad Air and later, or iPad mini 2 and later.\n\nIf you have any questions or comments on anything in this video, please feel free to get to touch with Sherwin:\nEmail: contact.techos@gmail.com\nTwitter: @TechOS_\nInstagram: @tech_os\nYouTube: youtube.com/user/channeltechos\nThank you very much for watching and see you in the next video! Please remember to Like, Comment and Subscribe!",
-    "url": "https://www.youtube.com/watch?v=_ROfAm4k8Xw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-22T22:45:42Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "YFZbYIAkU3Q",
-    "title": "iPad Pro - Note Taking",
-    "description": "This is yet another video where I show you guys some tips and tricks on note taking on the iPad Pro. You guys keep coming up with great questions on how to use the iPad Pro better, I hope I answered some more questions for you guys in this video! But as always feel free to leave more in the comment section bellow!\n\nThe iPad Pro is great tool for students in college, and university. You will love how amazing it can handle note taking, media consumption, communications. It completely changed the way I took notes, and for the better\n\nThe app that is my go to is Notability, there are plenty more that work and are great but in my experience this one always comes on top! It's a great application!\n\nLet me know what you guys think of the iPad as a note taking device!\n\nMusic - https://goo.gl/gSoR6v\n\nInstagram - instagram.com/markstapf\nTwitter - twitter.com/markstapf\nFacebook - facebook.com/markstapfyoutube\nSnapChat - @markstapf\n\nPO BOX 32225\nHARDING PO\nRICHMOND HILL\nONTARIO\nL4C9S3\nCANADA",
-    "url": "https://www.youtube.com/watch?v=YFZbYIAkU3Q",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-22T20:18:04Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "FLp85oksGmU",
-    "title": "Top 5 iPad Pro Apps for Your Apple Pencil",
-    "description": "I show the best apps that take advantage of the Apple Pencil at this time.\n\nGear I use:  http://amzn.to/1TFQSOa\n\nWebsite: http://www.zollotech.com\nFollow me on Google+ : http://google.com/+zollotech\nFollow me on Twitter: http://www.twitter.com/zollotech\nFacebook page: http://on.fb.me/erkj2g",
-    "url": "https://www.youtube.com/watch?v=FLp85oksGmU",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-22T18:46:46Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "14rbHXS47kA",
-    "title": "Starting out as a practiioner - finding a placement",
-    "description": "How to survive counseling training free E-book Click here http://www.counsellingtutor.com/how-to-survive-counselling-training/\n\nVisit us @ http://www.mcpt.co.uk\n\n\nBob Cooke Talks to Rory Lees-Oakes about student placmets and his low cost clinic",
-    "url": "https://www.youtube.com/watch?v=14rbHXS47kA",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-20T09:06:06Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "yVEf2k7OnrM",
-    "title": "Counselling Placement Preparation Video Dec 2015",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=yVEf2k7OnrM",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-20T09:02:11Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "ZFMpdqE46CY",
-    "title": "Life Positions in Transactional Analysis Eric Berne",
-    "description": "Paid personal counseling - https://wa.me/917709380161\n\n🤝SUPPORT THIS CHANNEL by Enrolling in my online courses:\n\n➡️ Relationships & Communication course: https://bit.ly/Relationships-Communication-99\n➡️ Positive Psychology Course: https://bit.ly/Positive-Psychology-99\n➡️ Mental health Techniques Course: https://bit.ly/Mental-Health-99\n➡️ Overcoming Emotional Problems with Spirituality course: https://bit.ly/Better-life-99\n➡️ Overcome Fear of Abandonment: https://bit.ly/Abandonment-Fix-99 \n- -\n🌐 Blog - https://psychologylearnonline.com/ \n📩 Contact for personal counseling varmaaman20@gmail.com\n🔔 Subscribe for more transformative content and hit the bell icon to stay updated!\n🗿 This video is created by Aman Varma Psychologist.\n\n#transactionalanalysis #TA #psychology",
-    "url": "https://www.youtube.com/watch?v=ZFMpdqE46CY",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-20T08:58:04Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "w1K9wcSwYSw",
-    "title": "Transactional Analysis Psychotherapy-Depression.",
-    "description": "In this video Bob Cooke TSTA is demonstrating TA therapy. Bob is working with someone who is presenting with Depression.\nin this video the client talks about his depression and Cumulative neglect.",
-    "url": "https://www.youtube.com/watch?v=w1K9wcSwYSw",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-19T14:32:20Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "gf_rrEOr3RE",
-    "title": "In practice with Bob Cooke -On becoming Powerful and Assertive",
-    "description": "Please go to www.therapyvideos.co.uk to see whole video!!",
-    "url": "https://www.youtube.com/watch?v=gf_rrEOr3RE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-19T14:32:00Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0K7KyXIWZ80",
-    "title": "Transactional Analysis Psychotherapy--Free Child Ego state",
-    "description": "In this video I am working with a client around Procrastination. In Transactional Analysis terms, i use the Free Child Ego state - in a attempt to move from a \"Impasse\" place in the Therapy process. With this awareness Roweena makes connections with her struggles in the Therapy session and outside it!",
-    "url": "https://www.youtube.com/watch?v=0K7KyXIWZ80",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-19T14:31:44Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "YKSM70C_ipI",
-    "title": "TA core values and approaches in psychotherapy - Maria Teresa Tosi - Transactional Analysis",
-    "description": "[Developing theories] Maria Teresa Tosi TSTA (Psychotherapy) in Italy, explains the core values of TA in psychotherapy: responsibility, respect, OKness in the relationship. EATA Conference 2016 in Geneva.\n\n#interviewtransactionalanalysis\n#EATA\n#EuropeanAssociationForTransactionalAnalysis\n#transactionalanalysis",
-    "url": "https://www.youtube.com/watch?v=YKSM70C_ipI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-17T09:57:46Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "MtOG5PK8xDA",
-    "title": "The science of analyzing conversations, second by second | Elizabeth Stokoe | TEDxBermuda",
-    "description": "Prof. Elizabeth Stokoe takes a run on what she terms the “conversational racetrack”—the daily race to understand each other when we speak—and explains how to avoid  hurdles that trip us up and cause conflict.\n\nElizabeth Stokoe is a British scientist. She studies conversation analysis. She is a professor at Loughborough University. She graduated from the University of Central Lancashire (Preston Poly) in 1993 with a traditional psychology degree. Then Stokoe completed three years PhD research at Nene College (Leicester University) with Dr. Eunice Fisher.\n\nHer research included videotaping interaction in university tutorials, and conducting conversation analyses of topic production, topic management, academic identity, and the relevance of gender. She developed these and other interests while working at the Institute of Behavioural Sciences (University of Derby, 1997-2000) and University College Worcester (2000-2002).\n\nStokoe joined the Department of Social Sciences at Loughborough in October 2002 and was promoted to Reader (2007) and Chair (2009). She teaches on the BSc Social Psychology programme, covering modules in relationships, qualitative methods and forensic psychology.\n\nStokoe developed the Conversation Analytic Role-play Method (CARM), an approach based on evidence about what sorts of problems and roadblocks can occur in conversation, as well as the techniques and strategies that best resolve these problems.[2] CARM won Loughborough University's Social Enterprise award (2013).\n\nAbout TEDx, x = independently organized event In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
-    "url": "https://www.youtube.com/watch?v=MtOG5PK8xDA",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-15T22:57:45Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "HO5pJR9EWWE",
-    "title": "The Concept of the Third | Dr Jessica Benjamin",
-    "description": "#psychoanalyst #confer #online #psychotherapy\n\nDr Jessica Benjamin explains the concept of the third when understanding relationships.\n\nTaken from our \"Advances in Relational Psychotherapy\" Online Module\n\n🇺🇸 https://conta.cc/3n96VHg\n🇬🇧 https://conta.cc/3elxN2N\n\nIn this presentation, Jessica Benjamin explains her conceptualisation of the ‘third’ and its application to psychotherapy. She regards the creation of thirdness as an intersubjective process that is constituted in early, pre-symbolic experiences of accommodation, mutuality and the intention to recognize and be recognized by the other; it is a relationship of mutual recognition in which each person experiences the other as a ‘like subject’ yet has a distinct, separate centre of feeling and perception. In contrast to the notion of the intersubjective as a system of reciprocal mutual influence, the term ‘third’ is used by her to convey the representation of a potential relationship that we use to break out of the reciprocal lock of complementarity.\n\nDr Jessica Benjamin is one of the best-known contemporary psychoanalysts, whose work has had a profound impact on psychoanalysis, feminism and political activism. Her path-breaking book, The Bonds of Love: Psychoanalysis, Feminism and the Problems of Domination, appeared in 1988 and has continued to provoke discussion and radical thought ever since (for instance in two special issues of Studies in Gender and Sexuality to mark its 25th anniversary). Her work since then has developed into a profound engagement with intersubjectivist theory that has combined a reformulation of relational psychoanalysis (her 2004 paper, Beyond Doer and Done To is one of the most highly cited contemporary psychoanalytic papers) with an approach to recognition and acknowledgement that has had powerful political reverberations, especially in the context of Israel-Palestine. She conceived and directed the Acknowledgment project in Israel-Palestine together with Dr. Eyad el Sarraj from 204-2010 and her interest in collective trauma and acknowledgment has led her to work together with a number of psycho-activists from other countries, in particular Chile and South Africa. Jessica Benjamin is a practicing psychoanalyst in New York City, where she is a supervising faculty member at the New York University postdoctoral psychology program in Psychotherapy and Psychoanalysis, and at the Stephen Mitchell Center for Relational Studies.\n\nFind the Full Online Module for 20.5 hours of CE/CPD\n\n🇺🇸 https://conta.cc/3n96VHg\n🇬🇧 https://conta.cc/3elxN2N",
-    "url": "https://www.youtube.com/watch?v=HO5pJR9EWWE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-15T22:45:30Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "UQBFJrmmjTo",
-    "title": "Why research is the way to demonstrate TA effectiveness - Dr Mark Widdowson - TA",
-    "description": "[Conference] Mark Widdowson TSTA (Psychotherapy) receives the ITAA research award about effectiveness of TA psychotherapy at 2017 Transactional Analysis conference in Berlin.\nEnglish Version.\n\n#EATA\n#EuropeanAssociationForTransactionalAnalysis\n#transactionalanalysis",
-    "url": "https://www.youtube.com/watch?v=UQBFJrmmjTo",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-15T22:44:53Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "CBUgrCeU9IE",
-    "title": "In practice with Bob Cooke -working with \"Addiction\"",
-    "description": "Please go to www.therapyvideos.co.uk to see whole video!!",
-    "url": "https://www.youtube.com/watch?v=CBUgrCeU9IE",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-14T16:55:41Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Sr3PaTkAsr4",
-    "title": "Ellis y Gloria",
-    "description": "En el año 1965, tres terapeutas de referencia, Ellis, Rogers y Perls trabajaron con la misma cliente, Gloria. Aquí está el trabajo de Ellis.\nhttp://integrida.net/",
-    "url": "https://www.youtube.com/watch?v=Sr3PaTkAsr4",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-14T16:54:30Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "2cOLJBPQZRA",
-    "title": "Caso Gloria - Albert Ellis - Legendado PT-BR",
-    "description": "Vídeo do Caso Glória, com Albert Ellis, abordando a Terapia Racional Emotivo-Comportamental.\nLegendas disponíveis em Português - Brasil. \n\nEnglish:\nGloria's Case, with Albert Ellis, Rational Therapy approach.\nSubtitles in Portuguese - Brazil.",
-    "url": "https://www.youtube.com/watch?v=2cOLJBPQZRA",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-14T16:54:12Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "JGKc7-6bim0",
-    "title": "Teachers TV: Transactional Analysis",
-    "description": "Atomic Academia - The last years hottest research! 🚀 It's like Lady Whistledown's Society Papers but for Research. 🔥 \n\nLike, share, subscribe & follow:\nhttps://www.instagram.com/atomicacademia/\nhttps://www.twitter.com/atomicacademia/\n\nThe Annual Journal: https://doi.org/10.62594/ATOM5000\nPreprint Server: https://doi.org/10.62594/MFXW3920\n\n#Research for #phd, #phdlife, #postdoc, #postdoclife.",
-    "url": "https://www.youtube.com/watch?v=JGKc7-6bim0",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-13T14:12:48Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "G04dd9K7QdI",
-    "title": "Teachers TV: Transactional Analysis and Communications",
-    "description": "Help is at hand to achieve more effective meeting outcomes, as this programme shows you how to identify and neutralise the different negative behaviour patterns people can adopt. Behavioural Change consultant, John Seaman is your guide as he shows how to take the emotional pressure out of relationships and communications. The programme features John work-shopping with a group of headteachers on the relationship theory, Transactional Analysis. Licensed to CPD College Ltd.",
-    "url": "https://www.youtube.com/watch?v=G04dd9K7QdI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-13T14:12:04Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "vo5djaLvDEU",
-    "title": "TA pedagogy - Giles Barrow - Transactional Analysis",
-    "description": "[Developing theories] Giles Barrow TSTA (Education) in UK, presents his vision of the evolution of Transactional Analysis in the educational field : from models to pedagogy. EATA Conference 2016 in Geneva.\n\n#interviewtransactionalanalysis\n#EATA\n#EuropeanAssociationForTransactionalAnalysis\n#transactionalanalysis",
-    "url": "https://www.youtube.com/watch?v=vo5djaLvDEU",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-13T14:11:34Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "5MwyexiV1f4",
-    "title": "Therapy using TA - Susie",
-    "description": "Therapy session. working with her Inner Child using Transactional Analysis Psychotherapy!",
-    "url": "https://www.youtube.com/watch?v=5MwyexiV1f4",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T20:26:49Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "WogaYqSUP6w",
-    "title": "Live Therapy - Inner Child work",
-    "description": "Psychotherapy clip demonstrating Transactional Analysis therapy- with clients Inner Child,",
-    "url": "https://www.youtube.com/watch?v=WogaYqSUP6w",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T20:19:26Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "aavbp157lp8",
-    "title": "RIchard Erskine (inglés y castellano)",
-    "description": "En este video se habla  de las ideas básicas y del contenido del Taller",
-    "url": "https://www.youtube.com/watch?v=aavbp157lp8",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2017-12-11T20:14:59Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "AwclJu1Hdfo",
-    "title": "The 8 relational needs - Richard Erskine - Transactional Analysis",
-    "description": "[Developing theories] Richard Erskine TSTA (Psychotherapy) in the US, develops the 8 important relational needs. EATA Conference 2016 in Geneva.",
-    "url": "https://www.youtube.com/watch?v=AwclJu1Hdfo",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2017-12-11T20:12:28Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "AwclJu1Hdfo",
-    "title": "The 8 relational needs - Richard Erskine - Transactional Analysis",
-    "description": "[Developing theories] Richard Erskine TSTA (Psychotherapy) in the US, develops the 8 important relational needs. EATA Conference 2016 in Geneva.",
-    "url": "https://www.youtube.com/watch?v=AwclJu1Hdfo",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T20:12:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "PiFs4KdIoXo",
-    "title": "Psychotherapy session. Working with addiction",
-    "description": "Please go to www.therapyvideos.co.uk to see whole video!!",
-    "url": "https://www.youtube.com/watch?v=PiFs4KdIoXo",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T20:09:50Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "vYPbluvM5j8",
-    "title": "Quit Smoking Using - TA Therapy",
-    "description": "Live Therapy session working with Colette to quit smoking! And the defences that underpin the process.",
-    "url": "https://www.youtube.com/watch?v=vYPbluvM5j8",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T19:48:21Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "vKclj4tO2lI",
-    "title": "Fritz Perls -  What is Gestalt (1970) - byronevents.net/gestalt",
-    "description": "Awareness of what is true in the present. Top dog - Under dog dynamics. byronevents.net/gestalt",
-    "url": "https://www.youtube.com/watch?v=vKclj4tO2lI",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T19:47:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "xvrUHXWyn7U",
-    "title": "Present! - Fanita English's 100th Birthday Celebration",
-    "description": "Transactional Analyst, Fanita English celebrates her 100th birthdfay surrounded by well wishers from around the world.",
-    "url": "https://www.youtube.com/watch?v=xvrUHXWyn7U",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-12-11T19:43:19Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "KVkqBE2rce8",
     "title": "Learning From The Patient- Book Review 31",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Learning From The Patient-\nFor more details of this book click here:\nhttps://www.amazon.co.uk/dp/0415025532/?tag=googhydr-21&hvadid=188130061160&hvpos=1t1&hvnetw=g&hvrand=7417824314087200435&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006939&hvtargid=kwd-770789312&ref=pd_sl_24ypkrrv79_b",
@@ -2662,17 +1551,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "xmQ4N3E7SLc",
-    "title": "LA TERAPIA PARA PSICÓLOGOS Y TERAPEUTAS POR RICHARD ERSKINE",
-    "description": "Richard Erskine nos habla de la terapia para terapeutas, como una manera ética de trabajar mejor con nuestros pacientes. Si estamos bien podremos ayudar mejor. Si hemos encontrado una manera eficaz y auténtica de resolver nuestros conflictos, tendremos más capacidad para ayudar a otra personas a cambiar de verdad.\n\nVisita nuestra Web: https://alceapsicologia.com/\nAlcea Psicología\nC. de la Reina Mercedes, 5, Tetuán, 28020 Madrid, España\n+34 640 67 08 95",
-    "url": "https://www.youtube.com/watch?v=xmQ4N3E7SLc",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2017-11-08T19:58:54Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "kGQT8HMi8Io",
     "title": "Trainer- Susie Hewitt",
     "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
@@ -2702,17 +1580,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2017-10-24T22:05:52Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "dTN7UNAj55U",
-    "title": "what do you think of the conference?",
-    "description": "Highlights from the Manchester Institute for Psychotherapy Conference - Visit out homepage @ https://mcpt.co.uk/psychotherapy-conference-2017/",
-    "url": "https://www.youtube.com/watch?v=dTN7UNAj55U",
-    "category": "Conferences",
-    "playlist": "MIP Conference 2017",
-    "publishedAt": "2017-10-13T20:10:04Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -2926,61 +1793,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "yvGXYGmJAtA",
-    "title": "Janet Lee O'Connor on Redecision Therapy",
-    "description": "Janet Lee O'Connor, Diplomate in Redecision Therapy & Transactional Analysis Practitioner Instructor, studeerde Redecision Therapy bij Bob & Mary Goulding. Op 26 & 27 april 2013 gaf zij een inspirerende workshop aan grote groep TA academie studenten. \nMeer info? www.ta-academie.nl",
-    "url": "https://www.youtube.com/watch?v=yvGXYGmJAtA",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-03-21T10:23:11Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "cKjOlcv4mKM",
-    "title": "Redecision Therapy - Disc 01 - Part 4 of 4",
-    "description": "Redecision Therapy with Bob & Mary Goulding",
-    "url": "https://www.youtube.com/watch?v=cKjOlcv4mKM",
-    "category": "Other Content",
-    "playlist": "Great Tapes",
-    "publishedAt": "2017-03-21T10:22:56Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "b6yHMKH57Lg",
-    "title": "Richard Erskine Montreal 2010",
-    "description": "interview",
-    "url": "https://www.youtube.com/watch?v=b6yHMKH57Lg",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2017-03-20T00:06:19Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "kBvAgHyLozo",
-    "title": "Integrative Psychotherapy - Richard Erskine (Attachment Styles/Estilos de Apego)",
-    "description": "ENGLISH / ESPAÑOL\nhttp://www.integrativetherapy.com\n\nIn this video Richard Erskine, PhD. shares a summary of his review on the theory of attachment during a training workshop in Integrative Psychotherapy.\n\nEn este vídeo, Richard Erskine, PhD. comparte un resumen de su revisión sobre la teoría del apego con un grupo de formación en Psicoterapia Integrativa.",
-    "url": "https://www.youtube.com/watch?v=kBvAgHyLozo",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2017-03-20T00:05:45Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "sZWuxUVhl3s",
-    "title": "Richard G. Erskine. Cuestiones rápidas",
-    "description": "Psicoterapia e integración: Más allá de la empatía. Dr. Richard G. Erskine\nÍndice:\n0:03 ¿Qué es la Psicoterapia Relacional Integrativa?\n1:00 ¿Que aptitudes o cualidades debería de tener un buen terapeuta?\n2:12 ¿Qué es lo que nunca olvidas cuando te encuentras frente a un cliente?",
-    "url": "https://www.youtube.com/watch?v=sZWuxUVhl3s",
-    "category": "Other Content",
-    "playlist": "Erskine",
-    "publishedAt": "2017-03-20T00:02:58Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "k6tHFSxGLxc",
     "title": "A Biography of Eric Berne - Book Review 6",
     "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes discuss the life and work of Eric Berne \n\nFor more details of this book click here \nhttps://us.sagepub.com/en-us/nam/eric-berne/book203282",
@@ -3051,7 +1863,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 4",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
     "url": "https://www.youtube.com/watch?v=dCQr034Wbf0",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:29:23Z",
     "type": "video",
@@ -3062,7 +1874,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 5",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
     "url": "https://www.youtube.com/watch?v=fPqCyruNX6Y",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:29:23Z",
     "type": "video",
@@ -3073,7 +1885,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 6",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
     "url": "https://www.youtube.com/watch?v=1Gn3fNbUJ7o",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:29:23Z",
     "type": "video",
@@ -3084,7 +1896,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 7",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
     "url": "https://www.youtube.com/watch?v=OnfEpmE9xmo",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:29:23Z",
     "type": "video",
@@ -3095,7 +1907,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 2",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental",
     "url": "https://www.youtube.com/watch?v=WuKbW2efIf4",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:29:03Z",
     "type": "video",
@@ -3106,7 +1918,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 3",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA ,a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
     "url": "https://www.youtube.com/watch?v=ggaEBv8xPbE",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:29:03Z",
     "type": "video",
@@ -3117,7 +1929,7 @@ export const videos = [
     "title": "Seven Eyed Model of Supervision - Mode 1",
     "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental",
     "url": "https://www.youtube.com/watch?v=xfVApdrV6g8",
-    "category": "Supervision",
+    "category": "Supervision Videos",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:28:42Z",
     "type": "video",
@@ -3197,17 +2009,6 @@ export const videos = [
     "category": "Meet the Team",
     "playlist": "Manchester Institute for Psychotherapy - Who we are",
     "publishedAt": "2016-08-29T18:30:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "hfQvvkuBZzQ",
-    "title": "Working With 4 Parts of Self - A Model for Change",
-    "description": "Visit us @ http://www.mcpt.co.uk\n\nBob Cooke Talks to Rory Lees-Oakes about the four domains of Self in Psychotherapy Treatment - Cognitive Self, Feeling Self, Physical Self, Behavioural Self. Bob talks about a Fifth sense of self which is the Spiritual Self",
-    "url": "https://www.youtube.com/watch?v=hfQvvkuBZzQ",
-    "category": "Other Content",
-    "playlist": "Favourites",
-    "publishedAt": "2013-08-21T13:40:12Z",
     "type": "video",
     "source": "YouTube"
   }
