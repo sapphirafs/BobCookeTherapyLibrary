@@ -16,15 +16,22 @@ export const VideoList: React.FC = () => {
   ...Array.from(new Set(videos.map(v => v.category))).sort()
 ];
   const filteredVideos = useMemo(() => {
-    return videos.filter(v => {
-      const matchesSearch =
-        v.title.toLowerCase().includes(query.toLowerCase());
+    const seen = new Set<string>();
+    return videos
+      .filter(v => {
+        const matchesSearch =
+          v.title.toLowerCase().includes(query.toLowerCase());
 
-      const matchesCategory =
-        category === "All" || v.category === category;
+        const matchesCategory =
+          category === "All" || v.category === category;
 
-      return matchesSearch && matchesCategory;
-    });
+        return matchesSearch && matchesCategory;
+      })
+      .filter(v => {
+        if (seen.has(v.id)) return false;
+        seen.add(v.id);
+        return true;
+      });
   }, [query, category]);
 
   const totalPages = Math.ceil(filteredVideos.length / ITEMS_PER_PAGE);
@@ -35,48 +42,41 @@ export const VideoList: React.FC = () => {
   React.useEffect(() => setPage(1), [query, category]);
 
   return (
-    <div style={{ display: "flex", gap: "30px" }}>
-
-      <aside style={{ minWidth: "200px" }}>
-        <h3>Categories</h3>
-        {categories.map(c => (
-          <div key={c}>
-            <button
-              onClick={() => setCategory(c)}
-              style={{
-                background: c === category ? "#4A90E2" : "#eee",
-                color: c === category ? "white" : "black",
-                border: "none",
-                padding: "8px",
-                marginBottom: "5px",
-                width: "100%",
-                cursor: "pointer"
-              }}
-            >
-              {c}
-            </button>
+    <div className="container">
+      <div className="row">
+        <aside className="col-12 col-md-3 mb-4">
+          <h3>Categories</h3>
+          <div className="list-group">
+            {categories.map(c => (
+              <button
+                key={c}
+                onClick={() => setCategory(c)}
+                className={"list-group-item list-group-item-action" +
+                  (c === category ? " active" : "")}
+              >
+                {c}
+              </button>
+            ))}
           </div>
-        ))}
-      </aside>
+        </aside>
 
-      <div style={{ flex: 1 }}>
-        <SearchBar query={query} setQuery={setQuery} placeholder="Search videos..." />
+        <div className="col-12 col-md-9">
+          <SearchBar query={query} setQuery={setQuery} placeholder="Search videos..." />
 
-        <div style={{
-          display: "flex",
-          flexWrap: "wrap",
-          gap: "16px"
-        }}>
-          {currentVideos.map(v => (
-            <VideoCard key={v.id} video={v} />
-          ))}
+          <div className="row g-3">
+            {currentVideos.map((v, i) => (
+              <div key={`${v.id}-${i}`} className="col-12 col-sm-6 col-md-4 col-lg-3">
+                <VideoCard video={v} />
+              </div>
+            ))}
+          </div>
+
+          <Pagination
+            currentPage={page}
+            totalPages={totalPages}
+            setPage={setPage}
+          />
         </div>
-
-        <Pagination
-          currentPage={page}
-          totalPages={totalPages}
-          setPage={setPage}
-        />
       </div>
     </div>
   );

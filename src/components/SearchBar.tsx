@@ -8,20 +8,14 @@ type SearchBarProps = {
 
 export const SearchBar: React.FC<SearchBarProps> = ({ query, setQuery, placeholder }) => {
   return (
-    <div style={{ marginBottom: "20px" }}>
+    <div className="mb-3">
       <input
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         placeholder={placeholder || "Search..."}
-        style={{
-          width: "100%",
-          maxWidth: "400px",
-          padding: "10px",
-          fontSize: "16px",
-          borderRadius: "5px",
-          border: "1px solid #ccc"
-        }}
+        className="form-control"
+        style={{ maxWidth: "400px" }}
       />
     </div>
   );

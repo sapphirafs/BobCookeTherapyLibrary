@@ -20,20 +20,16 @@ export const VideoCard: React.FC<VideoCardProps> = ({ video }) => {
   // Private video fallback
   if (video.title === "Private video") {
     return (
-      <div style={{
-        border: "1px solid #ccc",
-        padding: "10px",
-        borderRadius: "8px",
-        backgroundColor: "#f9f9f9",
-        width: "300px",
-        margin: "10px",
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "space-between"
-      }}>
-        <h4>Private Video</h4>
-        <p style={{ fontSize: "14px" }}>Cannot embed this video.</p>
-        <a href={video.url} target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      <div className="card mb-3" style={{ minWidth: "200px" }}>
+        <div className="card-body d-flex flex-column justify-content-between">
+          <h4 className="card-title">Private Video</h4>
+          <p className="card-text" style={{ fontSize: "14px" }}>
+            Cannot embed this video.
+          </p>
+          <a href={video.url} target="_blank" rel="noopener noreferrer">
+            Watch on YouTube
+          </a>
+        </div>
       </div>
     );
   }
@@ -41,65 +37,64 @@ export const VideoCard: React.FC<VideoCardProps> = ({ video }) => {
   const thumbnail = `https://img.youtube.com/vi/${video.id}/hqdefault.jpg`;
 
   return (
-    <div style={{
-      border: "1px solid #ccc",
-      borderRadius: "8px",
-      padding: "10px",
-      width: "100%",
-maxWidth: "360px",
-      margin: "10px",
-      display: "flex",
-      flexDirection: "column",
-      justifyContent: "space-between",
-      boxShadow: "0 2px 8px rgba(0,0,0,0.1)",
-      backgroundColor: "#fff"
-    }}>
-      <h4 style={{ fontSize: "16px", marginBottom: "5px" }}>{video.title}</h4>
-
-      {!play ? (
-        <div style={{ cursor: "pointer", position: "relative" }} onClick={() => setPlay(true)}>
-          <img src={thumbnail} alt={video.title} style={{ width: "100%", borderRadius: "5px" }} onError={(e) => {
-    e.currentTarget.src = "/fallback-thumbnail.png"
-  }} />
-          <span style={{
-            position: "absolute",
-            top: "50%",
-            left: "50%",
-            transform: "translate(-50%, -50%)",
-            fontSize: "32px",
-            color: "white",
-            textShadow: "1px 1px 5px black"
-          }}>▶</span>
-        </div>
-      ) : (
-        <iframe
-          width="100%"
-          height="180"
-          src={`https://www.youtube.com/embed/${video.id}?autoplay=1`}
-          title={video.title}
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          referrerPolicy="strict-origin-when-cross-origin"
-          allowFullScreen
-          style={{ borderRadius: "5px" }}
-        />
-      )}
-
-      <div style={{
-        flexGrow: 1,
-        marginTop: "10px",
-        fontSize: "13px",
-        overflow: "hidden",
-        maxHeight: "60px",
-        width: "100%",
-maxWidth: "360px"
-      }}>
-        {video.description?.slice(0, 120)}...
+    <div className="card h-100">
+      <div className="ratio ratio-16x9" style={{ cursor: "pointer" }} onClick={() => setPlay(true)}>
+        {!play ? (
+          <>
+            <img
+              src={thumbnail}
+              alt={video.title}
+              className="card-img-top"
+              style={{ objectFit: "cover" }}
+              onError={(e) => {
+                e.currentTarget.src = "/fallback-thumbnail.png";
+              }}
+            />
+            <span
+              style={{
+                position: "absolute",
+                top: "50%",
+                left: "50%",
+                transform: "translate(-50%, -50%)",
+                fontSize: "32px",
+                color: "white",
+                textShadow: "1px 1px 5px black"
+              }}
+            >
+              ▶
+            </span>
+          </>
+        ) : (
+          <iframe
+            src={`https://www.youtube.com/embed/${video.id}?autoplay=1`}
+            title={video.title}
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
+            className="w-100 h-100"
+            style={{ borderRadius: "5px" }}
+          />
+        )}
       </div>
 
-      <a href={video.url} target="_blank" rel="noopener noreferrer" style={{ marginTop: "5px", fontSize: "13px", color: "#4A90E2" }}>
-        Watch on YouTube
-      </a>
+      <div className="card-body d-flex flex-column">
+        <h5 className="card-title" style={{ fontSize: "16px" }}>
+          {video.title}
+        </h5>
+        <p
+          className="card-text flex-grow-1"
+          style={{ fontSize: "13px", overflow: "hidden", maxHeight: "60px" }}
+        >
+          {video.description?.slice(0, 120)}...
+        </p>
+      </div>
+
+      <div className="card-footer bg-transparent border-top-0">
+        <a href={video.url} target="_blank" rel="noopener noreferrer" className="btn btn-sm btn-link">
+          Watch on YouTube
+        </a>
+      </div>
     </div>
   );
 };

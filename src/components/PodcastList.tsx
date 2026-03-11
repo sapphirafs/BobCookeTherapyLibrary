@@ -11,11 +11,16 @@ export const PodcastList: React.FC = () => {
   const [query, setQuery] = useState("");
 
   const filteredPodcasts = useMemo(() => {
-    return podcasts.filter(
-      p =>
-        p.title.toLowerCase().includes(query.toLowerCase())
-        
-    );
+    const seen = new Set<string>();
+    return podcasts
+      .filter(
+        p => p.title.toLowerCase().includes(query.toLowerCase())
+      )
+      .filter(p => {
+        if (seen.has(p.id)) return false;
+        seen.add(p.id);
+        return true;
+      });
   }, [query]);
 
   const totalPages = Math.ceil(filteredPodcasts.length / ITEMS_PER_PAGE);
@@ -26,24 +31,22 @@ export const PodcastList: React.FC = () => {
   React.useEffect(() => setPage(1), [query]);
 
   return (
-  <div>
-    <SearchBar query={query} setQuery={setQuery} placeholder="Search podcasts..." />
+    <div className="container">
+      <SearchBar query={query} setQuery={setQuery} placeholder="Search podcasts..." />
 
-    <div style={{
-      display: "flex",
-      flexWrap: "wrap",
-      gap: "16px"
-    }}>
-      {currentPodcasts.map(p => (
-        <PodcastCard key={p.id} podcast={p} />
-      ))}
+      <div className="row g-3">
+        {currentPodcasts.map((p, i) => (
+          <div key={`${p.id}-${i}`} className="col-12 col-sm-6 col-md-4 col-lg-3">
+            <PodcastCard podcast={p} />
+          </div>
+        ))}
+      </div>
+
+      <Pagination
+        currentPage={page}
+        totalPages={totalPages}
+        setPage={setPage}
+      />
     </div>
-
-    <Pagination
-      currentPage={page}
-      totalPages={totalPages}
-      setPage={setPage}
-    />
-  </div>
-);
+  );
 };

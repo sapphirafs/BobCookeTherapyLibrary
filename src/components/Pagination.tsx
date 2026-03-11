@@ -12,23 +12,22 @@ export const Pagination: React.FC<PaginationProps> = ({ currentPage, totalPages,
   const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
 
   return (
-    <div style={{ margin: "20px 0" }}>
-      {pages.map(p => (
-        <button
-          key={p}
-          onClick={() => setPage(p)}
-          style={{
-            marginRight: "5px",
-            padding: "5px 10px",
-            backgroundColor: p === currentPage ? "#4A90E2" : "#f2f2f2",
-            color: p === currentPage ? "white" : "#333",
-            border: "1px solid #ccc",
-            cursor: "pointer"
-          }}
-        >
-          {p}
-        </button>
-      ))}
-    </div>
+    <nav aria-label="Page navigation" className="my-3">
+      <ul className="pagination justify-content-center flex-wrap">
+        {pages.map(p => (
+          <li
+            key={p}
+            className={"page-item" + (p === currentPage ? " active" : "")}
+          >
+            <button
+              className="page-link"
+              onClick={() => setPage(p)}
+            >
+              {p}
+            </button>
+          </li>
+        ))}
+      </ul>
+    </nav>
   );
 };
