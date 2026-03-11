@@ -22,33 +22,33 @@ export const Header: React.FC = () => {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" href="/">
+                <a className="nav-link fw-bold" href="/">
+                  Home
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link fw-bold" href="/">
                   Videos
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/podcasts">
+                <a className="nav-link fw-bold" href="/podcasts">
                   Podcasts
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="https://www.mcpt.co.uk" target="_blank" rel="noopener noreferrer">
-                  MCPT
+                <a className="nav-link fw-bold" href="https://www.psychotherapysupervision.net" target="_blank" rel="noopener noreferrer">
+                  Supervision Training
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="https://www.psychotherapysupervision.net" target="_blank" rel="noopener noreferrer">
-                  Supervision
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="https://www.bobcooke.org" target="_blank" rel="noopener noreferrer">
+                <a className="nav-link fw-bold" href="https://www.bobcooke.org" target="_blank" rel="noopener noreferrer">
                   Bob Cooke
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="https://www.lowcosttherapy.co.uk" target="_blank" rel="noopener noreferrer">
-                  Low Cost Therapy
+                <a className="nav-link fw-bold" href="https://www.lowcostpsychotherapy.co.uk" target="_blank" rel="noopener noreferrer">
+                  Low Cost Psychotherapy
                 </a>
               </li>
             </ul>

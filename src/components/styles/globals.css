@@ -22,3 +22,28 @@
 .pagination button.active {
   font-weight: bold;
 }
+
+/* make nav links and toggler bolder */
+.navbar-nav .nav-link {
+  font-weight: 400 !important; /* ensure normal weight */
+  color: #ffffff !important; /* pure white */
+  opacity: 1 !important;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #e0e0e0 !important;
+}
+
+/* add glow to hamburger icon */
+.navbar-toggler-icon {
+  filter: drop-shadow(0 0 3px rgba(255,255,255,0.8));
+}
+.navbar-toggler {
+  border-color: rgba(255,255,255,0.7);
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.navbar-toggler {
+  border-color: rgba(255,255,255,0.5);
+}

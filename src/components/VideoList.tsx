@@ -12,9 +12,15 @@ export const VideoList: React.FC = () => {
   const [category, setCategory] = useState("All");
 
   const categories = [
-  "All",
-  ...Array.from(new Set(videos.map(v => v.category))).sort()
-];
+    "All",
+    ...Array.from(new Set(
+      videos
+        .map(v => v.category)
+        .filter(c => c !== "Conferences" && c !== "Other Content")
+    ))
+      .map(c => (c === "Supervision" ? "Supervision Videos" : c))
+      .sort()
+  ];
   const filteredVideos = useMemo(() => {
     const seen = new Set<string>();
     return videos
@@ -23,8 +29,8 @@ export const VideoList: React.FC = () => {
           v.title.toLowerCase().includes(query.toLowerCase());
 
         const matchesCategory =
-          category === "All" || v.category === category;
-
+        category === "All" ||
+        (category === "Supervision Videos" ? v.category === "Supervision" : v.category === category);
         return matchesSearch && matchesCategory;
       })
       .filter(v => {
