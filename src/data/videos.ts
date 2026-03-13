@@ -44,17 +44,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "WgA91sBGcOM",
-    "title": "Trump tariffs debate descends into Brexit chaos | LBC",
-    "description": "James O'Brien puts caller Paul - 'the least woke bloke in the world' - on the spot after he reveals he voted for Brexit.\n\nPaul is asked to give 'his favourite bit' of Britain's exit from the EU, but James is not satisfied with his response. \n\nThe debate began with Paul wondering why 'everyone's so surprised' by Trump's tariffs. \n\nIt comes after Donald Trump has claimed the UK is happy with the tariffs he imposed on Wednesday's 'Liberation Day'.\n\nTrump announced imports from the UK would be hit with 10% tariffs on Wednesday, the lowest rate possible - although this was still considered damaging by politicians and businesses.\n\nMany countries and trade blocs, including China and the EU, were hit with much higher import taxes.\n\nThe British government said on Thursday that it was drawing up a list of goods that would be subject to retaliatory tariffs.\n\nListen to the full show on Global Player: https://app.af.globalplayer.com/Br0x/LBCYouTubeListenLive\n\n#jamesobrien #brexit #trump #donaldtrump #trade #tariff #starmer #keirstarmer #eu #europe #europeanunion #news #politics #debate #usa #uspolitics #ukpolitics  LBC\n\nLBC is the home of live debate around news and current affairs in the UK.\n\nJoin in the conversation and listen at https://www.lbc.co.uk/ \nSign up to LBC’s weekly newsletter here: https://l-bc.co/signup",
-    "url": "https://www.youtube.com/watch?v=WgA91sBGcOM",
-    "category": "Book Reviews",
-    "playlist": "Book Reviews 2021",
-    "publishedAt": "2025-04-04T13:09:37Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "HxZU1eLYcOQ",
     "title": "Book Review #93 - The Art of the First Session by Robert Taibbi",
     "description": "Bob Cooke reviews the book The Art of the First Session: Making Psychotherapy Count from the Start by Robert Taibbi \n\nThe average client today only comes to therapy five to eight times, and many only come once, so it is increasingly important, therefore, for therapists to achieve first-session success. \n\nTherapeutic skills and sales and marketing savvy are equally important to this task. \n\nIn the first sixty minutes, clinicians must build trust, communicate what they have to offer, and ensure that the client feels different when they walk out than they did walking in. \n\nShort, practical, and applicable to all therapeutic modalities, this book walks readers through all the first-session essentials, including preparation for the first session, action-steps for each stage of the session, techniques for changing the emotional climate, and \"closing the deal,\" to make sure that clients come back for more. \n\nPacked with case examples, vignettes, tools, and techniques, The Art of the First Session prepares clinicians with critical skills to cut through performance anxiety, feel and convey confidence with clients, and hit the ground running in therapy with new clients.\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
