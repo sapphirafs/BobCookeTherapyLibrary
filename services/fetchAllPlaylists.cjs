@@ -21,9 +21,9 @@ const PLAYLISTS = [
 
   { id: "PLD3GE-eEZ8mnWGxm1NfQPa4stinrr_FcW", category: "TA Theory Explained", playlist: "Applied Skills in TA" },
 
-  { id: "PLD3GE-eEZ8mnUE-VKjEmNz8M7tLOqL0x4", category: "Meet the Team", playlist: "Meet our therapists" },
+  // { id: "PLD3GE-eEZ8mnUE-VKjEmNz8M7tLOqL0x4", category: "Meet the Team", playlist: "Meet our therapists" },
 
-  { id: "PLD3GE-eEZ8mlUmMi3WPjyQWGa45rTyH2H", category: "Meet the Team", playlist: "Meet the trainers" },
+  // { id: "PLD3GE-eEZ8mlUmMi3WPjyQWGa45rTyH2H", category: "Meet the Team", playlist: "Meet the trainers" },
 
   // { id: "PLD3GE-eEZ8mmaMONqpo6RzsIUIQ4yVv1t", category: "Conferences", playlist: "MIP Conference 2017" },
 
@@ -35,7 +35,9 @@ const PLAYLISTS = [
 
   { id: "PLD3GE-eEZ8mnHLUZ3AfM1wVvL577i7gN3", category: "Supervision", playlist: "Seven Eyed Model of Supervision" },
 
-  { id: "PLD3GE-eEZ8mn3NTSz_OKlQi14haZQ1euj", category: "Meet the Team", playlist: "Manchester Institute for Psychotherapy - Who we are" },
+  // { id: "PLD3GE-eEZ8mn3NTSz_OKlQi14haZQ1euj", category: "Meet the Team", playlist: "Manchester Institute for Psychotherapy - Who we are" },
+
+  { id: "PLD3GE-eEZ8mnVfvMIYW-g6BQY65OYgZo7", category: "Integrative Psychotherapy", playlist: "Integrative Psychotherapy" },
 
   // { id: "FLh7HBW11XdL1jxAyDWwG8mg", category: "Other Content", playlist: "Favourites" }
 ];
