@@ -1,5 +1,192 @@
 export const videos = [
   {
+    "id": "jWuE_HsJEIQ",
+    "title": "5  Approaches of TA THERAPY 1961-Present day!!",
+    "description": "Bob Cooke describes the 5 Approaches within TA therapy  -1961-Present day!!",
+    "url": "https://www.youtube.com/watch?v=jWuE_HsJEIQ",
+    "category": "TA Theory Explained",
+    "playlist": "Applied Skills in TA",
+    "publishedAt": "2026-03-18T21:11:46Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "WogaYqSUP6w",
+    "title": "Live Therapy - Inner Child work",
+    "description": "Psychotherapy clip demonstrating Transactional Analysis therapy- with clients Inner Child,",
+    "url": "https://www.youtube.com/watch?v=WogaYqSUP6w",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2026-03-18T21:11:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Sq3RYMIAi9s",
+    "title": "Clinical Supervision-How to be Effective",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nHow can the Supervisee/Therapist use  Supervision effectively?-.How can the Supervisor and Therapist create an effective Supervision Learning Environment -to increase learning in Clinical Supervision?",
+    "url": "https://www.youtube.com/watch?v=Sq3RYMIAi9s",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:10:31Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Wt_3nDHH3ks",
+    "title": "Clinical Supervision-Practice and Theory",
+    "description": "In this dialogue Two experienced supervisors , discuss Clinical Supervision as a concept to support Clients , enhance practitioner ability, self care and Modeling.",
+    "url": "https://www.youtube.com/watch?v=Wt_3nDHH3ks",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:10:24Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "A5SJSaJWX7k",
+    "title": "Therapy Supervision-explanation",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nAn explanation on what is purpose of  Clinical Supervision-this is a forward to the other 2 videos by Bob Cooke TSTA On Supervision.",
+    "url": "https://www.youtube.com/watch?v=A5SJSaJWX7k",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:47Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "o5zPhPWpK0g",
+    "title": "Clinical Supervision-Check List.",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nClinical Supervision-Check List. In this presentation i go through my own check list of areas for effective supervision!",
+    "url": "https://www.youtube.com/watch?v=o5zPhPWpK0g",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:39Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "cFL0izzoF9E",
+    "title": "TA-Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nWe will look at some of the TA concepts and explain how a  TA Supervisor may use these ideas in  Clinical Supervision.",
+    "url": "https://www.youtube.com/watch?v=cFL0izzoF9E",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:26Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "R0gsnnmS4DQ",
+    "title": "Live Clinical  Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nThis a unique chance to observe a live Supervision session.\nAnd to hear the Supervisors resume of his ideas ,and 4 specific Teaching points for Effective Supervision.",
+    "url": "https://www.youtube.com/watch?v=R0gsnnmS4DQ",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:05Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Fz0Bj_pi1pc",
+    "title": "The 7 stage model of Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nA description of the seven stage Supervision model by Hawkins and Shoet. Bob Cooke talks about the usefulness of this specific model of Clinical Supervision from his experiance clinically.\nIt is very useful to know where you are in the Supervision process and also in the understanding of the process model.",
+    "url": "https://www.youtube.com/watch?v=Fz0Bj_pi1pc",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:08:48Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "rfAcsxKj1l4",
+    "title": "Theories & Methods of an Integrative Transactional Analysis - Book Review 24",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nTheories & Methods of an Integrative Transactional Analysis\nFor more details of this book click here;  https://www.amazon.co.uk/Theories-Methods-Integrative-Transactional-Analysis/dp/0894890042",
+    "url": "https://www.youtube.com/watch?v=rfAcsxKj1l4",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:11:34Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "X0XT0VZxKZk",
+    "title": "Integrative School - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the Integrative school and Richard Erskine - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=X0XT0VZxKZk",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:11:24Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Xxq79TMdKNs",
+    "title": "Integrative Psychotherapy - It's roots - history - and methods",
+    "description": "Bob Cooke TSTA explains what Integrative Psychotherapy is, and its influences and roots.\nHe goes on to talk about the history of Integrative Psychotherapy.     He also talks about his ideas of how therapists need to redress the Four domains of the Self and how you can see this model as a model of assessment.",
+    "url": "https://www.youtube.com/watch?v=Xxq79TMdKNs",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:11:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "z-Dgc2fMw78",
+    "title": "Integrative Psychotherapy in Action  - Book Review 29",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Integrative Psychotherapy in Action\nFor more details of this book click here https://www.amazon.co.uk/Integrative-Psychotherapy-Action-Richard-Erskine/dp/185575830X",
+    "url": "https://www.youtube.com/watch?v=z-Dgc2fMw78",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:10:59Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "zgRMpYuvD0M",
+    "title": "Integrative psychotherapy- Theory and methods",
+    "description": "In this video Bob Cooke TSTA  looks at the idea of Integrative Psychotherapy- it's theory- models and methods.\n the Integrative psychotherapy model that Bob describes in this video is taken from Richard Erskine's ideas of integration and Integrative Psychotherapy.",
+    "url": "https://www.youtube.com/watch?v=zgRMpYuvD0M",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:10:54Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "7GbMQPR2tsE",
+    "title": "Treatment planning in Psychotherapy -Integrative framework",
+    "description": "This Treatment plan is taken fron Erskines ideas outlined in his book on Integrative psychotherapy called Beyond Empathy",
+    "url": "https://www.youtube.com/watch?v=7GbMQPR2tsE",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:10:46Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "3i8dT06UCBs",
+    "title": "Integrative Psychotherapy-philisophical principles",
+    "description": "This powerpoint is-- bob cooke TSTA --discussing the 9 philisophical principles that underpin Integrative Psycotherapy Today\nsee www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=3i8dT06UCBs",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:10:35Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "U9_7RDdQNPU",
+    "title": "Relational Integrative Psychotherapy - Book Review 47",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Integrative Psychotherapy by Linda Finlay For more details of this book click here; https://www.amazon.co.uk/Relational-Integrative-Psychotherapy-Engaging-Practice/dp/1119087295/ref=sr_1_1?s=books&ie=UTF8&qid=1523288239&sr=8-1&keywords=relational+integrative+linda",
+    "url": "https://www.youtube.com/watch?v=U9_7RDdQNPU",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T19:10:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "dC7pABRimTg",
     "title": "Theoretical Discussion of the Two-Chair Technique",
     "description": "",
@@ -106,6 +293,17 @@ export const videos = [
     "category": "Therapy Demonstrations",
     "playlist": "Therapy Demonstration",
     "publishedAt": "2021-05-09T19:45:39Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "FafKfuR2BEQ",
+    "title": "Therapy and Counselling Videos - Susie",
+    "description": "Working with the scared child within",
+    "url": "https://www.youtube.com/watch?v=FafKfuR2BEQ",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2021-05-09T18:16:45Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1133,17 +1331,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "0yumolWLcsI",
-    "title": "Trainer - Janet Fengeros",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=0yumolWLcsI",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2018-06-15T21:13:50Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "OrA0--Muwg8",
     "title": "Life Scripts -Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Life Scripts in Transactional Analysis -  Visit our website  http://www.mcpt.co.uk",
@@ -1184,39 +1371,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-05-29T22:22:11Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "hvTMafYtE9o",
-    "title": "Therapist testimonials -  Amanda",
-    "description": "Amanda, a Therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and therapists alike \n\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=hvTMafYtE9o",
-    "category": "Meet the Team",
-    "playlist": "Meet our therapists",
-    "publishedAt": "2018-05-26T09:20:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "j4MlzyLz8I8",
-    "title": "Therapist testimonials -  Mary",
-    "description": "Mary, a therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and therapists alike \nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=j4MlzyLz8I8",
-    "category": "Meet the Team",
-    "playlist": "Meet our therapists",
-    "publishedAt": "2018-05-26T09:20:01Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Dj31May2z0A",
-    "title": "Therapist testimonials -  Steph",
-    "description": "Steph Cooke , Director of the Manchester Institute for Psychotherapy, talks about her journey into becoming a Psychotherapist .\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=Dj31May2z0A",
-    "category": "Meet the Team",
-    "playlist": "Meet our therapists",
-    "publishedAt": "2018-05-26T09:18:53Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1265,17 +1419,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "BBsBXf427T0",
-    "title": "Trainer -Dr Ruth Birkebaek",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=BBsBXf427T0",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2018-04-16T15:14:42Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "U9_7RDdQNPU",
     "title": "Relational Integrative Psychotherapy - Book Review 47",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Integrative Psychotherapy by Linda Finlay For more details of this book click here; https://www.amazon.co.uk/Relational-Integrative-Psychotherapy-Engaging-Practice/dp/1119087295/ref=sr_1_1?s=books&ie=UTF8&qid=1523288239&sr=8-1&keywords=relational+integrative+linda",
@@ -1298,17 +1441,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "6FcWxVLLxd4",
-    "title": "Trainer - Marylin Wright",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=6FcWxVLLxd4",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2018-04-09T12:45:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "LwTDmmM392o",
     "title": "Staring at the Sun - Book Review 45",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Straring at the Sun by Irvin Yalom \r\nFor more details of this book click here;  https://www.amazon.co.uk/Staring-Sun-Overcoming-Terror-Death-ebook/dp/B001TUYV6O",
@@ -1327,17 +1459,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-04-02T21:10:59Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "-SC2nqu1wlk",
-    "title": "Trainer Karen Burke",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=-SC2nqu1wlk",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2018-03-20T17:51:35Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1408,17 +1529,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "Zymx_pm-N9M",
-    "title": "Trainer-  Julia Tolly",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\r\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=Zymx_pm-N9M",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2018-02-02T09:08:19Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "IZNz7pUcf0Y",
     "title": "Relational Centred Research - Book Review 37",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Centred Research for psychotherpaists\r\nFor more details of this book click here:\r\nhttps://www.amazon.co.uk/Relational-centred-Research-Psychotherapists-Exploring-Experience/dp/047099777X",
@@ -1437,17 +1547,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-01-21T17:24:22Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "E8JaYOlOQto",
-    "title": "Trainer- Stephanie Cooke",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=E8JaYOlOQto",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2018-01-17T23:38:32Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1536,17 +1635,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2017-11-23T20:36:20Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "kGQT8HMi8Io",
-    "title": "Trainer- Susie Hewitt",
-    "description": "'Meet the trainers'.A series of short video clips introducing the teaching team at the Manchester Institute for Psychotherapy.\n For details of courses and CPD events visit https://mcpt.co.uk/events/",
-    "url": "https://www.youtube.com/watch?v=kGQT8HMi8Io",
-    "category": "Meet the Team",
-    "playlist": "Meet the trainers",
-    "publishedAt": "2017-11-06T21:06:06Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1921,83 +2009,6 @@ export const videos = [
     "category": "Supervision",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2016-09-30T10:28:42Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Ma7JTCmteCg",
-    "title": "Therapist testimonials - Janet",
-    "description": "Janet, a Therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and Therapists alike.\n\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=Ma7JTCmteCg",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-31T10:09:22Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "j4MlzyLz8I8",
-    "title": "Therapist testimonials -  Mary",
-    "description": "Mary, a therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and therapists alike \nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=j4MlzyLz8I8",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-29T18:30:47Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "hvTMafYtE9o",
-    "title": "Therapist testimonials -  Amanda",
-    "description": "Amanda, a Therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and therapists alike \n\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=hvTMafYtE9o",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-29T18:30:47Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0M07grB2w04",
-    "title": "Therapist testimonials -  Kellie",
-    "description": "Kellie, a Therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and Therapists alike. \n\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=0M07grB2w04",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-29T18:30:47Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "TQTdKec6MLE",
-    "title": "Therapist testimonials -  Johnny",
-    "description": "Johnny, a Therapist at the Manchester Institute for Psychotherapy talk's about what makes the Institute a very special place for clients and Therapists alike.\n\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=TQTdKec6MLE",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-29T18:30:47Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "CumzDNJv-G8",
-    "title": "Bob Cooke - My journey into the world of Psychotherapy",
-    "description": "Bob Cooke TSTA-     Founder of the Manchester Institute for Psychotherapy, talks about his journey into becoming a Psychotherapist ,and the evolution of the Manchester Institute of Psychotherapy-UK as a major force in Therapy and Therapy training",
-    "url": "https://www.youtube.com/watch?v=CumzDNJv-G8",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-29T18:30:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Dj31May2z0A",
-    "title": "Therapist testimonials -  Steph",
-    "description": "Steph Cooke , Director of the Manchester Institute for Psychotherapy, talks about her journey into becoming a Psychotherapist .\nFor more information go to http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=Dj31May2z0A",
-    "category": "Meet the Team",
-    "playlist": "Manchester Institute for Psychotherapy - Who we are",
-    "publishedAt": "2016-08-29T18:30:25Z",
     "type": "video",
     "source": "YouTube"
   }
