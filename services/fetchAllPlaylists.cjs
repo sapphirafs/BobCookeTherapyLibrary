@@ -19,7 +19,7 @@ const PLAYLISTS = [
 
   // { id: "PLD3GE-eEZ8mnrq6V0yJA2wjmhWDbfwVjm", category: "Other Content", playlist: "UKCP" },
 
-  { id: "PLD3GE-eEZ8mnWGxm1NfQPa4stinrr_FcW", category: "TA Theory Explained", playlist: "Applied Skills in TA" },
+  // { id: "PLD3GE-eEZ8mnWGxm1NfQPa4stinrr_FcW", category: "TA Theory Explained", playlist: "Applied Skills in TA" },
 
   // { id: "PLD3GE-eEZ8mnUE-VKjEmNz8M7tLOqL0x4", category: "Meet the Team", playlist: "Meet our therapists" },
 
