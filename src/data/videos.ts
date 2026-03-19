@@ -1,5 +1,38 @@
 export const videos = [
   {
+    "id": "ZNPehg-K_28",
+    "title": "What is Integrative Psychotherapy ? [Subtitles]",
+    "description": "In this video the creator of Integrative Psychotherapy, the psychologist Richard Erskine Phd., shares his definition and fundamental concepts of this relationally based approach to psychotherapy.",
+    "url": "https://www.youtube.com/watch?v=ZNPehg-K_28",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T23:26:17Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "WJ-GX1c0CxY",
+    "title": "Relational needs in Psychotherapy",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nRelational needs in Psychotherapy-\n\nWe also describe Erskines eight relational needs and how they occur in Therapy.",
+    "url": "https://www.youtube.com/watch?v=WJ-GX1c0CxY",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T23:13:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "AwclJu1Hdfo",
+    "title": "The 8 relational needs - Richard Erskine - Transactional Analysis",
+    "description": "[Developing theories] Richard Erskine TSTA (Psychotherapy) in the US, develops the 8 important relational needs. EATA Conference 2016 in Geneva.",
+    "url": "https://www.youtube.com/watch?v=AwclJu1Hdfo",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-03-18T23:05:22Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "jWuE_HsJEIQ",
     "title": "5  Approaches of TA THERAPY 1961-Present day!!",
     "description": "Bob Cooke describes the 5 Approaches within TA therapy  -1961-Present day!!",
@@ -62,17 +95,6 @@ export const videos = [
     "category": "Supervision",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2026-03-18T21:09:39Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "cFL0izzoF9E",
-    "title": "TA-Supervision",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nWe will look at some of the TA concepts and explain how a  TA Supervisor may use these ideas in  Clinical Supervision.",
-    "url": "https://www.youtube.com/watch?v=cFL0izzoF9E",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:09:26Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -293,17 +315,6 @@ export const videos = [
     "category": "Therapy Demonstrations",
     "playlist": "Therapy Demonstration",
     "publishedAt": "2021-05-09T19:45:39Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "FafKfuR2BEQ",
-    "title": "Therapy and Counselling Videos - Susie",
-    "description": "Working with the scared child within",
-    "url": "https://www.youtube.com/watch?v=FafKfuR2BEQ",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2021-05-09T18:16:45Z",
     "type": "video",
     "source": "YouTube"
   },
