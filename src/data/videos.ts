@@ -1,5 +1,93 @@
 export const videos = [
   {
+    "id": "lGqXixWjdNA",
+    "title": "Personality adaptations-A diagnostic model For Psychotherapists",
+    "description": "The Personality Adaptations model,is a diagnostic model,which helps the Therapist understand the best way to contact the client, and increase Rapport.\nThis model also looks at the Target mode, and the Trap door mode-which is essential for the Therapist to keep away from at the beggining stages of Therapy",
+    "url": "https://www.youtube.com/watch?v=lGqXixWjdNA",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:56:45Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "7uoJvvn2ynI",
+    "title": "TA concepts Structural Pathology-Decontamination and the   Deconfusion of the Child ego state",
+    "description": "In this video Bob Cooke TSTA describes what is known in transactional analysis terms- to key concepts decontamination and the confusion of the child ego state.\n\nBob talks about the confusion of the different parts of the self and how to work with the regressed child ego state",
+    "url": "https://www.youtube.com/watch?v=7uoJvvn2ynI",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:56:34Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "cFL0izzoF9E",
+    "title": "TA-Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nWe will look at some of the TA concepts and explain how a  TA Supervisor may use these ideas in  Clinical Supervision.",
+    "url": "https://www.youtube.com/watch?v=cFL0izzoF9E",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:56:12Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "OowklHQTbOU",
+    "title": "Eric Berne pictures--Founder of Transactional Analysis 1910-1970",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nEric Berne pictures--Founder of Transactional Analysis 1910-1970",
+    "url": "https://www.youtube.com/watch?v=OowklHQTbOU",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "9FwDOar6z2Y",
+    "title": "Egograms in Transactional Analysis Psychotherapy",
+    "description": "In this video Bob Cooke will explain what egograms are? And how we can use them in Transactional AnalysisPsychotherapy",
+    "url": "https://www.youtube.com/watch?v=9FwDOar6z2Y",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:35Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "BYnRVV2Ughg",
+    "title": "Ego state diagnosis in Transactional Analysis Psychotherapy.",
+    "description": "In this presentation I explain  Ego state diagnosis in Transactional Analysis Psychotherapy.",
+    "url": "https://www.youtube.com/watch?v=BYnRVV2Ughg",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "l5cI7yCYXo0",
+    "title": "What is Transactional Analysis Psychotherapy",
+    "description": "What is Transactional Analysis Psychotherapy-its major ideas\n\n\nWelcome to the Manchester Institute for Psychotherapy home on YouTube we offer a 4 year, part time psychotherapy training in Transactional Analysis, using an Integrative approach.\n This course is taken at weekends, and leads to a National and International accreditation.\n National and International accredited introduction in Transactional Analysis. Introduction to supervision, Certificate in supervision, Continuing Professional Development Programme\nPsychotherapy Conferences As well as the above training dimension we offer a comprehensive Therapy and Counselling service to the public.\n\nVisit us @ http://www.mcpt.co.uk/\nwww.bobcooke.blogspot.com",
+    "url": "https://www.youtube.com/watch?v=l5cI7yCYXo0",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:17Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "H-KheslmZK0",
+    "title": "Contracts - five stage plan!!",
+    "description": "TA Contracts a five stage plan.",
+    "url": "https://www.youtube.com/watch?v=H-KheslmZK0",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:53:35Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "ZNPehg-K_28",
     "title": "What is Integrative Psychotherapy ? [Subtitles]",
     "description": "In this video the creator of Integrative Psychotherapy, the psychologist Richard Erskine Phd., shares his definition and fundamental concepts of this relationally based approach to psychotherapy.",
@@ -612,28 +700,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-06-17T21:59:09Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "AE-nfKAuxiw",
-    "title": "The OK Corrall - Transactional Analysis",
-    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the OK Corral- Visit our website  http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=AE-nfKAuxiw",
-    "category": "TA Theory Explained",
-    "playlist": "TA Theory Explained",
-    "publishedAt": "2019-06-17T18:37:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "AMxO8hO-bTQ",
-    "title": "Hungers -Transactional Analysis",
-    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Hungers  Visit our website  http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=AMxO8hO-bTQ",
-    "category": "TA Theory Explained",
-    "playlist": "TA Theory Explained",
-    "publishedAt": "2019-06-06T22:40:19Z",
     "type": "video",
     "source": "YouTube"
   },
