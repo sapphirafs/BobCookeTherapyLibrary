@@ -1,5 +1,27 @@
 export const videos = [
   {
+    "id": "NBO38HqQTgI",
+    "title": "Dr. Eric Berne - Games People Play - The Practice Part 1",
+    "description": "From a 1966 NET Science broadcast special on Dr. Eric Berne's wildly successful book Games People Play.  The author interviews Dr. Berne at his home in Carmel where Dr. Berne explains the theory behind Transactional Analysis.  One of few videos with sound of the genius Dr. Berne before his untimely dealth in 1970.",
+    "url": "https://www.youtube.com/watch?v=NBO38HqQTgI",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-12T08:16:35Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "_OZ3TRxmguI",
+    "title": "Richard Erskine's  - Keynote Speech at the Manchester Institute for Psychotherapy  Conference  2019",
+    "description": "Legendary psychotherapist Richard Erskine discusses the topic of Compassion, Hope & Forgiveness - Visit our website at http://www.mcpt.co.uk for information on psychotherapy and training courses.",
+    "url": "https://www.youtube.com/watch?v=_OZ3TRxmguI",
+    "category": "Integrative Psychotherapy",
+    "playlist": "Integrative Psychotherapy",
+    "publishedAt": "2026-04-12T08:12:28Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "lGqXixWjdNA",
     "title": "Personality adaptations-A diagnostic model For Psychotherapists",
     "description": "The Personality Adaptations model,is a diagnostic model,which helps the Therapist understand the best way to contact the client, and increase Rapport.\nThis model also looks at the Target mode, and the Trap door mode-which is essential for the Therapist to keep away from at the beggining stages of Therapy",
