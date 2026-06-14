@@ -1,5 +1,14 @@
 export const podcasts = [
   {
+    "id": "OPChTP-yq40",
+    "title": "Deleted video",
+    "description": "This video is unavailable.",
+    "url": "https://www.youtube.com/watch?v=OPChTP-yq40",
+    "category": "podcast",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "7jAHXIY0CNQ",
     "title": "256. The Importance of Advertising for Counsellors and Therapists | The Therapy Show",
     "description": "In a crowded market for therapists and counsellors, we discuss the importance of visibility with several approaches to attracting clients and advertising.\n\nTo listen on Apple Podcasts: https://podcasts.apple.com/us/podcast/the-therapy-show/id1570789126 \n\n\nDo you want to know what actually happens behind closed doors of the therapy session? \nDo you want to explore the mind of a master psychotherapist and demystify the therapeutic process? \nDo you want to know about the various models of psychotherapy and counselling and how they are implemented within the therapeutic hour? \nDo you want to know the makings of a professional psychotherapist and how to achieve that goal? \n\n\nBob Cooke, an international Psychotherapist , Trainer and Supervisor, talks with Simon Bayley about the world of therapy and counselling. Simon Bayley is also a psychotherapist working full time in private practice. \n\n\nThese podcasts are for anyone interested in the questions above and psychotherapy in general. The podcasts are aimed at people who are curious about psychotherapy and counselling, how therapy works, and how it helps us move towards a more healthy sense of self, both mentally and spiritually. \n\n\n\n\nThe podcasts will also be of interest to students of therapy and counselling and what it takes to be a psychotherapist and counsellor in the 21st century. Bob Cooke, who is the Founder of the Manchester Institute of Psychotherapy - UK - will through the conversations with Simon Bayley help “demystify” the therapeutic hour and therapy session. \n\n\nFinally, the podcasts will also be aimed at people who might be interested in the variety of methods and techniques of the various different therapeutic models such as Transactional Analysis, Person Centred Counselling, Gestalt Psychotherapy and Integrative Psychotherapy. \n\n\nSo please join us on this voyage of discovery and co-creative conversations. \n\n\nhttps://bobcooke.org/ https://www.kelliebarratt.co.uk/ #borderlinepersonalitydisorder #BPD #bpd #therapy #psychotherapy #livinglifebeinghuman #positivethoughts #positivemind #positivelife #dailymotivation #keepmovingforward #personalgrowth #mentalhealthawareness #helpothers #innerstrength #believeinyou #endthestigma #breakthesilence #talkaboutit #stopthestigma #mentalillnessawareness #anxietyrecovery #mentalhealthrecovery #anxietysupport #createyourownhappiness #selfhelp #anxiety #anxietyawareness #recoveryispossible #healing #gratitude #selfcare #selflove #endthestigma #mindfulness",
