@@ -11,17 +11,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "_OZ3TRxmguI",
-    "title": "Richard Erskine's  - Keynote Speech at the Manchester Institute for Psychotherapy  Conference  2019",
-    "description": "Legendary psychotherapist Richard Erskine discusses the topic of Compassion, Hope & Forgiveness - Visit our website at http://www.mcpt.co.uk for information on psychotherapy and training courses.",
-    "url": "https://www.youtube.com/watch?v=_OZ3TRxmguI",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-04-12T08:12:28Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "lGqXixWjdNA",
     "title": "Personality adaptations-A diagnostic model For Psychotherapists",
     "description": "The Personality Adaptations model,is a diagnostic model,which helps the Therapist understand the best way to contact the client, and increase Rapport.\nThis model also looks at the Target mode, and the Trap door mode-which is essential for the Therapist to keep away from at the beggining stages of Therapy",
@@ -110,39 +99,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "ZNPehg-K_28",
-    "title": "What is Integrative Psychotherapy ? [Subtitles]",
-    "description": "In this video the creator of Integrative Psychotherapy, the psychologist Richard Erskine Phd., shares his definition and fundamental concepts of this relationally based approach to psychotherapy.",
-    "url": "https://www.youtube.com/watch?v=ZNPehg-K_28",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T23:26:17Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "WJ-GX1c0CxY",
-    "title": "Relational needs in Psychotherapy",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nRelational needs in Psychotherapy-\n\nWe also describe Erskines eight relational needs and how they occur in Therapy.",
-    "url": "https://www.youtube.com/watch?v=WJ-GX1c0CxY",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T23:13:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "AwclJu1Hdfo",
-    "title": "The 8 relational needs - Richard Erskine - Transactional Analysis",
-    "description": "[Developing theories] Richard Erskine TSTA (Psychotherapy) in the US, develops the 8 important relational needs. EATA Conference 2016 in Geneva.",
-    "url": "https://www.youtube.com/watch?v=AwclJu1Hdfo",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T23:05:22Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "jWuE_HsJEIQ",
     "title": "5  Approaches of TA THERAPY 1961-Present day!!",
     "description": "Bob Cooke describes the 5 Approaches within TA therapy  -1961-Present day!!",
@@ -227,94 +183,6 @@ export const videos = [
     "category": "Supervision",
     "playlist": "Seven Eyed Model of Supervision",
     "publishedAt": "2026-03-18T21:08:48Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "rfAcsxKj1l4",
-    "title": "Theories & Methods of an Integrative Transactional Analysis - Book Review 24",
-    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nTheories & Methods of an Integrative Transactional Analysis\nFor more details of this book click here;  https://www.amazon.co.uk/Theories-Methods-Integrative-Transactional-Analysis/dp/0894890042",
-    "url": "https://www.youtube.com/watch?v=rfAcsxKj1l4",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:11:34Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "X0XT0VZxKZk",
-    "title": "Integrative School - Transactional Analysis",
-    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the Integrative school and Richard Erskine - Visit our website  http://www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=X0XT0VZxKZk",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:11:24Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Xxq79TMdKNs",
-    "title": "Integrative Psychotherapy - It's roots - history - and methods",
-    "description": "Bob Cooke TSTA explains what Integrative Psychotherapy is, and its influences and roots.\nHe goes on to talk about the history of Integrative Psychotherapy.     He also talks about his ideas of how therapists need to redress the Four domains of the Self and how you can see this model as a model of assessment.",
-    "url": "https://www.youtube.com/watch?v=Xxq79TMdKNs",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:11:14Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "z-Dgc2fMw78",
-    "title": "Integrative Psychotherapy in Action  - Book Review 29",
-    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Integrative Psychotherapy in Action\nFor more details of this book click here https://www.amazon.co.uk/Integrative-Psychotherapy-Action-Richard-Erskine/dp/185575830X",
-    "url": "https://www.youtube.com/watch?v=z-Dgc2fMw78",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:10:59Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "zgRMpYuvD0M",
-    "title": "Integrative psychotherapy- Theory and methods",
-    "description": "In this video Bob Cooke TSTA  looks at the idea of Integrative Psychotherapy- it's theory- models and methods.\n the Integrative psychotherapy model that Bob describes in this video is taken from Richard Erskine's ideas of integration and Integrative Psychotherapy.",
-    "url": "https://www.youtube.com/watch?v=zgRMpYuvD0M",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:10:54Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "7GbMQPR2tsE",
-    "title": "Treatment planning in Psychotherapy -Integrative framework",
-    "description": "This Treatment plan is taken fron Erskines ideas outlined in his book on Integrative psychotherapy called Beyond Empathy",
-    "url": "https://www.youtube.com/watch?v=7GbMQPR2tsE",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:10:46Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "3i8dT06UCBs",
-    "title": "Integrative Psychotherapy-philisophical principles",
-    "description": "This powerpoint is-- bob cooke TSTA --discussing the 9 philisophical principles that underpin Integrative Psycotherapy Today\nsee www.mcpt.co.uk",
-    "url": "https://www.youtube.com/watch?v=3i8dT06UCBs",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:10:35Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "U9_7RDdQNPU",
-    "title": "Relational Integrative Psychotherapy - Book Review 47",
-    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Integrative Psychotherapy by Linda Finlay For more details of this book click here; https://www.amazon.co.uk/Relational-Integrative-Psychotherapy-Engaging-Practice/dp/1119087295/ref=sr_1_1?s=books&ie=UTF8&qid=1523288239&sr=8-1&keywords=relational+integrative+linda",
-    "url": "https://www.youtube.com/watch?v=U9_7RDdQNPU",
-    "category": "Integrative Psychotherapy",
-    "playlist": "Integrative Psychotherapy",
-    "publishedAt": "2026-03-18T19:10:14Z",
     "type": "video",
     "source": "YouTube"
   },
