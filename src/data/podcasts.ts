@@ -36,15 +36,6 @@ export const podcasts = [
     "source": "YouTube"
   },
   {
-    "id": "OPChTP-yq40",
-    "title": "Deleted video",
-    "description": "This video is unavailable.",
-    "url": "https://www.youtube.com/watch?v=OPChTP-yq40",
-    "category": "podcast",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "FyBt-b9Lzvo",
     "title": "Five most common questions that clients ask at the beginning of psychotherapy | The Therapy Show",
     "description": "When a client approaches a new counsellor or therapist, inevitably the client will have questions about what to expect or even what is expected of them. Here, we’ll discuss the five most common questions that clients have at the beginning of the psychotherapy process.\n\nTo listen on Apple Podcasts:\nhttps://podcasts.apple.com/us/podcast/the-therapy-show/id1570789126 \n\nTo listen on Spotify: https://open.spotify.com/show/7ilrB1YuXo2CQjlAbQyPLd\n \nDo you want to know what actually happens behind closed doors of the therapy session? Do you want to explore the\nmind of a master psychotherapist and demystify the therapeutic process? \nDo you want to know about the various models of psychotherapy and counselling and how they are implemented within the therapeutic hour? Do you want to know the\nmakings of a professional psychotherapist and how to achieve that goal? \nBob Cooke, an international Psychotherapist , Trainer and Supervisor, talks with Simon Bayley about the world of therapy and counselling. Simon Bayley is also a psychotherapist\nworking full time in private practice. \nThese podcasts are for anyone interested in the questions above and psychotherapy in general. \nThe podcasts are aimed at\npeople who are curious about psychotherapy and counselling, how therapy works, and how it helps us move towards a more healthy sense of self, both mentally and spiritually. \nThe podcasts will also be of interest to students of therapy\nand counselling and what it takes to be a psychotherapist and counsellor in the 21st century. \nBob Cooke, who is the Founder of the Manchester Institute of Psychotherapy - UK - will through the conversations with Simon Bayley help “demystify” the therapeutic hour and therapy session. \nFinally, the podcasts will also be aimed at people who might be interested in the variety of methods and techniques of\nthe various different therapeutic models such as Transactional Analysis, Person Centred Counselling, Gestalt Psychotherapy and Integrative Psychotherapy. \nSoplease join us on this voyage of discovery and co-creative conversations. https://bobcooke.org/ \n\n#borderlinepersonalitydisorder #BPD #bpd #therapy #psychotherapy\n#livinglifebeinghuman #positivethoughts #positivemind #positivelife\n#dailymotivation #keepmovingforward #personalgrowth #mentalhealthawareness\n#helpothers #innerstrength #believeinyou #endthestigma #breakthesilence\n#talkaboutit #stopthestigma #mentalillnessawareness #anxietyrecovery\n#mentalhealthrecovery #anxietysupport #createyourownhappiness #selfhelp\n#anxiety #anxietyawareness #recoveryispossible #healing #gratitude #selfcare\n#selflove #endthestigma #mindfulness",
