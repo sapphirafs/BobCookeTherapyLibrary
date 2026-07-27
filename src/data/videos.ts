@@ -154,83 +154,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "WogaYqSUP6w",
-    "title": "Live Therapy - Inner Child work",
-    "description": "Psychotherapy clip demonstrating Transactional Analysis therapy- with clients Inner Child,",
-    "url": "https://www.youtube.com/watch?v=WogaYqSUP6w",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2026-03-18T21:11:14Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Sq3RYMIAi9s",
-    "title": "Clinical Supervision-How to be Effective",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nHow can the Supervisee/Therapist use  Supervision effectively?-.How can the Supervisor and Therapist create an effective Supervision Learning Environment -to increase learning in Clinical Supervision?",
-    "url": "https://www.youtube.com/watch?v=Sq3RYMIAi9s",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:10:31Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Wt_3nDHH3ks",
-    "title": "Clinical Supervision-Practice and Theory",
-    "description": "In this dialogue Two experienced supervisors , discuss Clinical Supervision as a concept to support Clients , enhance practitioner ability, self care and Modeling.",
-    "url": "https://www.youtube.com/watch?v=Wt_3nDHH3ks",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:10:24Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "A5SJSaJWX7k",
-    "title": "Therapy Supervision-explanation",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nAn explanation on what is purpose of  Clinical Supervision-this is a forward to the other 2 videos by Bob Cooke TSTA On Supervision.",
-    "url": "https://www.youtube.com/watch?v=A5SJSaJWX7k",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:09:47Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "o5zPhPWpK0g",
-    "title": "Clinical Supervision-Check List.",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nClinical Supervision-Check List. In this presentation i go through my own check list of areas for effective supervision!",
-    "url": "https://www.youtube.com/watch?v=o5zPhPWpK0g",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:09:39Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "R0gsnnmS4DQ",
-    "title": "Live Clinical  Supervision",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nThis a unique chance to observe a live Supervision session.\nAnd to hear the Supervisors resume of his ideas ,and 4 specific Teaching points for Effective Supervision.",
-    "url": "https://www.youtube.com/watch?v=R0gsnnmS4DQ",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:09:05Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "Fz0Bj_pi1pc",
-    "title": "The 7 stage model of Supervision",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nA description of the seven stage Supervision model by Hawkins and Shoet. Bob Cooke talks about the usefulness of this specific model of Clinical Supervision from his experiance clinically.\nIt is very useful to know where you are in the Supervision process and also in the understanding of the process model.",
-    "url": "https://www.youtube.com/watch?v=Fz0Bj_pi1pc",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2026-03-18T21:08:48Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "rfAcsxKj1l4",
     "title": "Theories & Methods of an Integrative Transactional Analysis - Book Review 24",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nTheories & Methods of an Integrative Transactional Analysis\nFor more details of this book click here;  https://www.amazon.co.uk/Theories-Methods-Integrative-Transactional-Analysis/dp/0894890042",
@@ -319,50 +242,6 @@ export const videos = [
     "source": "YouTube"
   },
   {
-    "id": "dC7pABRimTg",
-    "title": "Theoretical Discussion of the Two-Chair Technique",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=dC7pABRimTg",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2026-02-05T20:26:29Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0vtJkN4WqwA",
-    "title": "Demonstration of the Two-Chair Technique",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=0vtJkN4WqwA",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2026-02-05T20:22:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "gTzZtpRRubY",
-    "title": "Theoretical Discussion of the Relational Process Group",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=gTzZtpRRubY",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2026-02-05T20:20:44Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "7o1Dw61rex8",
-    "title": "Relational Process Group",
-    "description": "",
-    "url": "https://www.youtube.com/watch?v=7o1Dw61rex8",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2026-02-05T20:16:21Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
     "id": "HxZU1eLYcOQ",
     "title": "Book Review #93 - The Art of the First Session by Robert Taibbi",
     "description": "Bob Cooke reviews the book The Art of the First Session: Making Psychotherapy Count from the Start by Robert Taibbi \n\nThe average client today only comes to therapy five to eight times, and many only come once, so it is increasingly important, therefore, for therapists to achieve first-session success. \n\nTherapeutic skills and sales and marketing savvy are equally important to this task. \n\nIn the first sixty minutes, clinicians must build trust, communicate what they have to offer, and ensure that the client feels different when they walk out than they did walking in. \n\nShort, practical, and applicable to all therapeutic modalities, this book walks readers through all the first-session essentials, including preparation for the first session, action-steps for each stage of the session, techniques for changing the emotional climate, and \"closing the deal,\" to make sure that clients come back for more. \n\nPacked with case examples, vignettes, tools, and techniques, The Art of the First Session prepares clinicians with critical skills to cut through performance anxiety, feel and convey confidence with clients, and hit the ground running in therapy with new clients.\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
@@ -414,17 +293,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews 2021",
     "publishedAt": "2021-05-10T15:52:26Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "y9UJcd5ZnjM",
-    "title": "Therapy and Counselling Videos - Collette",
-    "description": "Working with Addiction - How to stop smoking",
-    "url": "https://www.youtube.com/watch?v=y9UJcd5ZnjM",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2021-05-09T19:45:39Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -524,50 +392,6 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-10-25T20:10:17Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "0K7KyXIWZ80",
-    "title": "Transactional Analysis Psychotherapy--Free Child Ego state",
-    "description": "In this video I am working with a client around Procrastination. In Transactional Analysis terms, i use the Free Child Ego state - in a attempt to move from a \"Impasse\" place in the Therapy process. With this awareness Roweena makes connections with her struggles in the Therapy session and outside it!",
-    "url": "https://www.youtube.com/watch?v=0K7KyXIWZ80",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2019-10-07T19:01:25Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "w1K9wcSwYSw",
-    "title": "Transactional Analysis Psychotherapy-Depression.",
-    "description": "In this video Bob Cooke TSTA is demonstrating TA therapy. Bob is working with someone who is presenting with Depression.\nin this video the client talks about his depression and Cumulative neglect.",
-    "url": "https://www.youtube.com/watch?v=w1K9wcSwYSw",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2019-10-07T19:00:36Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "DY583ZmzELk",
-    "title": "Live Therapy- Claiming her Power!!",
-    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nPlease go to www.therapyvideos.co.uk to see whole video!!  A description of Live therapy work",
-    "url": "https://www.youtube.com/watch?v=DY583ZmzELk",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2019-10-07T18:59:22Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "5MwyexiV1f4",
-    "title": "Therapy using TA - Susie",
-    "description": "Therapy session. working with her Inner Child using Transactional Analysis Psychotherapy!",
-    "url": "https://www.youtube.com/watch?v=5MwyexiV1f4",
-    "category": "Therapy Demonstrations",
-    "playlist": "Therapy Demonstration",
-    "publishedAt": "2019-10-07T18:58:50Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -1800,83 +1624,6 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2017-03-14T18:02:27Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "dCQr034Wbf0",
-    "title": "Seven Eyed Model of Supervision - Mode 4",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
-    "url": "https://www.youtube.com/watch?v=dCQr034Wbf0",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:29:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "fPqCyruNX6Y",
-    "title": "Seven Eyed Model of Supervision - Mode 5",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
-    "url": "https://www.youtube.com/watch?v=fPqCyruNX6Y",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:29:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "1Gn3fNbUJ7o",
-    "title": "Seven Eyed Model of Supervision - Mode 6",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
-    "url": "https://www.youtube.com/watch?v=1Gn3fNbUJ7o",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:29:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "OnfEpmE9xmo",
-    "title": "Seven Eyed Model of Supervision - Mode 7",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
-    "url": "https://www.youtube.com/watch?v=OnfEpmE9xmo",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:29:23Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "WuKbW2efIf4",
-    "title": "Seven Eyed Model of Supervision - Mode 2",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental",
-    "url": "https://www.youtube.com/watch?v=WuKbW2efIf4",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:29:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "ggaEBv8xPbE",
-    "title": "Seven Eyed Model of Supervision - Mode 3",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA ,a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
-    "url": "https://www.youtube.com/watch?v=ggaEBv8xPbE",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:29:03Z",
-    "type": "video",
-    "source": "YouTube"
-  },
-  {
-    "id": "xfVApdrV6g8",
-    "title": "Seven Eyed Model of Supervision - Mode 1",
-    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental",
-    "url": "https://www.youtube.com/watch?v=xfVApdrV6g8",
-    "category": "Supervision",
-    "playlist": "Seven Eyed Model of Supervision",
-    "publishedAt": "2016-09-30T10:28:42Z",
     "type": "video",
     "source": "YouTube"
   }
