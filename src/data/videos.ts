@@ -154,6 +154,83 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "WogaYqSUP6w",
+    "title": "Live Therapy - Inner Child work",
+    "description": "Psychotherapy clip demonstrating Transactional Analysis therapy- with clients Inner Child,",
+    "url": "https://www.youtube.com/watch?v=WogaYqSUP6w",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2026-03-18T21:11:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Sq3RYMIAi9s",
+    "title": "Clinical Supervision-How to be Effective",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nHow can the Supervisee/Therapist use  Supervision effectively?-.How can the Supervisor and Therapist create an effective Supervision Learning Environment -to increase learning in Clinical Supervision?",
+    "url": "https://www.youtube.com/watch?v=Sq3RYMIAi9s",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:10:31Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Wt_3nDHH3ks",
+    "title": "Clinical Supervision-Practice and Theory",
+    "description": "In this dialogue Two experienced supervisors , discuss Clinical Supervision as a concept to support Clients , enhance practitioner ability, self care and Modeling.",
+    "url": "https://www.youtube.com/watch?v=Wt_3nDHH3ks",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:10:24Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "A5SJSaJWX7k",
+    "title": "Therapy Supervision-explanation",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nAn explanation on what is purpose of  Clinical Supervision-this is a forward to the other 2 videos by Bob Cooke TSTA On Supervision.",
+    "url": "https://www.youtube.com/watch?v=A5SJSaJWX7k",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:47Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "o5zPhPWpK0g",
+    "title": "Clinical Supervision-Check List.",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nClinical Supervision-Check List. In this presentation i go through my own check list of areas for effective supervision!",
+    "url": "https://www.youtube.com/watch?v=o5zPhPWpK0g",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:39Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "R0gsnnmS4DQ",
+    "title": "Live Clinical  Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nThis a unique chance to observe a live Supervision session.\nAnd to hear the Supervisors resume of his ideas ,and 4 specific Teaching points for Effective Supervision.",
+    "url": "https://www.youtube.com/watch?v=R0gsnnmS4DQ",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:09:05Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Fz0Bj_pi1pc",
+    "title": "The 7 stage model of Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nA description of the seven stage Supervision model by Hawkins and Shoet. Bob Cooke talks about the usefulness of this specific model of Clinical Supervision from his experiance clinically.\nIt is very useful to know where you are in the Supervision process and also in the understanding of the process model.",
+    "url": "https://www.youtube.com/watch?v=Fz0Bj_pi1pc",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2026-03-18T21:08:48Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "rfAcsxKj1l4",
     "title": "Theories & Methods of an Integrative Transactional Analysis - Book Review 24",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nTheories & Methods of an Integrative Transactional Analysis\nFor more details of this book click here;  https://www.amazon.co.uk/Theories-Methods-Integrative-Transactional-Analysis/dp/0894890042",
@@ -242,6 +319,160 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "dC7pABRimTg",
+    "title": "Theoretical Discussion of the Two-Chair Technique",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=dC7pABRimTg",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2026-02-05T20:26:29Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "0vtJkN4WqwA",
+    "title": "Demonstration of the Two-Chair Technique",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=0vtJkN4WqwA",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2026-02-05T20:22:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "gTzZtpRRubY",
+    "title": "Theoretical Discussion of the Relational Process Group",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=gTzZtpRRubY",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2026-02-05T20:20:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "7o1Dw61rex8",
+    "title": "Relational Process Group",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=7o1Dw61rex8",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2026-02-05T20:16:21Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "HxZU1eLYcOQ",
+    "title": "Book Review #93 - The Art of the First Session by Robert Taibbi",
+    "description": "Bob Cooke reviews the book The Art of the First Session: Making Psychotherapy Count from the Start by Robert Taibbi \n\nThe average client today only comes to therapy five to eight times, and many only come once, so it is increasingly important, therefore, for therapists to achieve first-session success. \n\nTherapeutic skills and sales and marketing savvy are equally important to this task. \n\nIn the first sixty minutes, clinicians must build trust, communicate what they have to offer, and ensure that the client feels different when they walk out than they did walking in. \n\nShort, practical, and applicable to all therapeutic modalities, this book walks readers through all the first-session essentials, including preparation for the first session, action-steps for each stage of the session, techniques for changing the emotional climate, and \"closing the deal,\" to make sure that clients come back for more. \n\nPacked with case examples, vignettes, tools, and techniques, The Art of the First Session prepares clinicians with critical skills to cut through performance anxiety, feel and convey confidence with clients, and hit the ground running in therapy with new clients.\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
+    "url": "https://www.youtube.com/watch?v=HxZU1eLYcOQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-06-08T19:26:07Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "g6b688e-uJ4",
+    "title": "Book Review #92 - The State of Disbelief: A Story of Death, Love and Forgetting by Juliet Rosenfeld",
+    "description": "Bob Cooke reviews the book The State of Disbelief: A Story of Death, Love and Forgetting by\nJuliet Rosenfeld with Jacci Jones. \n\nA revelatory book about death and mourning by a psychotherapist faced with sudden bereavement. \r\nWhen Juliet Rosenfeld’s husband dies of lung cancer only seven months into their marriage, everything she has learnt about death as a psychotherapist is turned on its head. \n\r\nAs she attempts to navigate her way through her own devastating experience of loss, Rosenfeld turns to her battered copy of Freud’s seminal essay 'Mourning and Melancholia'. \nInspired by the distinction Freud draws between the savage trauma of loss that occurs at the moment of death - grief - and the longer, unpredictable evolution of that loss into something that we call mourning, Rosenfeld finds herself dramatically rethinking the commonly held therapeutic idea of 'working through stages of grief'. \n\r\nThis is a beautifully written meditation on what the investment of love means and how to find your own path after bereavement in order for life to continue. \r\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
+    "url": "https://www.youtube.com/watch?v=g6b688e-uJ4",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-06-01T09:19:06Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "c3rNVeioOfk",
+    "title": "Book Review #91 - Character Styles by Stephen M Johnson",
+    "description": "Bob Cooke reviews the book with Jacci Jones. \n\nBob Reviews the book Character Styles by Stephen M Johnson\nJohnson shows how basic life issues underlie the severe pathology of personality disorder, the nagging symptoms of neurosis, and the more functional coping and adaptation of the character styles. \nJohnson’s dimensional model captures the complexity of the human personality, while allowing for variability not seen in categorical systems such as DSM-IV. \nHis descriptive names of the character styles not only link childhood experiences to later personality and psychopathology but also put flesh and bones on psychiatric diagnosis.\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
+    "url": "https://www.youtube.com/watch?v=c3rNVeioOfk",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-05-25T15:11:40Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Z0nu3xsIOAs",
+    "title": "Book Review #90 - The Examined Life: How We Lose and Find Ourselves by Stephen Grosz",
+    "description": "Bob Cooke reviews the book with Jacci Jones. \n\r\nThe Examined Life: How We Lose and Find Ourselves\r\nby Stephen Grosz                                    \nEchoing Socrates’ statement that the unexamined life not worth living, \r\n\r\nPsychoanalyst Stephen Grosz draws on his twenty-five years of work and more than 50,000 hours of conversations to form a collection of beautifully rendered tales that illuminate the human experience.\r\n\r\nThese are stories about everyday lives: from a woman who finds herself daydreaming as she returns home from a business trip to a young man loses his wallet, to the more extreme examples: the patient who points an unloaded gun at a police officer and the compulsive liar who convinces his wife he's dying of cancer. \r\n\r\nThe resulting journey will spark new ideas about who we are and why we do what we do.\r\n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
+    "url": "https://www.youtube.com/watch?v=Z0nu3xsIOAs",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-05-18T20:50:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "a0FQn2IrJ7A",
+    "title": "Book review #89 - A Mindfulness and Compassion Oriented Approach by Gregor Žvelc &  Maša Žvelc",
+    "description": "Integrative Psychotherapy: A Mindfulness and Compassion Oriented Approach \r\nby Gregor Žvelc & Maša Žvelc \r\n\r\n\r\nBob Cooke reviews the book with Jacci Jones. \nIntegrative psychotherapy is a groundbreaking book where the authors present mindfulness- and compassion-oriented integrative psychotherapy (MCIP) as an integration of relational psychotherapy with the practice and research of mindfulness and compassion.\r\nThe book elucidates an approach which is holistic and based on evidence-based processes of change related to the main dimensions of human experience. In this approach, mindfulness and compassion are viewed as meta-processes of change that are used within an attuned therapeutic relationship to create a powerful therapeutic model that provides transformation and growth. \n\nhttps://mcpt.co.uk/​\nhttps://jaccijones.co.uk/​\n\n#psychotherapy​ #mentalhealth​ #transactionalanalysis​ #manchesterinstituteforpsychotherapy​ #positivethoughts​ #positivemind​ #positivelife​ #dailymotivation​ #keepmovingforward​ #personalgrowth​ #mentalhealthawareness​ #helpothers​ #talkaboutit​ #mentalillnessawareness​ #anxietyrecovery​ #mentalhealthrecovery​ #anxietysupport​ #selfhelp​ #anxiety​ #anxietyawareness​ #recoveryispossible​ #endthestigma​ #mindfulness​",
+    "url": "https://www.youtube.com/watch?v=a0FQn2IrJ7A",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-05-10T15:52:26Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "y9UJcd5ZnjM",
+    "title": "Therapy and Counselling Videos - Collette",
+    "description": "Working with Addiction - How to stop smoking",
+    "url": "https://www.youtube.com/watch?v=y9UJcd5ZnjM",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2021-05-09T19:45:39Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "sYMGffa-O-8",
+    "title": "Book review #88 - A Healing Relationship: Commentary on Therapeutic Dialogues by Richard G.Erskine",
+    "description": "Book review #88 - A Healing Relationship: Commentary on Therapeutic Dialogues\r\nby Richard G.Erskine\n\nBob Cooke reviews the book with Jacci Jones. \nA Healing Relationship is about a relationally focused psychotherapy, how the author works, and why. \nThe first couple of chapters provide a brief orientation to relationally focused aspects of an integrative psychotherapy. \nThe heart of the book are the transaction-by-transaction examples of what actually occurred in the psychotherapeutic dialogue.\n\nhttps://mcpt.co.uk/\nhttps://jaccijones.co.uk/\n\n#psychotherapy #mentalhealth #transactionalanalysis #manchesterinstituteforpsychotherapy #positivethoughts #positivemind #positivelife #dailymotivation #keepmovingforward #personalgrowth #mentalhealthawareness #helpothers #talkaboutit #mentalillnessawareness #anxietyrecovery #mentalhealthrecovery #anxietysupport #selfhelp #anxiety #anxietyawareness #recoveryispossible #endthestigma #mindfulness",
+    "url": "https://www.youtube.com/watch?v=sYMGffa-O-8",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-05-04T20:12:18Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "NvbPZkL6gzU",
+    "title": "Book review #87 - The Relational Revolution in Psychoanalysis and Psychotherapy by Steven Kuchuck",
+    "description": "Book review 87 - The Relational Revolution in Psychoanalysis and Psychotherapy by Steven Kuchuck\n\nBob Cooke reviews the book with Jacci Jones. \nThe Relational Revolution in Psychoanalysis and Psychotherapy provides a comprehensive overview of relational psychoanalysis in one concise volume. This book investigates clinical theory and technique as well as the challenges of conducting psychotherapy during the extraordinary twinned circumstances of a global pandemic and an equally widespread societal awakening to the consequences of systemic racism.\n\nhttps://mcpt.co.uk/\nhttps://jaccijones.co.uk/\n\n#psychotherapy #mentalhealth #transactionalanalysis #manchesterinstituteforpsychotherapy #positivethoughts #positivemind #positivelife #dailymotivation #keepmovingforward #personalgrowth #mentalhealthawareness #helpothers #talkaboutit #mentalillnessawareness #anxietyrecovery #mentalhealthrecovery #anxietysupport #selfhelp #anxiety #anxietyawareness #recoveryispossible #endthestigma #mindfulness",
+    "url": "https://www.youtube.com/watch?v=NvbPZkL6gzU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-04-26T21:00:36Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "6PYRfIZ2nEc",
+    "title": "Book review 2021 Introduction",
+    "description": "Introduction to the 2021 Book reviews with Bob Cooke and Jacci Jones\n\nhttps://mcpt.co.uk/\nhttps://jaccijones.co.uk/\n\n#psychotherapy #mentalhealth #transactionalanalysis #manchesterinstituteforpsychotherapy #positivethoughts #positivemind #positivelife #dailymotivation #keepmovingforward #personalgrowth #mentalhealthawareness #helpothers #talkaboutit #mentalillnessawareness #anxietyrecovery #mentalhealthrecovery #anxietysupport #selfhelp #anxiety #anxietyawareness #recoveryispossible #endthestigma #mindfulness",
+    "url": "https://www.youtube.com/watch?v=6PYRfIZ2nEc",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews 2021",
+    "publishedAt": "2021-04-26T20:48:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "_eb6xSzhzQ0",
+    "title": "Warrior, Magician, Lover, King - Book Review 85",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about Warrior, Magician, Lover, King: A Guide To The Male Archetypes Updated For The 21st Century\nFor more details of this book click here https://www.amazon.co.uk/Warrior-Magician-Lover-King-development/dp/1722820896/ref=sr_1_1?keywords=rod+boothroyd&qid=1575305374&sr=8-1",
+    "url": "https://www.youtube.com/watch?v=_eb6xSzhzQ0",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-12-02T16:51:36Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "FkjmCk9sEZE",
     "title": "Freud and Berene compare and contrast - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about how Freud's idea of Id -Ego and Superego differ from Eric Berne's PAC Model.\nVisit our website  http://www.mcpt.co.uk",
@@ -249,6 +480,28 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-12-02T16:39:53Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "jVv6BFUBGpU",
+    "title": "The Evolution of Relational Paradigms in Transactional Analysis- Book Review 85",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about The Evolution of Relational Paradigms in Transactional Analysis by William F. Cornell and Helena Hargaden For more details of this book click here;- https://www.amazon.co.uk/Evolution-Relational-Paradigms-Transactional-Analysis/dp/0367259273",
+    "url": "https://www.youtube.com/watch?v=jVv6BFUBGpU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-10-26T18:59:29Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "2GE-Y6FmQpE",
+    "title": "Essential TA  - Book Review 84",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about Essential TA a Common Sense Psychology by.  Aman Bhonsle\r\n\r\nFor more details of this book click here https://www.amazon.co.uk/ESSENTIAL-TA-PSYCHOLOGY-Handbook-Transactional-ebook/dp/B07KFJ31HN",
+    "url": "https://www.youtube.com/watch?v=2GE-Y6FmQpE",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-10-26T10:34:42Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -275,6 +528,50 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "0K7KyXIWZ80",
+    "title": "Transactional Analysis Psychotherapy--Free Child Ego state",
+    "description": "In this video I am working with a client around Procrastination. In Transactional Analysis terms, i use the Free Child Ego state - in a attempt to move from a \"Impasse\" place in the Therapy process. With this awareness Roweena makes connections with her struggles in the Therapy session and outside it!",
+    "url": "https://www.youtube.com/watch?v=0K7KyXIWZ80",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2019-10-07T19:01:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "w1K9wcSwYSw",
+    "title": "Transactional Analysis Psychotherapy-Depression.",
+    "description": "In this video Bob Cooke TSTA is demonstrating TA therapy. Bob is working with someone who is presenting with Depression.\nin this video the client talks about his depression and Cumulative neglect.",
+    "url": "https://www.youtube.com/watch?v=w1K9wcSwYSw",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2019-10-07T19:00:36Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "DY583ZmzELk",
+    "title": "Live Therapy- Claiming her Power!!",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nPlease go to www.therapyvideos.co.uk to see whole video!!  A description of Live therapy work",
+    "url": "https://www.youtube.com/watch?v=DY583ZmzELk",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2019-10-07T18:59:22Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "5MwyexiV1f4",
+    "title": "Therapy using TA - Susie",
+    "description": "Therapy session. working with her Inner Child using Transactional Analysis Psychotherapy!",
+    "url": "https://www.youtube.com/watch?v=5MwyexiV1f4",
+    "category": "Therapy Demonstrations",
+    "playlist": "Therapy Demonstration",
+    "publishedAt": "2019-10-07T18:58:50Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "RKZ_X9th4JU",
     "title": "Second-order structural analysis - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Second-order structural analysis  - Visit our website  http://www.mcpt.co.uk",
@@ -282,6 +579,28 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-09-28T18:47:40Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "LAfRRJQ80uI",
+    "title": "Freud and Beyond - Book Review 83",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about  Freud and Beyond  by Black and Mitchell more details of this book click herehttps://www.amazon.co.uk/Freud-Beyond-History-Psychoanalytic-Thought/dp/0465098819/ref=sr_1_1?adgrpid=52285018694&gclid=CjwKCAjwibzsBRAMEiwA1pHZrieg1QUUL4XDKjxfsNgMYX2joZUJDHHVqxAv2TONxeNZ9N6_hO89rBoCcNUQAvD_BwE&hvadid=259065209261&hvdev=c&hvlocphy=9046620&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=10049125621460170700&hvtargid=kwd-299237100859&hydadcr=24402_1748874&keywords=freud+and+beyond&qid=1569695914&sr=8-1",
+    "url": "https://www.youtube.com/watch?v=LAfRRJQ80uI",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-09-28T18:42:37Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "AVpa2UjHZkg",
+    "title": "A Curious Calling - Book Review 82",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about a Curious Calling by  \nMichael Sussman For more details of this book click here https://www.amazon.co.uk/Curious-Calling-Unconscious-Motivations-Psychotherapy/dp/0765705524",
+    "url": "https://www.youtube.com/watch?v=AVpa2UjHZkg",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-09-09T21:37:47Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -297,6 +616,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "d1bxLEfarB0",
+    "title": "Ego and Mindfulness: New Transactional Analysis - Book Review 81",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about  Ego and Mindfulness: New Transactional Analysis by Günther Mohr.\n\nFor more details of this book click here https://www.amazon.co.uk/Ego-Mindfulness-New-Transactional-Analysis/dp/3864606012",
+    "url": "https://www.youtube.com/watch?v=d1bxLEfarB0",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-08-26T18:28:37Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "ebSf_iDRfeU",
     "title": "Time Structuring -Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Time Structuring  in Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
@@ -304,6 +634,28 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-08-13T12:11:27Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "zdgQbLmhtWE",
+    "title": "TA After Eric Berne -Book Review 80",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about TA after Eric Berne\nFor more details of this book click here https://www.amazon.co.uk/Transactional-Analysis-After-Berne-Schools/dp/0061684120",
+    "url": "https://www.youtube.com/watch?v=zdgQbLmhtWE",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-08-13T09:07:16Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ediCocD3TQw",
+    "title": "A Game Free Life - Book Review 79",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about A Game Free Life.\nFor more details of this book click here; https://www.amazon.com/Game-Free-Life-definitive-Compassion/dp/0990586707/ref=sr_1_1?keywords=a+game+free+life&qid=1564303088&s=books&sr=1-1",
+    "url": "https://www.youtube.com/watch?v=ediCocD3TQw",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-07-28T08:38:44Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -330,6 +682,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "nHT9SWAtaXg",
+    "title": "The power is in the patient - Book Review 78",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about The power is in the patient For more details click here https://www.amazon.com/Power-Patient-Gestalt-Approach-Psychotherapy/dp/0894890026",
+    "url": "https://www.youtube.com/watch?v=nHT9SWAtaXg",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-07-27T21:48:15Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "hpppf3OFbes",
+    "title": "Organisational Transactional Analysis - Book Review  77",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about Working Together: Organizational Transactional Analysis and Business Performance For more details click here https://www.amazon.co.uk/Working-Together-Organizational-Transactional-Performance/dp/0566088460",
+    "url": "https://www.youtube.com/watch?v=hpppf3OFbes",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-07-01T19:29:19Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "_sPt5QFlMCA",
     "title": "Endings in TA -Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about endings in therapy and how they are managed - Visit our website  http://www.mcpt.co.uk",
@@ -337,6 +711,50 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-07-01T19:21:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "RcJh46_YkJs",
+    "title": "The Overweight Patient - Book Review 76",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about 'The overweight patient by Kathy leach  For more details click herehttps://www.amazon.co.uk/Overweight-Patient-Psychological-Approach-Understanding/dp/1843103664",
+    "url": "https://www.youtube.com/watch?v=RcJh46_YkJs",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-06-17T21:59:09Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "qJaWyRHjP5I",
+    "title": "Between therapist and client - Book review 75",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about berween therpaist and client For more details click here https://www.amazon.co.uk/Between-Therapist-Client-New-Relationship/dp/0805071008",
+    "url": "https://www.youtube.com/watch?v=qJaWyRHjP5I",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-06-06T15:00:32Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "w8PK2OIddDI",
+    "title": "Counselling Theory In Practice -Book Review 74",
+    "description": "Bob Cooke Interview Rory Lees- Oakes about his new book Counselling  Theory In Practice - \n A Students Guide. For more details go to http://www.rorysnewbook.com.",
+    "url": "https://www.youtube.com/watch?v=w8PK2OIddDI",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-05-21T19:53:12Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "nZhTYg3Rp8o",
+    "title": "The Adult is Parent to the Child - Book Review 73",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about The Parent is Adult to the Child Ernesto Spinelli. For more details click here https://www.amazon.co.uk/Adult-Parent-Child-Transactional-Analysis/dp/1905541171",
+    "url": "https://www.youtube.com/watch?v=nZhTYg3Rp8o",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-05-07T19:44:31Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -374,6 +792,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "jlUIweEtnlM",
+    "title": "Tales of Unknowing - Book Review 72",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Tales of Unknowing: Therapeutic Encounters from an Existential Perspective by  Ernesto Spinelli. For more details click here https://www.amazon.co.uk/Tales-Unknowing-Therapeutic-Existential-Perspective/dp/1898059799/ref=la_B001K8XIHS_1_1?s=books&ie=UTF8&qid=1554995079&sr=1-1",
+    "url": "https://www.youtube.com/watch?v=jlUIweEtnlM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-04-11T15:45:19Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "cmxBMI4wfqw",
     "title": "Script Analysis- Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Script Analysis  Visit our website  http://www.mcpt.co.uk",
@@ -381,6 +810,28 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-03-25T21:00:19Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "rgDQmkVnhQQ",
+    "title": "Self-examination in Psychoanalysis and Psychotherapy - Book Review 71",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about self-examination in \n By William F Cornell. For more details on this book - Click Here.https://www.amazon.com/Self-examination-Psychoanalysis-Psychotherapy-Countertransference-Subjectivity/dp/1138605395/ref=sr_1_1?keywords=cornell+psychotherapy&qid=1553547181&s=books&sr=1-1",
+    "url": "https://www.youtube.com/watch?v=rgDQmkVnhQQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-03-25T20:57:24Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "gUdqN_iHBiQ",
+    "title": "At the Interface of Transactional Analysis - Book Review 70",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about At the Interface of Transactional Analysis, Psychoanalysis, and Body Psychotherapy By William F Cornell For more details on this book - Click  Here .https://www.amazon.co.uk/Interface-Transactional-Analysis-Psychoanalysis-Psychotherapy/dp/1782205853/ref=sr_1_3?s=books&ie=UTF8&qid=1552510364&sr=1-3&refinements=p_27%3AWilliam+Cornell",
+    "url": "https://www.youtube.com/watch?v=gUdqN_iHBiQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-03-13T20:54:44Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -407,6 +858,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "ZCybv9m4KCY",
+    "title": "Whales in the Desert --  Book Review  69",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about 'Whales in the Desert' by Doctor Jonathan Lloyd For more details on this book - Click here https://wordery.com/whales-in-the-desert-jonathan-lloyd-9780244415990?currency=GBP&gtrck=OVhNUzJVQmZBSE5QRy81SFlnLy9yb3lDcjZTNzh3Q3A0c1NBVXlpR0tqWjgxVmFrQUF0bTN6aVJGVG5lanF0NWI0NTRSSFYvb3k0ZldzelM3djJaQXc9PQ&gclid=CjwKCAiA767jBRBqEiwAGdAOr2Ps_XdK0zyMbLGGJD-nicqxQbcW44p8eN6GMoHnDKaSzIbdHBvhBhoCidUQAvD_BwE",
+    "url": "https://www.youtube.com/watch?v=ZCybv9m4KCY",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-02-19T21:21:50Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "_nAdXsmtuIU",
+    "title": "TA for Kids - Book Review 68",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about TA For Kids by Alvyn M. Freed For more details of this book click here https://www.amazon.co.uk/TA-KIDS-grown-ups-too/dp/0843103760\n\nSee how Transactional Analysis is applied  in a school setting https://www.creativeeducation.co.uk/video/104",
+    "url": "https://www.youtube.com/watch?v=_nAdXsmtuIU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-02-04T22:14:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "Jp5jvdmvcqs",
     "title": "What defines a TA  therapist - TA Therapy Explained",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  What elements of thinking and theory define a TA Therapist Visit our website  http://www.mcpt.co.uk",
@@ -429,6 +902,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "pYtCi11bsvM",
+    "title": "The Choice - Book Review 67",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the Choice by Edith Edgar For more details of this book click here https://www.waterstones.com/book/the-choice/edith-eger/9781846045127",
+    "url": "https://www.youtube.com/watch?v=pYtCi11bsvM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-01-22T16:55:06Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "DCyT2L8uBTg",
+    "title": "From Transactions to Relations - Book Review 66",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about .From Transactions to Relations by William F. Cornell and Helena Hargaden for modetials of the book click here https://www.amazon.co.uk/Transactions-Relations-Emergence-Relational-Transactional/dp/0954987403",
+    "url": "https://www.youtube.com/watch?v=DCyT2L8uBTg",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2019-01-07T21:08:22Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "xbfREQ-i7E4",
     "title": "Relational School - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the retational school and the work of Helena Hargaden and Charlotte Sills- Visit our website  http://www.mcpt.co.uk",
@@ -436,6 +931,17 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2019-01-07T21:01:36Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "13ttO081GNI",
+    "title": "Eric Berne: Master Gamesman - Book Review 65",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Eric Berne: Master Gamesman byby Elizabeth Jorgensen and Henry Jorgensen  For more details of this book click here https://www.amazon.co.uk/Eric-Berne-Gamesman-Elizabeth-Jorgensen/dp/0394621247",
+    "url": "https://www.youtube.com/watch?v=13ttO081GNI",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-12-16T11:26:57Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -462,6 +968,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "JNCQVnVjYLY",
+    "title": "Becoming Myself: A Psychiatrist's Memoir - Book Review 63",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Becoming Myself: A Psychiatrist's Memoir.by Irvin Yalom  For more details of this book click here ;https://www.amazon.co.uk/Becoming-Myself-Psychiatrists-Irvin-Yalom/dp/0349410062",
+    "url": "https://www.youtube.com/watch?v=JNCQVnVjYLY",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-12-01T20:32:45Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "M5Gk3uxF5SA",
     "title": "The Classical School -Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the Classical School of Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
@@ -469,6 +986,17 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2018-11-25T22:01:13Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "qkU0SkraIHs",
+    "title": "Psychodynamic Psychotherapy With Transactional Analysis - Book Review 64",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about . Psychodynamic Psychotherapy With Transactional Analysis Theory and Narration of a Living Experience By Anna Emanuela Tangolomore  for me details of this  book click here https://blackwells.co.uk/bookshop/product/9781782201557?gC=5a105e8b&gclid=CjwKCAiAiuTfBRAaEiwA4itUqFC95JHeDrnIOtWTUlIBc1PQvH-n8sxuWf_yoCCbidgZJQwJdRxvIhoCCa0QAvD_BwE",
+    "url": "https://www.youtube.com/watch?v=qkU0SkraIHs",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-11-24T11:36:45Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -484,6 +1012,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "RhPwMT3PzJM",
+    "title": "Eleanor Oliphant is Completely Fine - Book Review 62",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Eleanor Oliphant is Completely Fine By Gail Honeyman. For more details of this audio book here :https://www.audible.co.uk/pd/Eleanor-Oliphant-Is-Completely-Fine-Audiobook/B06XCP118Q?source_code=M2M30DFT1BkSH121515013C&ipRedirectOverride=true",
+    "url": "https://www.youtube.com/watch?v=RhPwMT3PzJM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-11-14T07:54:34Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "MrlnAacY1Z8",
     "title": "The Parent Interview - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  The Parent Interview - Visit our website  http://www.mcpt.co.uk",
@@ -495,6 +1034,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "c5LV_OENF4s",
+    "title": "Counselling For Toads - Book Review  61",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Counselling for Toad By Robert de Board more details of this audio book click here https://www.audible.co.uk/pd/Counselling-for-Toads-Audiobook/B008DHDY8W?source_code=M2M14DFT1BkSH082015011R",
+    "url": "https://www.youtube.com/watch?v=c5LV_OENF4s",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-10-21T09:43:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "MywiYsujYzA",
+    "title": "Lying on the couch - Book review 60",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Lying on the couch  By Irvin Yalom more details of this book click here https://www.amazon.co.uk/Lying-Couch-Irvin-D-Yalom/dp/0060928514/ref=sr_1_1?ie=UTF8&qid=1538820144&sr=8-1&keywords=lying+on+the+couch",
+    "url": "https://www.youtube.com/watch?v=MywiYsujYzA",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-10-06T10:03:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "VnHOTUq_n-M",
     "title": "Deconfusion of the Child Ego State- Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Deconfusion of the Child Ego State - Visit our website  http://www.mcpt.co.uk",
@@ -502,6 +1063,17 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2018-09-30T20:47:27Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "BV2Z-BOprsQ",
+    "title": "Loves Executioner - Book Review 59",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Love's Executioner By Irvin Yalom https://www.amazon.co.uk/Loves-Executioner-Psychotherapy-Penguin-Psychology/dp/0140128468/ref=sr_1_2?ie=UTF8&qid=1537559378&sr=8-2&keywords=love+executioner",
+    "url": "https://www.youtube.com/watch?v=BV2Z-BOprsQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-09-21T20:29:32Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -528,6 +1100,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "NWsFMmbknvU",
+    "title": "Staying OK - Book Review-58",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Staying Ok . The follow up Book to I'm OK Your OK  more details of this book click here;https://www.amazon.co.uk/Staying-Ok-Amy-B-Harris/dp/0099552515",
+    "url": "https://www.youtube.com/watch?v=NWsFMmbknvU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-09-01T11:02:10Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "TkrVev7ZQO8",
     "title": "Symbiosis- Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Symbiosis-  Somtimes known as Co-Dependency - Visit our website  http://www.mcpt.co.uk",
@@ -539,6 +1122,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "NiZUvINh0pQ",
+    "title": "Core Competencies of Relational Psychoanalysis - Book Review 57",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Core Competencies of Relational Psychoanalysis more details of this book click here;https://www.amazon.co.uk/s/?ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=roy+barness&rh=i%3Aaps%2Ck%3Aroy+barness",
+    "url": "https://www.youtube.com/watch?v=NiZUvINh0pQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-08-11T10:11:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "89fvwXRUjJ8",
     "title": "Contracting  - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the concept of Cotracting as described by Eric Berne  - For more infomation on Transactional Analysis as well as  details of our training courses  Visit our website  http://www.mcpt.co.uk",
@@ -546,6 +1140,28 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2018-07-28T10:38:27Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "JEs2N9jIMGQ",
+    "title": "The Body Keeps The Score  - Book Review 56",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about The Body Keeps The Score  more details of this book click here; https://www.amazon.co.uk/Body-Keeps-Score-Healing-Trauma/dp/0143127748",
+    "url": "https://www.youtube.com/watch?v=JEs2N9jIMGQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-07-25T06:10:45Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Oc5XZFfRXzQ",
+    "title": "Good Practice in Supervision - Book Review 55",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Good Practice in Supervision by  Don Feasley more details of this book click here;  https://www.amazon.co.uk/Good-Practice-Supervision-Psychotherapists-Counsellors/dp/1861563035",
+    "url": "https://www.youtube.com/watch?v=Oc5XZFfRXzQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-07-14T09:24:47Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -572,6 +1188,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "-ag4NctxmPE",
+    "title": "The theory and practice of group Psychotherapy-Book Review 54",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about The theory and practice of group Psychotherapy by Irvin Yalom \r\nFor more details of this book click here;  https://www.amazon.co.uk/Theory-Practice-Group-Psychotherapy-Fifth/dp/0465092845/ref=sr_1_1?ie=UTF8&qid=1529753084&sr=8-1&keywords=group+psychotherapy+yalom",
+    "url": "https://www.youtube.com/watch?v=-ag4NctxmPE",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-06-23T12:00:54Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "OrA0--Muwg8",
     "title": "Life Scripts -Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Life Scripts in Transactional Analysis -  Visit our website  http://www.mcpt.co.uk",
@@ -583,6 +1210,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "X-nEu6rA4mU",
+    "title": "Transactional Analysis: A Relational Perspective -Book Review 53",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Transactional Analysis: A Relational Perspective For more details of this book click https://www.amazon.co.uk/Transactional-Analysis-Relational-Perspective-Advancing/dp/1583911200",
+    "url": "https://www.youtube.com/watch?v=X-nEu6rA4mU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-06-07T21:05:42Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "XzjO1OS1aSg",
     "title": "Ego States - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the Structural model Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
@@ -590,6 +1228,655 @@ export const videos = [
     "category": "TA Theory Explained",
     "playlist": "TA Theory Explained",
     "publishedAt": "2018-06-03T10:29:39Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "4SbED3F5xnw",
+    "title": "The Cathexis Reader- Book Review 52",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about The Cathexis Reader For more details of this book click https://www.amazon.co.uk/Cathexis-Reader-Transactional-Treatment-Psychosis/dp/0060457732",
+    "url": "https://www.youtube.com/watch?v=4SbED3F5xnw",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-05-29T22:22:11Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "6jxpQ4WcexE",
+    "title": "Harry Potter and the Philosophers Stone  - Book Review 51",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Harry potter and the Philosophers Stone For more details of this book click here https://www.amazon.co.uk/Harry-Potter-Philosophers-Stone/dp/1408855658/ref=sr_1_1?s=books&ie=UTF8&qid=1526250210&sr=1-1&keywords=harry+potter+and+the+philosophers+stone+book",
+    "url": "https://www.youtube.com/watch?v=6jxpQ4WcexE",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-05-13T23:02:29Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "pyLJ1uEavGY",
+    "title": "A Montreal Childhood - Book Review 50",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  A Montreal Childhood  For more details of this book click here: https://www.amazon.co.uk/Montreal-Childhood-Eric-Berne/dp/8493703249",
+    "url": "https://www.youtube.com/watch?v=pyLJ1uEavGY",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-05-13T22:11:18Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "VlFXMUXZ26M",
+    "title": "Passionate Supervision - Book Review 49",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Passioante Supervision  For more details of this book click here: https://www.amazon.co.uk/Passionate-Supervision-Robin-Shohet/dp/184310556X",
+    "url": "https://www.youtube.com/watch?v=VlFXMUXZ26M",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-04-19T22:20:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "LporCKXDdR0",
+    "title": "The Theory and Practice of Self Psychology - Book Review 48",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  The Theory And Practice Of Self Psychology For more details of this book click here:https://www.bookdepository.com/Theory-Practice-Self-Psychology-Marjorie-T-White/9780876304259",
+    "url": "https://www.youtube.com/watch?v=LporCKXDdR0",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-04-19T22:19:43Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "U9_7RDdQNPU",
+    "title": "Relational Integrative Psychotherapy - Book Review 47",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Integrative Psychotherapy by Linda Finlay For more details of this book click here; https://www.amazon.co.uk/Relational-Integrative-Psychotherapy-Engaging-Practice/dp/1119087295/ref=sr_1_1?s=books&ie=UTF8&qid=1523288239&sr=8-1&keywords=relational+integrative+linda",
+    "url": "https://www.youtube.com/watch?v=U9_7RDdQNPU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-04-09T16:12:53Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "1q1HdJseRns",
+    "title": "Transactional Analysis Approaches to Brief Therapy- Book Review 46",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Transactional Analysis Approaches to Brief Therapy edited By Keith Tudor For more details of this book click here; https://in.sagepub.com/en-in/sas/transactional-analysis-approaches-to-brief-therapy/book206438",
+    "url": "https://www.youtube.com/watch?v=1q1HdJseRns",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-04-09T15:19:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "LwTDmmM392o",
+    "title": "Staring at the Sun - Book Review 45",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Straring at the Sun by Irvin Yalom \r\nFor more details of this book click here;  https://www.amazon.co.uk/Staring-Sun-Overcoming-Terror-Death-ebook/dp/B001TUYV6O",
+    "url": "https://www.youtube.com/watch?v=LwTDmmM392o",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-04-02T21:48:06Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "iMxrMuQHyT0",
+    "title": "The Gift of Therapy - Book Review 44",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes aboutThe Gift of Therapy by Irvin Yalom \r\nFor more details of this book click here;  https://www.amazon.co.uk/Gift-Therapy-generation-therapists-Reflections/dp/0749923733/ref=sr_1_1?ie=UTF8&qid=1522698451&sr=8-1&keywords=the+gift+of+therapy",
+    "url": "https://www.youtube.com/watch?v=iMxrMuQHyT0",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-04-02T21:10:59Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "5vxEdwFtYEw",
+    "title": "An Evil Cradling  - Book Review 43",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about An Evil CradlingFor more details of this book click here:https://www.amazon.co.uk/Evil-Cradling-Brian-Keenan/dp/009999030X",
+    "url": "https://www.youtube.com/watch?v=5vxEdwFtYEw",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-03-03T19:53:12Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "bcOFJGIOPcs",
+    "title": "Homecoming - Book Review 42",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Homecoming  by John Bradshaw \r\nFor more details of this book click here:\r\nhttps://www.amazon.co.uk/Homecoming-Reclaiming-Championing-Inner-Child/dp/0553353896/ref=sr_1_1?ie=UTF8&qid=1520099229&sr=8-1&keywords=home+coming+john+bradshaw",
+    "url": "https://www.youtube.com/watch?v=bcOFJGIOPcs",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-03-03T19:06:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "OiOjr6Rfe04",
+    "title": "Clarke's Dictionary of Transactional Analysis- Book Review 41",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Clarke's Dictionary of Transactional Analysis .For more details of this book click here:https://www.amazon.co.uk/Clarkes-Dictionary-Transactional-Analysis-Organizations/dp/1450720161",
+    "url": "https://www.youtube.com/watch?v=OiOjr6Rfe04",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-02-22T12:42:22Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "g82G6jqxNU8",
+    "title": "Relational Patterns, Therapeutic Presence - Book Review 40",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Patterns, Therapeutic Presence For more details of this book click here: https://www.amazon.co.uk/Relational-Patterns-Therapeutic-Presence-Psychotherapy/dp/1782201904/ref=la_B001HCXHQO_1_2/260-3717835-1735548?s=books&ie=UTF8&qid=1519299767&sr=1-2",
+    "url": "https://www.youtube.com/watch?v=g82G6jqxNU8",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-02-22T12:14:18Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "BJZ0OYb4jvQ",
+    "title": "Thinking for Clinicians - Book Review 38",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Thinking for Clinicians\r\nFor more details of this book click here: https://www.amazon.co.uk/Thinking-Clinicians-Donna-M-Orange/dp/088163493X",
+    "url": "https://www.youtube.com/watch?v=BJZ0OYb4jvQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-02-12T22:46:34Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "zXe0DVAgDnM",
+    "title": "Educational Transactional Analysis  - Book Review 39",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Educational Transactional Analysis  \r\nFor more details of this book click here: https://www.amazon.co.uk/Educational-Transactional-Analysis-international-practice/dp/1138832375",
+    "url": "https://www.youtube.com/watch?v=zXe0DVAgDnM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-02-12T22:35:46Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "IZNz7pUcf0Y",
+    "title": "Relational Centred Research - Book Review 37",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Relational Centred Research for psychotherpaists\r\nFor more details of this book click here:\r\nhttps://www.amazon.co.uk/Relational-centred-Research-Psychotherapists-Exploring-Experience/dp/047099777X",
+    "url": "https://www.youtube.com/watch?v=IZNz7pUcf0Y",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-01-31T14:25:48Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "vuE79OS4wSQ",
+    "title": "Supervision the Integrative Development Model-Book Review 36",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Supervision the Integrative Development Model For more details of this book click https://wordery.com/supervision-essentials-for-the-integrative-development-model-brian-w-mcneill-9781433821417?currency=GBP&gtrck=RzhvMTRjaHNxeTRNWDdqMW5lVXhyZTZDTVBrR1JuTHI5RWJJUTJ5bmh0N1FsUDFoNUQ0VXNRR2NWaWUxU3lDb3I3cThkOWNFL0QvZXc0UWR1eVFBVmc9PQ&gclid=Cj0KCQiAkZHTBRCBARIsAMbXLhGwN0GcBXokfIyb6jVex4yh1JgpjGPlO7yA3p4Nf_squL2T32Lss6caAoXxEALw_wcB",
+    "url": "https://www.youtube.com/watch?v=vuE79OS4wSQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-01-21T17:24:22Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ctAomem-oig",
+    "title": "Transactional Analysis for depression - Book Review 33",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Transactional Analysis for depression\nFor more details of this book click here:\nhttps://www.amazon.co.uk/Transactional-Analysis-Depression-step-step/dp/113881234X/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1515264787&sr=1-1-spell&keywords=Tranasctionasl+Analysis+for+depression",
+    "url": "https://www.youtube.com/watch?v=ctAomem-oig",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-01-12T16:41:26Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "F3gdXH-ZcRg",
+    "title": "Interpersonal Diagnosis and Treatment of Personality Disorders  - Book Review 35",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Interpersonal Diagnosis and Treatment of Personality Disorders  \nFor more details of this book click here:https://www.amazon.co.uk/Interpersonal-Diagnosis-Treatment-Personality-Disorders/dp/1572308605",
+    "url": "https://www.youtube.com/watch?v=F3gdXH-ZcRg",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-01-06T19:03:20Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "vRVJdGIrIow",
+    "title": "Making the most out of psychotherapy placements - Book Review 34",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Making the most out of psychotherapy placements\nFor more details of this book click here:https://www.amazon.co.uk/Making-Most-Counselling-Psychotherapy-Placements/dp/144620846X",
+    "url": "https://www.youtube.com/watch?v=vRVJdGIrIow",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-01-06T09:45:28Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "GJwdsHNZVtw",
+    "title": "Born  to win - Book Review 32",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Born to Win \nFor more details of this book click here:https://www.amazon.co.uk/Born-Win-Transactional-Analysis-Experiments/dp/0201590441",
+    "url": "https://www.youtube.com/watch?v=GJwdsHNZVtw",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2018-01-06T09:05:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "KVkqBE2rce8",
+    "title": "Learning From The Patient- Book Review 31",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Learning From The Patient-\nFor more details of this book click here:\nhttps://www.amazon.co.uk/dp/0415025532/?tag=googhydr-21&hvadid=188130061160&hvpos=1t1&hvnetw=g&hvrand=7417824314087200435&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006939&hvtargid=kwd-770789312&ref=pd_sl_24ypkrrv79_b",
+    "url": "https://www.youtube.com/watch?v=KVkqBE2rce8",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-12-10T20:32:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "EodQyS0FSg8",
+    "title": "Intuition and Ego States - Book Review 30",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Intuition and ego states\nFor more details of this book click here:\nhttps://www.amazon.co.uk/Intuition-Ego-States-Eric-Berne/dp/006060784X",
+    "url": "https://www.youtube.com/watch?v=EodQyS0FSg8",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-12-10T19:32:37Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "z-Dgc2fMw78",
+    "title": "Integrative Psychotherapy in Action  - Book Review 29",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Integrative Psychotherapy in Action\nFor more details of this book click here https://www.amazon.co.uk/Integrative-Psychotherapy-Action-Richard-Erskine/dp/185575830X",
+    "url": "https://www.youtube.com/watch?v=z-Dgc2fMw78",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-11-27T14:41:17Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "V4Qx1oSD8Lw",
+    "title": "Transactional Analysis Psychotherapy: An Integrated Approach- Book Review 28",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Transactional Analysis Psychotherapy\nFor more details of this book click here https://www.amazon.co.uk/Transactional-Analysis-Psychotherapy-Integrated-Approach/dp/041508699X/ref=sr_1_5?s=books&ie=UTF8&qid=1511468626&sr=1-5&keywords=petruska+clarkson",
+    "url": "https://www.youtube.com/watch?v=V4Qx1oSD8Lw",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-11-23T20:36:20Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "E8Q3YRNn6QM",
+    "title": "Principles of Group treatment - Book Review 27",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Principles of group   Treatment For more details of this book click here; https://www.amazon.co.uk/Principles-Group-Treatment-Eric-Berne/dp/019501118X",
+    "url": "https://www.youtube.com/watch?v=E8Q3YRNn6QM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-10-25T20:50:01Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "R_9_oKhbrG8",
+    "title": "Diagnosis and Treatment of Multiple Personality Disorder-- Book Review 26",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Diagnosis and Treatment of Multiple Personality Disorder: For more details of this book click here;https://www.guilford.com/books/Diagnosis-and-Treatment-of-Multiple-Personality-Disorder/Frank-Putnam/9780898621778/reviews",
+    "url": "https://www.youtube.com/watch?v=R_9_oKhbrG8",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-10-24T22:05:52Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ZQugHdUDV_M",
+    "title": "Borderline, Narcissistic, and Schizoid Adaptations-- Book Review 25",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nBorderline, Narcissistic, and Schizoid Adaptations:https://www.amazon.co.uk/Borderline-Narcissistic-Schizoid-Adaptations-Admiration/dp/1537334220/ref=sr_1_1?ie=UTF8&qid=1507373045&sr=8-1&keywords=eleanor+greenberg\nFor more details of this book click here;",
+    "url": "https://www.youtube.com/watch?v=ZQugHdUDV_M",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-10-07T10:46:58Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "rfAcsxKj1l4",
+    "title": "Theories & Methods of an Integrative Transactional Analysis - Book Review 24",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nTheories & Methods of an Integrative Transactional Analysis\nFor more details of this book click here;  https://www.amazon.co.uk/Theories-Methods-Integrative-Transactional-Analysis/dp/0894890042",
+    "url": "https://www.youtube.com/watch?v=rfAcsxKj1l4",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-10-02T20:13:41Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "QpP_SCWmZtM",
+    "title": "The Art of Relational Supervision - Book Review 23",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nThe Art of Relational Supervision by Helena Hargaden\nFor more details of this book click here;  https://www.amazon.co.uk/Art-Relational-Supervision-Clinical-Implications/dp/1138838462",
+    "url": "https://www.youtube.com/watch?v=QpP_SCWmZtM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-09-16T07:21:50Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "VCZwBV95H9c",
+    "title": "Supervision in the Helping Professions - Book Review 22",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nSupervision in the Helping Professions Hawkins& Showett\nFor more details of this book click here;  \nhttps://www.amazon.co.uk/Supervision-Helping-Professions-Peter-Hawkins/dp/0335218172",
+    "url": "https://www.youtube.com/watch?v=VCZwBV95H9c",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-09-16T07:16:10Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "2wsNeNoRN7c",
+    "title": "Games People Play - Book Review 21",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nThe Games People Play by Eric Berne \nFor more details of this book click here;  \nhttps://www.amazon.co.uk/Games-People-Play-Psychology-Relationships/dp/0241257476/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1505160166&sr=1-1-fkmr0&keywords=gasamnes+people+play",
+    "url": "https://www.youtube.com/watch?v=2wsNeNoRN7c",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-09-11T20:03:53Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "cKLG1m7_JEw",
+    "title": "I'm Ok-You're OK - Book Review 20",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about I'm Ok-You're OK by Thomas Harris MD\nFor more details of this book click here;  \n\nhttps://www.amazon.co.uk/Im-Ok-Youre-Thomas-Harris/dp/0099552418",
+    "url": "https://www.youtube.com/watch?v=cKLG1m7_JEw",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-09-11T19:54:39Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "i7RWSz8w4Cg",
+    "title": "Changing Lives Through  Redecision Therapy - Book Review 19",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nChanging Lives Through  Redecision Therapy By Mary & Robert Goulding \n\nFor more details of this book click here;  \n\nhttps://www.amazon.co.uk/Changing-Lives-through-Redecision-Therapy/dp/0802135110",
+    "url": "https://www.youtube.com/watch?v=i7RWSz8w4Cg",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-08-07T10:33:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "oeAUwpPud5Q",
+    "title": "Explorations in Transactional Analysis -  Book Review 18",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about\nExplorations in Transactional Analysis by William F Cornell\n\nFor more details of this book click here;  \n\nhttps://www.waterstones.com/book/explorations-in-transactional-analysis/william-f-cornell/9781782205852",
+    "url": "https://www.youtube.com/watch?v=oeAUwpPud5Q",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-08-07T10:31:55Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "_pNgAi5QIHY",
+    "title": "What Do You Say After You Say Hello? - Book Review 17",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nWhat do you say after you have said hello by Eric Berne \nFor more details of this book click here;-https://www.amazon.co.uk/What-You-Say-After-Hello-x/dp/055209806X\n\nExcellent poem about scripts \n\nhttp://www.doorway-to-self-esteem.com/autobiography-in-five-short-chapters.html",
+    "url": "https://www.youtube.com/watch?v=_pNgAi5QIHY",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-07-12T08:49:32Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "MHP2cKswBwo",
+    "title": "Relational TA - Book Review 16",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nRelational Transnational Analysis \nFor more details of this book click here;-\nhttps://www.amazon.co.uk/Relational-Transactional-Analysis-Principles-Practice-ebook/dp/B005ML0DCW/ref=sr_1_3?ie=UTF8&qid=1499670044&sr=8-3&keywords=relational+ta",
+    "url": "https://www.youtube.com/watch?v=MHP2cKswBwo",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-07-10T07:07:43Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "xALyodmlnN0",
+    "title": "TA  Counselling in Action - Book Review 15",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nTA Counselling in Action\nFor more details of this book click here;-\nhttps://us.sagepub.com/en-us/nam/transactional-analysis-counselling-in-action/book239016",
+    "url": "https://www.youtube.com/watch?v=xALyodmlnN0",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-06-21T08:21:06Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "tjSdZ-sPpDQ",
+    "title": "Into TA - Book Review 14",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nInto TA\nFor more details of this book click here;-\nhttps://www.amazon.co.uk/Into-TA-Comprehensive-Textbook-Transactional/dp/1782202064",
+    "url": "https://www.youtube.com/watch?v=tjSdZ-sPpDQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-06-20T13:46:53Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "VXOmk04cCNo",
+    "title": "The Risk of Relatedness - Book Review 13",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nThe Risk of Relatedness \nFor more details of this book click here;-\nhttps://www.amazon.co.uk/The-Risk-Relatedness-Intersubjectivity-Clinical-ebook/dp/B00G3DOKOU",
+    "url": "https://www.youtube.com/watch?v=VXOmk04cCNo",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-06-12T17:15:31Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "eGWOklhQSEM",
+    "title": "Modes of Therapeutic Action - Book Review 12",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nModes of Therapeutic Action. \nFor more details of this book click here;-\n https://www.abebooks.co.uk/Modes-Therapeutic-Action-Paperback-Martha-Stark/12906227919/bd",
+    "url": "https://www.youtube.com/watch?v=eGWOklhQSEM",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-06-10T09:24:20Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "hcAScIo94W4",
+    "title": "The Scripts People Live - Book Review 11",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nThe Scripts People Live\nFor more details of this book click here https://www.amazon.com/Scripts-People-Live-Transactional-Analysis/dp/0802132103",
+    "url": "https://www.youtube.com/watch?v=hcAScIo94W4",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-05-28T11:50:00Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "LBhme9HFKXE",
+    "title": "The Dictionary of Transactional Analysis - Book Review 10",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nThe Dictionary of Transactional Analysis\nFor more details of this book click here \nhttp://eu.wiley.com/WileyCDA/WileyTitle/productCd-1861560222.html",
+    "url": "https://www.youtube.com/watch?v=LBhme9HFKXE",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-05-27T08:25:10Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ttNUx20e7cQ",
+    "title": "The Transactional Analyst in Action: Clinical Seminars - Book Review 9",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about\nThe Transactional Analyst in Action: Clinical Seminars\nFor more details of this book click here \nhttp://us.karnacbooks.com/product/the-transactional-analyst-in-action-clinical-seminars/32763/?MATCH=1",
+    "url": "https://www.youtube.com/watch?v=ttNUx20e7cQ",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-04-29T16:11:07Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "6TihpyTFVDo",
+    "title": "Contracts in Counselling - Book Review 8",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes discuss \nContracts in counselling \nFor more details of this book click here \nhttps://uk.sagepub.com/en-gb/eur/contracts-in-counselling-psychotherapy/book228910",
+    "url": "https://www.youtube.com/watch?v=6TihpyTFVDo",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-04-26T15:44:08Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "YRNhEiBugM4",
+    "title": "Transactional Analysis: 100 Key Points and Techniques - Book Review  7",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes discuss \nTransactional Analysis: 100 Key Points and Techniques \nFor more details of this book click here \nhttp://www.waterstonesmarketplace.com/Transactional-Analysis-100-Key-Points-and-Techniques-Mark-Widdowson-Mark-Widdowson/book/11606745",
+    "url": "https://www.youtube.com/watch?v=YRNhEiBugM4",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-04-08T10:25:09Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "k6tHFSxGLxc",
+    "title": "A Biography of Eric Berne - Book Review 6",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes discuss the life and work of Eric Berne \n\nFor more details of this book click here \nhttps://us.sagepub.com/en-us/nam/eric-berne/book203282",
+    "url": "https://www.youtube.com/watch?v=k6tHFSxGLxc",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-03-15T15:18:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "CLU41obmGzU",
+    "title": "Co-Creative Transactional Analysis - Book Review -5",
+    "description": "Bob Cooke of the Manchester Institute for Psychotherapy http://www.MCPT.co.uk/\n\nReviews Co-Creative Transactional Analysis by Keith Tutor & Graeme Summers.\nFor more detioals -\nhttps://www.amazon.co.uk/Co-Creative-Transactional-Analysis-Responses-Developments-ebook/dp/B00MC4GNRG",
+    "url": "https://www.youtube.com/watch?v=CLU41obmGzU",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-03-14T18:04:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ep8SmSpsc9o",
+    "title": "Personality Adaptations - Book Review 4",
+    "description": "Personality Adaptations - Book Review 4-Bob in his series of book reviews -talks about the above book.\nWhich is useful for students and anyone interested in communication of therapy",
+    "url": "https://www.youtube.com/watch?v=ep8SmSpsc9o",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-03-14T18:03:53Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "-K4S3n2AbX0",
+    "title": "TA Today -  Book Review 3",
+    "description": "Join our TA Facebook Group https://www.facebook.com/groups/TAworldtoday/\n\nBob Cooke of http://mcpt.co.uk/Reviews TA Today By Ian Stewart and Vann Joines . More details click here http://www.lifespacebooks.com/TATmain.htm",
+    "url": "https://www.youtube.com/watch?v=-K4S3n2AbX0",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-03-14T18:03:24Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Z_xoc_3w56c",
+    "title": "Beyond Empathy - Book Review 2",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about a seminal text in the development of Integrated psychotherapy \n\nFor more details of this book click here \nhttps://www.routledge.com/Beyond-Empathy-A-Therapy-of-Contact-in-Relationships/Erskine-MoursundTrautmann/p/book/9781138005143",
+    "url": "https://www.youtube.com/watch?v=Z_xoc_3w56c",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-03-14T18:02:42Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "CcDp0jjTaUY",
+    "title": "Transactional  Analysis in Psychotherapy - Book Review 1",
+    "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about a seminal text in the development of Transactional Analysis. Written by its founder Eric Berne.\n\nFor more details of this book click here http://www.ericberne.com/transactional-analysis-in-psychotherapy/",
+    "url": "https://www.youtube.com/watch?v=CcDp0jjTaUY",
+    "category": "Book Reviews",
+    "playlist": "Book Reviews",
+    "publishedAt": "2017-03-14T18:02:27Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "dCQr034Wbf0",
+    "title": "Seven Eyed Model of Supervision - Mode 4",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
+    "url": "https://www.youtube.com/watch?v=dCQr034Wbf0",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:29:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "fPqCyruNX6Y",
+    "title": "Seven Eyed Model of Supervision - Mode 5",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
+    "url": "https://www.youtube.com/watch?v=fPqCyruNX6Y",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:29:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "1Gn3fNbUJ7o",
+    "title": "Seven Eyed Model of Supervision - Mode 6",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
+    "url": "https://www.youtube.com/watch?v=1Gn3fNbUJ7o",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:29:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "OnfEpmE9xmo",
+    "title": "Seven Eyed Model of Supervision - Mode 7",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA, a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
+    "url": "https://www.youtube.com/watch?v=OnfEpmE9xmo",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:29:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "WuKbW2efIf4",
+    "title": "Seven Eyed Model of Supervision - Mode 2",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental",
+    "url": "https://www.youtube.com/watch?v=WuKbW2efIf4",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:29:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ggaEBv8xPbE",
+    "title": "Seven Eyed Model of Supervision - Mode 3",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA ,a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and Shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental.",
+    "url": "https://www.youtube.com/watch?v=ggaEBv8xPbE",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:29:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "xfVApdrV6g8",
+    "title": "Seven Eyed Model of Supervision - Mode 1",
+    "description": "Visit our website http://www.mcpt.co.uk\nIn this video Bob Cooke TSTA , a UK based psychotherapist , trainer and clinical supervisor, demonstrates working with the Hawkins and shohet, Seven-Eyed supervision model .\nPlease note the client discussed in these films is fictional, any connection with any individual living or dead is purely coincidental",
+    "url": "https://www.youtube.com/watch?v=xfVApdrV6g8",
+    "category": "Supervision",
+    "playlist": "Seven Eyed Model of Supervision",
+    "publishedAt": "2016-09-30T10:28:42Z",
     "type": "video",
     "source": "YouTube"
   }
