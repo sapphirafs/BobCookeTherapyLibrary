@@ -22,6 +22,94 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "lGqXixWjdNA",
+    "title": "Personality adaptations-A diagnostic model For Psychotherapists",
+    "description": "The Personality Adaptations model,is a diagnostic model,which helps the Therapist understand the best way to contact the client, and increase Rapport.\nThis model also looks at the Target mode, and the Trap door mode-which is essential for the Therapist to keep away from at the beggining stages of Therapy",
+    "url": "https://www.youtube.com/watch?v=lGqXixWjdNA",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:56:45Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "7uoJvvn2ynI",
+    "title": "TA concepts Structural Pathology-Decontamination and the   Deconfusion of the Child ego state",
+    "description": "In this video Bob Cooke TSTA describes what is known in transactional analysis terms- to key concepts decontamination and the confusion of the child ego state.\n\nBob talks about the confusion of the different parts of the self and how to work with the regressed child ego state",
+    "url": "https://www.youtube.com/watch?v=7uoJvvn2ynI",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:56:34Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "cFL0izzoF9E",
+    "title": "TA-Supervision",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nWe will look at some of the TA concepts and explain how a  TA Supervisor may use these ideas in  Clinical Supervision.",
+    "url": "https://www.youtube.com/watch?v=cFL0izzoF9E",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:56:12Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "OowklHQTbOU",
+    "title": "Eric Berne pictures--Founder of Transactional Analysis 1910-1970",
+    "description": "https://www.facebook.com/pages/Manchester-Institute-of-Psychotherapy/212460772206192\n\nEric Berne pictures--Founder of Transactional Analysis 1910-1970",
+    "url": "https://www.youtube.com/watch?v=OowklHQTbOU",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "9FwDOar6z2Y",
+    "title": "Egograms in Transactional Analysis Psychotherapy",
+    "description": "In this video Bob Cooke will explain what egograms are? And how we can use them in Transactional AnalysisPsychotherapy",
+    "url": "https://www.youtube.com/watch?v=9FwDOar6z2Y",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:35Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "BYnRVV2Ughg",
+    "title": "Ego state diagnosis in Transactional Analysis Psychotherapy.",
+    "description": "In this presentation I explain  Ego state diagnosis in Transactional Analysis Psychotherapy.",
+    "url": "https://www.youtube.com/watch?v=BYnRVV2Ughg",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:25Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "l5cI7yCYXo0",
+    "title": "What is Transactional Analysis Psychotherapy",
+    "description": "What is Transactional Analysis Psychotherapy-its major ideas\n\n\nWelcome to the Manchester Institute for Psychotherapy home on YouTube we offer a 4 year, part time psychotherapy training in Transactional Analysis, using an Integrative approach.\n This course is taken at weekends, and leads to a National and International accreditation.\n National and International accredited introduction in Transactional Analysis. Introduction to supervision, Certificate in supervision, Continuing Professional Development Programme\nPsychotherapy Conferences As well as the above training dimension we offer a comprehensive Therapy and Counselling service to the public.\n\nVisit us @ http://www.mcpt.co.uk/\nwww.bobcooke.blogspot.com",
+    "url": "https://www.youtube.com/watch?v=l5cI7yCYXo0",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:55:17Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "H-KheslmZK0",
+    "title": "Contracts - five stage plan!!",
+    "description": "TA Contracts a five stage plan.",
+    "url": "https://www.youtube.com/watch?v=H-KheslmZK0",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-04-04T18:53:35Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "ZNPehg-K_28",
     "title": "What is Integrative Psychotherapy ? [Subtitles]",
     "description": "In this video the creator of Integrative Psychotherapy, the psychologist Richard Erskine Phd., shares his definition and fundamental concepts of this relationally based approach to psychotherapy.",
@@ -51,6 +139,17 @@ export const videos = [
     "category": "Integrative Psychotherapy",
     "playlist": "Integrative Psychotherapy",
     "publishedAt": "2026-03-18T23:05:22Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "jWuE_HsJEIQ",
+    "title": "5  Approaches of TA THERAPY 1961-Present day!!",
+    "description": "Bob Cooke describes the 5 Approaches within TA therapy  -1961-Present day!!",
+    "url": "https://www.youtube.com/watch?v=jWuE_HsJEIQ",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2026-03-18T21:11:46Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -374,6 +473,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "FkjmCk9sEZE",
+    "title": "Freud and Berene compare and contrast - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about how Freud's idea of Id -Ego and Superego differ from Eric Berne's PAC Model.\nVisit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=FkjmCk9sEZE",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-12-02T16:39:53Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "jVv6BFUBGpU",
     "title": "The Evolution of Relational Paradigms in Transactional Analysis- Book Review 85",
     "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about The Evolution of Relational Paradigms in Transactional Analysis by William F. Cornell and Helena Hargaden For more details of this book click here;- https://www.amazon.co.uk/Evolution-Relational-Paradigms-Transactional-Analysis/dp/0367259273",
@@ -392,6 +502,28 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-10-26T10:34:42Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "rpq2cT1-1F4",
+    "title": "Third Order Structural Analysis - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about one of the major concepts in Transactional Analysis - called Third Order Structural Analysis\nVisit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=rpq2cT1-1F4",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-10-25T21:42:54Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "Pa6xmPrGFz0",
+    "title": "Structural Analysis - Transactional Analysis",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=Pa6xmPrGFz0",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-10-25T20:10:17Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -440,6 +572,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "RKZ_X9th4JU",
+    "title": "Second-order structural analysis - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Second-order structural analysis  - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=RKZ_X9th4JU",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-09-28T18:47:40Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "LAfRRJQ80uI",
     "title": "Freud and Beyond - Book Review 83",
     "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about  Freud and Beyond  by Black and Mitchell more details of this book click herehttps://www.amazon.co.uk/Freud-Beyond-History-Psychoanalytic-Thought/dp/0465098819/ref=sr_1_1?adgrpid=52285018694&gclid=CjwKCAjwibzsBRAMEiwA1pHZrieg1QUUL4XDKjxfsNgMYX2joZUJDHHVqxAv2TONxeNZ9N6_hO89rBoCcNUQAvD_BwE&hvadid=259065209261&hvdev=c&hvlocphy=9046620&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=10049125621460170700&hvtargid=kwd-299237100859&hydadcr=24402_1748874&keywords=freud+and+beyond&qid=1569695914&sr=8-1",
@@ -462,6 +605,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "igKQkBqyMho",
+    "title": "Types of Strokes -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Units of recognition - Also Known as strokes  - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=igKQkBqyMho",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-08-26T18:48:14Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "d1bxLEfarB0",
     "title": "Ego and Mindfulness: New Transactional Analysis - Book Review 81",
     "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about  Ego and Mindfulness: New Transactional Analysis by Günther Mohr.\n\nFor more details of this book click here https://www.amazon.co.uk/Ego-Mindfulness-New-Transactional-Analysis/dp/3864606012",
@@ -469,6 +623,17 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-08-26T18:28:37Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ebSf_iDRfeU",
+    "title": "Time Structuring -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Time Structuring  in Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=ebSf_iDRfeU",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-08-13T12:11:27Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -495,6 +660,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "eqqjr7Z8M58",
+    "title": "Transference  -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Transference  Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=eqqjr7Z8M58",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-07-28T08:30:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "8eWaw2mtl6U",
+    "title": "Script Backlash -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Script Backlash Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=8eWaw2mtl6U",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-07-27T21:49:06Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "nHT9SWAtaXg",
     "title": "The power is in the patient - Book Review 78",
     "description": "Psychotherapist Bob Cooke Talks to Rory Lees-Oakes about The power is in the patient For more details click here https://www.amazon.com/Power-Patient-Gestalt-Approach-Psychotherapy/dp/0894890026",
@@ -513,6 +700,17 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-07-01T19:29:19Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "_sPt5QFlMCA",
+    "title": "Endings in TA -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about endings in therapy and how they are managed - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=_sPt5QFlMCA",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-07-01T19:21:44Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -561,6 +759,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "sU8P8d3LvuQ",
+    "title": "EgoGrams - TA Theory explained",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Ego Grams Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=sU8P8d3LvuQ",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-05-07T16:40:03Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "v3bInjnhVLM",
+    "title": "Karpman Drama Triangle - Transactional Analysis",
+    "description": "Psychotherapist Steph Cooke talks to Rory Lees-Oakes about The Karpman Drama Triangle   Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=v3bInjnhVLM",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-04-13T12:34:18Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "2VNIoJJBK_8",
     "title": "Karpmen",
     "description": "",
@@ -583,6 +803,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "cmxBMI4wfqw",
+    "title": "Script Analysis- Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Script Analysis  Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=cmxBMI4wfqw",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-03-25T21:00:19Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "rgDQmkVnhQQ",
     "title": "Self-examination in Psychoanalysis and Psychotherapy - Book Review 71",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about self-examination in \n By William F Cornell. For more details on this book - Click Here.https://www.amazon.com/Self-examination-Psychoanalysis-Psychotherapy-Countertransference-Subjectivity/dp/1138605395/ref=sr_1_1?keywords=cornell+psychotherapy&qid=1553547181&s=books&sr=1-1",
@@ -601,6 +832,17 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2019-03-13T20:54:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "ZRauwnFGcUg",
+    "title": "Two Chair Work -TA Therapy Explained",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Two Chair Work in Transactional  Analysis  Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=ZRauwnFGcUg",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-03-13T20:51:12Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -638,6 +880,28 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "Jp5jvdmvcqs",
+    "title": "What defines a TA  therapist - TA Therapy Explained",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  What elements of thinking and theory define a TA Therapist Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=Jp5jvdmvcqs",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-02-04T22:05:08Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "wRh5QUcjp1M",
+    "title": "Working with the Child Ego State - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  working with the child ego state - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=wRh5QUcjp1M",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-01-22T16:57:49Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "pYtCi11bsvM",
     "title": "The Choice - Book Review 67",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the Choice by Edith Edgar For more details of this book click here https://www.waterstones.com/book/the-choice/edith-eger/9781846045127",
@@ -660,6 +924,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "xbfREQ-i7E4",
+    "title": "Relational School - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the retational school and the work of Helena Hargaden and Charlotte Sills- Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=xbfREQ-i7E4",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2019-01-07T21:01:36Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "13ttO081GNI",
     "title": "Eric Berne: Master Gamesman - Book Review 65",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Eric Berne: Master Gamesman byby Elizabeth Jorgensen and Henry Jorgensen  For more details of this book click here https://www.amazon.co.uk/Eric-Berne-Gamesman-Elizabeth-Jorgensen/dp/0394621247",
@@ -667,6 +942,28 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-12-16T11:26:57Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "X0XT0VZxKZk",
+    "title": "Integrative School - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the Integrative school and Richard Erskine - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=X0XT0VZxKZk",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-12-16T11:15:06Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "90Ec4BCSUQY",
+    "title": "The Cathexis School - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about the Cathexis School - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=90Ec4BCSUQY",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-12-01T20:35:46Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -682,6 +979,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "M5Gk3uxF5SA",
+    "title": "The Classical School -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the Classical School of Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=M5Gk3uxF5SA",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-11-25T22:01:13Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "qkU0SkraIHs",
     "title": "Psychodynamic Psychotherapy With Transactional Analysis - Book Review 64",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about . Psychodynamic Psychotherapy With Transactional Analysis Theory and Narration of a Living Experience By Anna Emanuela Tangolomore  for me details of this  book click here https://blackwells.co.uk/bookshop/product/9781782201557?gC=5a105e8b&gclid=CjwKCAiAiuTfBRAaEiwA4itUqFC95JHeDrnIOtWTUlIBc1PQvH-n8sxuWf_yoCCbidgZJQwJdRxvIhoCCa0QAvD_BwE",
@@ -693,6 +1001,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "ST2Cxey1AGg",
+    "title": "Redecision School - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the Redecision School Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=ST2Cxey1AGg",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-11-16T21:24:23Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "RhPwMT3PzJM",
     "title": "Eleanor Oliphant is Completely Fine - Book Review 62",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Eleanor Oliphant is Completely Fine By Gail Honeyman. For more details of this audio book here :https://www.audible.co.uk/pd/Eleanor-Oliphant-Is-Completely-Fine-Audiobook/B06XCP118Q?source_code=M2M30DFT1BkSH121515013C&ipRedirectOverride=true",
@@ -700,6 +1019,17 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-11-14T07:54:34Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "MrlnAacY1Z8",
+    "title": "The Parent Interview - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  The Parent Interview - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=MrlnAacY1Z8",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-10-21T11:00:47Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -726,6 +1056,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "VnHOTUq_n-M",
+    "title": "Deconfusion of the Child Ego State- Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Deconfusion of the Child Ego State - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=VnHOTUq_n-M",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-09-30T20:47:27Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "BV2Z-BOprsQ",
     "title": "Loves Executioner - Book Review 59",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Love's Executioner By Irvin Yalom https://www.amazon.co.uk/Loves-Executioner-Psychotherapy-Penguin-Psychology/dp/0140128468/ref=sr_1_2?ie=UTF8&qid=1537559378&sr=8-2&keywords=love+executioner",
@@ -733,6 +1074,28 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-09-21T20:29:32Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "wYYreCQikd0",
+    "title": "Decontamination -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Contamination ,Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=wYYreCQikd0",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-09-21T19:33:58Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "xFmFOseSTic",
+    "title": "Strokes- Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Strokes  somtimes reffered to a units of human recognition Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=xFmFOseSTic",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-09-01T12:32:24Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -748,6 +1111,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "TkrVev7ZQO8",
+    "title": "Symbiosis- Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Symbiosis-  Somtimes known as Co-Dependency - Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=TkrVev7ZQO8",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-08-12T10:47:45Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "NiZUvINh0pQ",
     "title": "Core Competencies of Relational Psychoanalysis - Book Review 57",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Core Competencies of Relational Psychoanalysis more details of this book click here;https://www.amazon.co.uk/s/?ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=roy+barness&rh=i%3Aaps%2Ck%3Aroy+barness",
@@ -755,6 +1129,17 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-08-11T10:11:44Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "89fvwXRUjJ8",
+    "title": "Contracting  - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the concept of Cotracting as described by Eric Berne  - For more infomation on Transactional Analysis as well as  details of our training courses  Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=89fvwXRUjJ8",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-07-28T10:38:27Z",
     "type": "video",
     "source": "YouTube"
   },
@@ -781,6 +1166,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "JKWPoPX7cIg",
+    "title": "Transactional Analysis Proper - Theory of communication - basic concepts in TA",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the one of the major concepts in Transactional Analysis - called Transactional Analysis Proper which is a theory of communication. Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=JKWPoPX7cIg",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-07-11T09:49:46Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "awe7G-n52NY",
     "title": "Games - Transactional Analysis",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Games in  Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
@@ -803,6 +1199,17 @@ export const videos = [
     "source": "YouTube"
   },
   {
+    "id": "OrA0--Muwg8",
+    "title": "Life Scripts -Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  Life Scripts in Transactional Analysis -  Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=OrA0--Muwg8",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-06-08T18:22:54Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
     "id": "X-nEu6rA4mU",
     "title": "Transactional Analysis: A Relational Perspective -Book Review 53",
     "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about Transactional Analysis: A Relational Perspective For more details of this book click https://www.amazon.co.uk/Transactional-Analysis-Relational-Perspective-Advancing/dp/1583911200",
@@ -810,6 +1217,17 @@ export const videos = [
     "category": "Book Reviews",
     "playlist": "Book Reviews",
     "publishedAt": "2018-06-07T21:05:42Z",
+    "type": "video",
+    "source": "YouTube"
+  },
+  {
+    "id": "XzjO1OS1aSg",
+    "title": "Ego States - Transactional Analysis",
+    "description": "Psychotherapist Bob Cooke TSTA Talks to Rory Lees-Oakes about  the Structural model Transactional Analysis - known as PAC model of the personality- Visit our website  http://www.mcpt.co.uk",
+    "url": "https://www.youtube.com/watch?v=XzjO1OS1aSg",
+    "category": "TA Theory Explained",
+    "playlist": "TA Theory Explained",
+    "publishedAt": "2018-06-03T10:29:39Z",
     "type": "video",
     "source": "YouTube"
   },
